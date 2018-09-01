@@ -1,0 +1,1160 @@
+,brand_name,brand_id,item_name,item_id,item_type,tag,calories,total_fat,saturated_fat,cholesterol,carbs,sugar,protein,sodium,dietary_fiber,servings_per_container,serving_size_qty,serving_size_unit,serving_weight_grams,last_updated
+1,McDonald's,513fbc1283aa2dc80c000053,"Southern Style Frozen Strawberry Lemonade, Large",23cb59491cbd32e486729d1a,drink,none,450.0,0.0,0.0,0.0,119.0,111.0,0.0,290.0,0.0,,22.1,oz,627.0,2017-09-06
+2,McDonald's,513fbc1283aa2dc80c000053,Strawberry & Creme Pie,23cb594937218f9c50ddeb7d,dessert,none,300.0,15.0,9.0,15.0,36.0,15.0,3.0,190.0,1.0,,3.3,oz,86.0,2017-09-06
+3,McDonald's,513fbc1283aa2dc80c000053,"Southern Style Frozen Strawberry Lemonade, Medium",23cb59494a057959dec387f3,drink,none,350.0,0.0,0.0,0.0,92.0,86.0,0.0,230.0,0.0,,17.7,oz,501.0,2017-09-06
+4,McDonald's,513fbc1283aa2dc80c000053,"Red Flash, Small",23cb59494ac875510abb8aac,drink,none,160.0,0.0,0.0,0.0,41.0,41.0,0.0,40.0,0.0,,12.6,oz,358.0,2017-09-06
+5,McDonald's,513fbc1283aa2dc80c000053,Chicken Selects (3 Piece),23cb5949657664a5b5057766,entree,none,380.0,22.0,3.5,70.0,21.0,0.0,24.0,690.0,1.0,,4.4,oz,124.0,2017-09-06
+6,McDonald's,513fbc1283aa2dc80c000053,"Frozen Classic Lemonade, Small",23cb59497bc717fd08e5e730,drink,none,140.0,0.0,0.0,0.0,36.0,32.0,0.0,10.0,0.0,,12.6,oz,357.0,2017-09-06
+7,McDonald's,513fbc1283aa2dc80c000053,"Frappe Oreo, Large",23cb59499253da4acf9c375f,drink,coffee,810.0,28.0,17.0,90.0,128.0,106.0,11.0,240.0,1.0,,22.9,oz,648.0,2017-09-06
+8,McDonald's,513fbc1283aa2dc80c000053,"Iced Strawberry Lemonade, Large",23cb5949a8ff6a8e11dc0f54,drink,none,220.0,0.0,0.0,0.0,57.0,50.0,1.0,20.0,1.0,,22.9,oz,649.0,2017-09-06
+9,McDonald's,513fbc1283aa2dc80c000053,"Southern Style Iced Lemonade, Large",23cb5949b80b1dea1d52849c,drink,none,240.0,0.0,0.0,0.0,64.0,58.0,0.0,180.0,0.0,,20.3,oz,574.0,2017-09-06
+10,McDonald's,513fbc1283aa2dc80c000053,"Frozen Classic Lemonade, Large",23cb5949cbb36b7bd23098eb,drink,none,250.0,0.0,0.0,0.0,63.0,56.0,0.0,15.0,0.0,,19.5,oz,553.0,2017-09-06
+11,McDonald's,513fbc1283aa2dc80c000053,"Iced Classic Lemonade, Small",23cb5949ce9c25ff996715fa,drink,none,100.0,0.0,0.0,0.0,25.0,21.0,0.0,10.0,1.0,,12.3,oz,348.0,2017-09-06
+12,McDonald's,513fbc1283aa2dc80c000053,"Frozen Strawberry Lemonade, Medium",23cb5949e9567f2b4eb5cb79,drink,none,230.0,0.0,0.0,0.0,61.0,54.0,1.0,15.0,1.0,,17.7,oz,501.0,2017-09-06
+13,McDonald's,513fbc1283aa2dc80c000053,"Bacon, Egg & Cheese Bagel",513fc9e73fe3ffd403001096,entree,breakfast,550.0,25.0,11.0,225.0,54.0,7.0,26.0,1260.0,4.0,,6.7,oz,191.0,2017-09-06
+14,McDonald's,513fbc1283aa2dc80c000053,Big Breakfast,513fc9e73fe3ffd40300109c,entree,breakfast,750.0,49.0,18.0,465.0,53.0,3.0,25.0,1490.0,3.0,,1.0,biscuit,269.0,2017-09-06
+15,McDonald's,513fbc1283aa2dc80c000053,"Latte Caramel, Large",513fc9e73fe3ffd4030010a1,drink,coffee,420.0,14.0,8.0,40.0,62.0,59.0,15.0,180.0,1.0,,20.0,fl oz cup,,2017-09-06
+16,McDonald's,513fbc1283aa2dc80c000053,"Mocha Caramel, Small",513fc9e73fe3ffd4030010a6,drink,coffee,320.0,11.0,7.0,35.0,46.0,39.0,10.0,180.0,1.0,,12.0,fl oz cup,,2017-09-06
+17,McDonald's,513fbc1283aa2dc80c000053,"Chocolate Shake, Medium",513fc9e73fe3ffd4030010b3,dessert,none,630.0,18.0,11.0,70.0,81.0,90.0,14.0,310.0,1.0,,16.0,fl oz,,2017-09-06
+18,McDonald's,513fbc1283aa2dc80c000053,"Coca-Cola, Medium",513fc9e73fe3ffd4030010b8,drink,none,220.0,0.0,0.0,0.0,57.0,57.0,0.0,50.0,0.0,,21.0,fl oz cup,,2017-09-06
+19,McDonald's,513fbc1283aa2dc80c000053,"Diet Coke, Large",513fc9e73fe3ffd4030010be,drink,none,0.0,0.0,0.0,0.0,0.0,0.0,0.0,95.0,0.0,,30.0,fl oz cup,,2017-09-06
+20,McDonald's,513fbc1283aa2dc80c000053,"Diet Coke, Small",513fc9e73fe3ffd4030010c0,drink,none,0.0,0.0,0.0,0.0,0.0,0.0,0.0,50.0,0.0,,16.0,fl oz cup,,2017-09-06
+21,McDonald's,513fbc1283aa2dc80c000053,Double Cheeseburger,513fc9e73fe3ffd4030010c5,entree,none,430.0,21.0,11.0,85.0,35.0,7.0,25.0,1040.0,2.0,,5.7,oz,163.0,2017-09-06
+22,McDonald's,513fbc1283aa2dc80c000053,Egg McMuffin,513fc9e73fe3ffd4030010cb,entree,breakfast,300.0,12.0,6.0,245.0,30.0,3.0,18.0,730.0,2.0,,1.0,muffin,136.0,2017-09-06
+23,McDonald's,513fbc1283aa2dc80c000053,"Latte French Vanilla, Large",513fc9e73fe3ffd4030010dd,drink,coffee,410.0,14.0,8.0,40.0,59.0,56.0,15.0,190.0,1.0,,20.0,fl oz cup,,2017-09-06
+24,McDonald's,513fbc1283aa2dc80c000053,Grilled Onion Cheddar Burger,513fc9e73fe3ffd4030010e4,entree,none,310.0,13.0,6.0,45.0,32.0,6.0,15.0,640.0,2.0,,4.0,oz,,2017-09-06
+25,McDonald's,513fbc1283aa2dc80c000053,"Latte Hazelnut, Small",513fc9e73fe3ffd4030010e9,drink,coffee,270.0,9.0,5.0,25.0,40.0,38.0,9.0,115.0,1.0,,12.0,fl oz cup,,2017-09-06
+26,McDonald's,513fbc1283aa2dc80c000053,Hot Mustard Sauce,513fc9e73fe3ffd4030010ef,misc,none,60.0,2.5,0.0,5.0,9.0,6.0,1.0,250.0,2.0,,0.8,sauce,22.0,2017-09-06
+27,McDonald's,513fbc1283aa2dc80c000053,Hotcake Syrup,513fc9e73fe3ffd4030010fc,misc,none,190.0,0.0,0.0,0.0,46.0,33.0,0.0,0.0,0.0,,1.0,pkg,60.0,2017-09-06
+28,McDonald's,513fbc1283aa2dc80c000053,"Iced Coffee Sugar Free French Vanilla, Small",513fc9e73fe3ffd403001104,drink,coffee,70.0,4.0,2.5,15.0,8.0,1.0,2.0,65.0,0.0,,16.0,fl oz cup,,2017-09-06
+29,McDonald's,513fbc1283aa2dc80c000053,"Iced Coffee French Vanilla, Medium",513fc9e73fe3ffd403001109,drink,coffee,150.0,5.0,3.5,20.0,27.0,25.0,2.0,60.0,0.0,,22.0,fl oz cup,,2017-09-06
+30,McDonald's,513fbc1283aa2dc80c000053,"Iced Coffee French Vanilla, Small",513fc9e73fe3ffd40300110a,drink,coffee,100.0,4.0,2.5,15.0,16.0,15.0,2.0,40.0,0.0,,16.0,fl oz cup,,2017-09-06
+31,McDonald's,513fbc1283aa2dc80c000053,"Iced Coffee, Medium",513fc9e73fe3ffd40300110f,drink,coffee,170.0,5.0,3.5,20.0,30.0,28.0,2.0,60.0,0.0,,22.0,fl oz cup,,2017-09-06
+32,McDonald's,513fbc1283aa2dc80c000053,"Iced Tea, Medium",513fc9e73fe3ffd40300111c,drink,none,0.0,0.0,0.0,0.0,0.0,0.0,1.0,15.0,0.0,,,,,2017-09-06
+33,McDonald's,513fbc1283aa2dc80c000053,Mac Snack Wrap,513fc9e73fe3ffd403001128,entree,none,340.0,20.0,7.0,50.0,26.0,2.0,15.0,660.0,2.0,,1.0,wrap,125.0,2017-09-06
+34,McDonald's,513fbc1283aa2dc80c000053,McDouble,513fc9e73fe3ffd403001130,entree,none,380.0,18.0,8.0,70.0,34.0,7.0,23.0,840.0,2.0,,5.2,oz,148.0,2017-09-06
+35,McDonald's,513fbc1283aa2dc80c000053,Newman's Own Low Fat Family Recipe Italian Dressing,513fc9e73fe3ffd403001147,misc,none,50.0,1.5,0.0,0.0,8.0,2.0,0.0,380.0,1.0,,1.0,dressing,,2017-09-06
+36,McDonald's,513fbc1283aa2dc80c000053,"POWERade Mountain Blast, Large",513fc9e73fe3ffd40300115f,drink,none,170.0,0.0,0.0,0.0,42.0,42.0,0.0,210.0,0.0,,30.0,fl oz cup,,2017-09-06
+37,McDonald's,513fbc1283aa2dc80c000053,"POWERade Mountain Blast, Small",513fc9e73fe3ffd403001161,drink,none,90.0,0.0,0.0,0.0,22.0,22.0,0.0,110.0,0.0,,16.0,fl oz cup,,2017-09-06
+38,McDonald's,513fbc1283aa2dc80c000053,"Ranch Snack Wrap, Grilled",513fc9e73fe3ffd403001173,entree,none,300.0,13.0,4.5,65.0,25.0,2.0,21.0,890.0,1.0,,4.5,oz,127.0,2017-09-06
+39,McDonald's,513fbc1283aa2dc80c000053,Sausage Biscuit with Egg,513fc9e73fe3ffd403001178,entree,breakfast,530.0,34.0,15.0,205.0,38.0,3.0,17.0,1140.0,2.0,,5.8,oz,164.0,2017-09-06
+40,McDonald's,513fbc1283aa2dc80c000053,Small French Fries,513fc9e73fe3ffd403001180,side,none,230.0,11.0,1.5,0.0,29.0,0.0,3.0,160.0,3.0,,1.0,fries,75.0,2017-09-06
+41,McDonald's,513fbc1283aa2dc80c000053,Strawberry Preserves,513fc9e73fe3ffd403001197,misc,none,35.0,0.0,0.0,0.0,9.0,9.0,0.0,0.0,0.0,,1.0,portion,14.0,2017-09-06
+42,McDonald's,513fbc1283aa2dc80c000053,"Sweet Tea, Extra Small",513fc9e73fe3ffd40300119d,drink,none,60.0,0.0,0.0,0.0,15.0,15.0,0.0,10.0,0.0,,12.0,fl oz,,2017-09-06
+43,McDonald's,513fbc1283aa2dc80c000053,Whipped Butter,513fc9e73fe3ffd4030011a7,misc,none,40.0,4.5,2.5,15.0,0.0,0.0,0.0,35.0,0.0,,1.0,pkg,6.0,2017-09-06
+44,McDonald's,513fbc1283aa2dc80c000053,"Bacon, Egg & Cheese Biscuit with Egg Whites",521b95c74a56d006d578b117,entree,breakfast,410.0,21.0,11.0,40.0,39.0,3.0,18.0,1290.0,2.0,,5.2,oz,148.0,2017-09-06
+45,McDonald's,513fbc1283aa2dc80c000053,"Premium McWrap Chicken & Ranch, Grilled",521b95c74a56d006d578b129,entree,none,490.0,19.0,7.0,120.0,41.0,5.0,39.0,1510.0,3.0,,10.7,oz,303.0,2017-09-06
+46,McDonald's,513fbc1283aa2dc80c000053,"Premium McWrap Chicken Sweet Chili, Buttermilk Crispy",521b95c74a56d006d578b12a,entree,none,580.0,24.0,5.0,65.0,65.0,11.0,26.0,1310.0,4.0,,10.6,oz,301.0,2017-09-06
+47,McDonald's,513fbc1283aa2dc80c000053,Sausage McMuffin with Egg Whites,521b95c74a56d006d578b131,entree,breakfast,430.0,26.0,11.0,60.0,29.0,3.0,20.0,830.0,2.0,,5.7,oz,161.0,2017-09-06
+48,McDonald's,513fbc1283aa2dc80c000053,"Steak, Egg & Cheese Bagel",534449c77ba4ca15456f5024,entree,breakfast,630.0,31.0,14.0,255.0,54.0,7.0,32.0,1450.0,4.0,,8.5,oz,242.0,2017-09-06
+49,McDonald's,513fbc1283aa2dc80c000053,Buffalo Ranch McChicken,534449c8bbe335144597ff2d,entree,none,360.0,16.0,3.0,40.0,40.0,5.0,15.0,800.0,2.0,,5.2,oz,148.0,2017-09-06
+50,McDonald's,513fbc1283aa2dc80c000053,"POWERADE Mountain Berry Blast, Large No Ice",c6408349094cc78479997ac5,drink,none,220.0,0.0,0.0,0.0,55.0,55.0,0.0,280.0,0.0,,,,,2017-09-06
+51,McDonald's,513fbc1283aa2dc80c000053,Egg and Cheese Bagel,c64083490b34098c971b1b62,entree,breakfast,480.0,20.0,9.0,210.0,53.0,7.0,20.0,1020.0,4.0,,,,,2017-09-06
+52,McDonald's,513fbc1283aa2dc80c000053,"Barq's Root Beer, Medium",c64083490bcd94104114ca51,drink,none,240.0,0.0,0.0,0.0,62.0,62.0,0.0,75.0,0.0,,,,,2017-09-06
+53,McDonald's,513fbc1283aa2dc80c000053,Buttermilk Crispy Chicken Biscuit,c64083490cd6cf4c297fd0f0,entree,breakfast,570.0,28.0,10.0,60.0,55.0,2.0,24.0,1380.0,3.0,,,,,2017-09-06
+54,McDonald's,513fbc1283aa2dc80c000053,"Mountain Dew, Large",c64083490fcd35f8e70c89d7,drink,none,90.0,0.0,0.0,0.0,24.0,24.0,0.0,55.0,0.0,,,,,2017-09-06
+55,McDonald's,513fbc1283aa2dc80c000053,"Caffeine Free Diet Coke, Large",c64083491114c6e8a65600ae,drink,none,0.0,0.0,0.0,0.0,0.0,0.0,0.0,95.0,0.0,,,,,2017-09-06
+56,McDonald's,513fbc1283aa2dc80c000053,"Tropicana Pink Lemonade, Medium No Ice",c6408349113cced0696efe0d,drink,none,80.0,0.0,0.0,0.0,20.0,20.0,0.0,75.0,0.0,,,,,2017-09-06
+57,McDonald's,513fbc1283aa2dc80c000053,"Tropicana Pink Lemonade, Large",c640834914456a383c1338f4,drink,none,80.0,0.0,0.0,0.0,22.0,22.0,0.0,110.0,0.0,,,,,2017-09-06
+58,McDonald's,513fbc1283aa2dc80c000053,"Pepsi, Large No Ice",c6408349150fdd90311f2cc0,drink,none,380.0,0.0,0.0,0.0,104.0,103.0,0.0,80.0,0.0,,,,,2017-09-06
+59,McDonald's,513fbc1283aa2dc80c000053,"Barq's Root Beer, Extra Small",c6408349187b1664428051f9,drink,none,130.0,0.0,0.0,0.0,33.0,33.0,0.0,40.0,0.0,,,,,2017-09-06
+60,McDonald's,513fbc1283aa2dc80c000053,"Picante Sauce Packet, Hot",c64083491dbe93983d555d80,misc,none,0.0,0.0,0.0,0.0,1.0,0.0,0.0,140.0,0.0,,,,,2017-09-06
+61,McDonald's,513fbc1283aa2dc80c000053,"Minute Maid Lemonade, Large No Ice",c64083491f4c7a2842dbf359,drink,none,330.0,0.0,0.0,0.0,88.0,88.0,0.0,190.0,0.0,,,,,2017-09-06
+62,McDonald's,513fbc1283aa2dc80c000053,Pico Guacamole Burger on Artisan Roll,c640834920a7309444c6c0f9,entree,none,630.0,33.0,13.0,95.0,51.0,12.0,32.0,1010.0,4.0,,,,,2017-09-06
+63,McDonald's,513fbc1283aa2dc80c000053,"Barq's Root Beer, Medium No Ice",c640834921ff37e8e6bdb91b,drink,none,290.0,0.0,0.0,0.0,76.0,76.0,0.0,95.0,0.0,,,,,2017-09-06
+64,McDonald's,513fbc1283aa2dc80c000053,"Arctic Orange Shake, Small",c640834922e1fa7803736da4,dessert,none,510.0,14.0,9.0,55.0,66.0,74.0,10.0,160.0,0.0,,,,,2017-09-06
+65,McDonald's,513fbc1283aa2dc80c000053,"Fanta Orange, Medium No Ice",c640834924667b143926d820,drink,none,290.0,0.0,0.0,0.0,76.0,75.0,0.0,70.0,0.0,,,,,2017-09-06
+66,McDonald's,513fbc1283aa2dc80c000053,Country Ham Biscuit,c640834928d92ac01bbbe898,entree,breakfast,340.0,14.0,8.0,35.0,36.0,2.0,15.0,1600.0,2.0,,,,,2017-09-06
+67,McDonald's,513fbc1283aa2dc80c000053,Biscuit Chicken Sausage,c64083492b34ccc044478c4d,entree,breakfast,350.0,17.0,8.0,50.0,36.0,2.0,13.0,1110.0,2.0,,,,,2017-09-06
+68,McDonald's,513fbc1283aa2dc80c000053,"Peppermint Mocha, Medium",c6408349302df17c6f473825,drink,coffee,410.0,14.0,8.0,40.0,59.0,52.0,12.0,190.0,1.0,,,,,2017-09-06
+69,McDonald's,513fbc1283aa2dc80c000053,"Mr. Pibb Xtra, Extra Small",c6408349326eae34459fa121,drink,none,120.0,0.0,0.0,0.0,32.0,32.0,0.0,20.0,0.0,,,,,2017-09-06
+70,McDonald's,513fbc1283aa2dc80c000053,"Caffeine Free Diet Coke, Small",c640834936106fb849713239,drink,none,0.0,0.0,0.0,0.0,0.0,0.0,0.0,50.0,0.0,,,,,2017-09-06
+71,McDonald's,513fbc1283aa2dc80c000053,"FUZE Raspberry Tea, Medium",c6408349364d2a18dc36d8b7,drink,none,120.0,0.0,0.0,0.0,32.0,31.0,0.0,70.0,0.0,,,,,2017-09-06
+72,McDonald's,513fbc1283aa2dc80c000053,Sriracha Buttermilk Crispy Chicken on Potato Roll,c64083493910b110607dc4dd,entree,none,680.0,33.0,7.0,80.0,65.0,8.0,30.0,1410.0,5.0,,,,,2017-09-06
+73,McDonald's,513fbc1283aa2dc80c000053,"Coffee, Medium",c6408349392738cc89679f72,drink,coffee,0.0,0.0,0.0,0.0,2.0,0.0,2.0,25.0,0.0,,,,,2017-09-06
+74,McDonald's,513fbc1283aa2dc80c000053,Big Breakfast Sausage and English Muffin,c6408349392c279c53295209,entree,breakfast,640.0,40.0,13.0,470.0,44.0,2.0,26.0,990.0,3.0,,,,,2017-09-06
+75,McDonald's,513fbc1283aa2dc80c000053,"Fanta Orange, Extra Small",c64083493a32a9c47aa622cd,drink,none,120.0,0.0,0.0,0.0,33.0,32.0,0.0,30.0,0.0,,,,,2017-09-06
+76,McDonald's,513fbc1283aa2dc80c000053,Hot Fudge Sundae EOTF,c64083493fbc4704d4e03ed3,dessert,none,320.0,9.0,6.0,30.0,43.0,47.0,8.0,160.0,2.0,,,,,2017-09-06
+77,McDonald's,513fbc1283aa2dc80c000053,BBQ Carver Sandwich,c64083494137dc715ce61405,entree,none,670.0,12.0,4.0,145.0,94.0,27.0,38.0,1930.0,5.0,,,,,2017-09-06
+78,McDonald's,513fbc1283aa2dc80c000053,"POWERADE Mountain Berry Blast, Medium No Ice",c640834944190fd5e7b0df5b,drink,none,150.0,0.0,0.0,0.0,38.0,38.0,0.0,200.0,0.0,,,,,2017-09-06
+79,McDonald's,513fbc1283aa2dc80c000053,"Fanta Strawberry, Small No Ice",c640834944e153a1a88db26e,drink,none,230.0,0.0,0.0,0.0,60.0,59.0,0.0,70.0,0.0,,,,,2017-09-06
+80,McDonald's,513fbc1283aa2dc80c000053,Cherry and Creme Pie,c640834949932b3dadd69252,dessert,none,290.0,16.0,9.0,15.0,34.0,14.0,3.0,65.0,0.0,,,,,2017-09-06
+81,McDonald's,513fbc1283aa2dc80c000053,"Cherry Coca-Cola, Extra Small",c640834950c4e3fd258d1bf0,drink,none,120.0,0.0,0.0,0.0,31.0,31.0,0.0,30.0,0.0,,,,,2017-09-06
+82,McDonald's,513fbc1283aa2dc80c000053,"Mello Yello, Small No Ice",c640834953b6a7ed6f37f03d,drink,none,220.0,0.0,0.0,0.0,58.0,58.0,0.0,65.0,0.0,,,,,2017-09-06
+83,McDonald's,513fbc1283aa2dc80c000053,Chicken McNuggets (50 Piece),c640834958e0eeb9b537921a,entree,none,2210.0,133.0,22.0,370.0,132.0,1.0,122.0,4210.0,9.0,,,,,2017-09-06
+84,McDonald's,513fbc1283aa2dc80c000053,Pico Guacamole Grilled Chicken Sandwich on Potato Roll,c6408349596c0205b2d870be,entree,none,470.0,17.0,5.0,115.0,40.0,6.0,38.0,1520.0,3.0,,,,,2017-09-06
+85,McDonald's,513fbc1283aa2dc80c000053,"Diet Pepsi, Large No Ice",c64083495dc2f0e565d214d9,drink,none,0.0,0.0,0.0,0.0,0.0,0.0,0.0,140.0,0.0,,,,,2017-09-06
+86,McDonald's,513fbc1283aa2dc80c000053,"Orange Crush, Extra Small",c64083495f121c818a2b2072,drink,none,30.0,0.0,0.0,0.0,9.0,9.0,0.0,20.0,0.0,,,,,2017-09-06
+87,McDonald's,513fbc1283aa2dc80c000053,"Minute Maid Fruit Punch Slushie, Medium",c6408349691f61313bbacdf4,drink,none,220.0,0.0,0.0,0.0,57.0,55.0,0.0,25.0,0.0,,,,,2017-09-06
+88,McDonald's,513fbc1283aa2dc80c000053,Marionberry Pie Ice Cream,c6408349692c65958f3d3ff6,dessert,none,270.0,15.0,9.0,40.0,31.0,17.0,4.0,95.0,0.0,,,,,2017-09-06
+89,McDonald's,513fbc1283aa2dc80c000053,"Red Flash, Extra Small No Ice",c64083496c2cdc8159ae7899,drink,none,160.0,0.0,0.0,0.0,41.0,41.0,0.0,40.0,0.0,,,,,2017-09-06
+90,McDonald's,513fbc1283aa2dc80c000053,"Fanta Fruit Punch, Medium",c64083496c63da3124fd16bc,drink,none,230.0,0.0,0.0,0.0,59.0,58.0,0.0,80.0,0.0,,,,,2017-09-06
+91,McDonald's,513fbc1283aa2dc80c000053,Udderly Chocolate Ice Cream,c64083496d3627c5461e7e31,dessert,none,320.0,17.0,11.0,40.0,37.0,26.0,5.0,115.0,1.0,,,,,2017-09-06
+92,McDonald's,513fbc1283aa2dc80c000053,"Diet Coke, Small No Ice",c64083496dd324d9c47fd79f,drink,none,0.0,0.0,0.0,0.0,0.0,0.0,0.0,65.0,0.0,,,,,2017-09-06
+93,McDonald's,513fbc1283aa2dc80c000053,"Sprite Zero, Large",c64083496e0cc781c7256c47,drink,none,5.0,0.0,0.0,0.0,0.0,0.0,0.0,50.0,0.0,,,,,2017-09-06
+94,McDonald's,513fbc1283aa2dc80c000053,"Fanta Strawberry, Extra Small",c640834973df08dde8719a9f,drink,none,130.0,0.0,0.0,0.0,33.0,33.0,0.0,40.0,0.0,,,,,2017-09-06
+95,McDonald's,513fbc1283aa2dc80c000053,"Hawaiian Punch Fruit Juicy Red, Medium",c64083497749152d5a81a2ad,drink,none,240.0,0.0,0.0,0.0,64.0,63.0,0.0,75.0,0.0,,,,,2017-09-06
+96,McDonald's,513fbc1283aa2dc80c000053,"Cherry Coke, Small No Ice",c640834977bac289441721e5,drink,none,210.0,0.0,0.0,0.0,56.0,56.0,0.0,55.0,0.0,,,,,2017-09-06
+97,McDonald's,513fbc1283aa2dc80c000053,"Mello Yello, Extra Small No Ice",c640834978e9753d85a88b82,drink,none,160.0,0.0,0.0,0.0,44.0,44.0,0.0,50.0,0.0,,,,,2017-09-06
+98,McDonald's,513fbc1283aa2dc80c000053,"Southern Style Sweet Tea, Gallon",c64083497b7445cde636dc8b,drink,none,2110.0,0.0,0.0,0.0,521.0,521.0,4.0,140.0,0.0,,,,,2017-09-06
+99,McDonald's,513fbc1283aa2dc80c000053,"Minute Maid Lemonade, Large",c64083497cb2876d1de0cffc,drink,none,270.0,0.0,0.0,0.0,72.0,69.0,0.0,180.0,0.0,,,,,2017-09-06
+100,McDonald's,513fbc1283aa2dc80c000053,"Minute Maid Light Lemonade, Extra Small",c64083497d6de385fb713c4b,drink,none,5.0,0.0,0.0,0.0,2.0,0.0,0.0,20.0,0.0,,,,,2017-09-06
+101,McDonald's,513fbc1283aa2dc80c000053,"Mist Twist, Medium No Ice",c64083497e62fb290c559318,drink,none,270.0,0.0,0.0,0.0,71.0,71.0,0.0,60.0,0.0,,,,,2017-09-06
+102,McDonald's,513fbc1283aa2dc80c000053,"Dr Pepper, Medium No Ice",c64083497ef225d5fb1c0883,drink,none,70.0,0.0,0.0,0.0,19.0,19.0,0.0,20.0,0.0,,,,,2017-09-06
+103,McDonald's,513fbc1283aa2dc80c000053,Chocolate Coffee Cake,c640834987a34da65a58b785,dessert,breakfast,170.0,8.0,2.5,20.0,21.0,13.0,2.0,180.0,1.0,,,,,2017-09-06
+104,McDonald's,513fbc1283aa2dc80c000053,"Diet Dr Pepper, Extra Small No Ice",c64083498d05c812739d6201,drink,none,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.0,0.0,,,,,2017-09-06
+105,McDonald's,513fbc1283aa2dc80c000053,Mixed Berry and Lemon Creme Pie,c64083498e20904614342380,dessert,none,290.0,16.0,9.0,15.0,35.0,13.0,3.0,170.0,2.0,,,,,2017-09-06
+106,McDonald's,513fbc1283aa2dc80c000053,Cinnamon Coffee Cake,c64083498ed2241e56f001a1,dessert,breakfast,160.0,7.0,2.0,20.0,22.0,13.0,2.0,125.0,1.0,,,,,2017-09-06
+107,McDonald's,513fbc1283aa2dc80c000053,"Coca-Cola Zero, Medium No Ice",c6408349905e7a2e410c61a1,drink,none,0.0,0.0,0.0,0.0,0.0,0.0,0.0,70.0,0.0,,,,,2017-09-06
+108,McDonald's,513fbc1283aa2dc80c000053,"Vitamin Water XXX Zero, Extra Small",c64083499173e98a3d38c3b8,drink,none,0.0,0.0,0.0,0.0,0.0,0.0,0.0,30.0,0.0,,,,,2017-09-06
+109,McDonald's,513fbc1283aa2dc80c000053,"Coca-Cola Zero, Medium",c64083499218f4e2daeeab43,drink,none,0.0,0.0,0.0,0.0,0.0,0.0,0.0,55.0,0.0,,,,,2017-09-06
+110,McDonald's,513fbc1283aa2dc80c000053,"Orange Crush, Extra Small No Ice",c640834995a14d3a4da52151,drink,none,45.0,0.0,0.0,0.0,12.0,12.0,0.0,15.0,0.0,,,,,2017-09-06
+111,McDonald's,513fbc1283aa2dc80c000053,Turtle Brownie Sundae,c640834999b9d12ac15869bf,dessert,none,620.0,23.0,12.0,50.0,84.0,70.0,10.0,300.0,3.0,,,,,2017-09-06
+112,McDonald's,513fbc1283aa2dc80c000053,"Wild Cherry ICEE, Medium",c64083499bcb2d42e70dcf63,drink,none,180.0,0.0,0.0,0.0,45.0,45.0,0.0,15.0,0.0,,,,,2017-09-06
+113,McDonald's,513fbc1283aa2dc80c000053,Double Homestyle Burger,c6408349a2f7ef9a300c595c,entree,none,690.0,39.0,16.0,150.0,38.0,7.0,46.0,920.0,3.0,,,,,2017-09-06
+114,McDonald's,513fbc1283aa2dc80c000053,"Orange Crush, Medium No Ice",c6408349a328fa0ac70e620b,drink,none,80.0,0.0,0.0,0.0,22.0,22.0,0.0,25.0,0.0,,,,,2017-09-06
+115,McDonald's,513fbc1283aa2dc80c000053,"Mountain Dew, Extra Small No Ice",c6408349a643feeacd51d6d7,drink,none,45.0,0.0,0.0,0.0,12.0,12.0,0.0,15.0,0.0,,,,,2017-09-06
+116,McDonald's,513fbc1283aa2dc80c000053,"Bacon, Egg & Cheese Scratch Biscuit",c6408349a8c0d1c2e4aeb57b,entree,breakfast,480.0,25.0,12.0,235.0,43.0,4.0,19.0,1310.0,3.0,,,,,2017-09-06
+117,McDonald's,513fbc1283aa2dc80c000053,"Sprite, Medium No Ice",c6408349a98d55267ec79529,drink,none,260.0,0.0,0.0,0.0,68.0,67.0,0.0,120.0,0.0,,,,,2017-09-06
+118,McDonald's,513fbc1283aa2dc80c000053,"Sprite Zero, Medium No Ice",c6408349aa0940765e7dddf9,drink,none,5.0,0.0,0.0,0.0,0.0,0.0,0.0,40.0,0.0,,,,,2017-09-06
+119,McDonald's,513fbc1283aa2dc80c000053,McFlurry with Twix,c6408349ad4deaf61b3a8ea4,dessert,none,620.0,17.0,10.0,45.0,87.0,90.0,12.0,230.0,1.0,,,,,2017-09-06
+120,McDonald's,513fbc1283aa2dc80c000053,"Tropicana Pink Lemonade, Small No Ice",c6408349ae8303ce41a1e55d,drink,none,45.0,0.0,0.0,0.0,11.0,11.0,0.0,45.0,0.0,,,,,2017-09-06
+121,McDonald's,513fbc1283aa2dc80c000053,Plain Sundae,c6408349b061a3ea4ac32859,dessert,none,210.0,6.0,4.0,25.0,21.0,28.0,6.0,85.0,0.0,,,,,2017-09-06
+122,McDonald's,513fbc1283aa2dc80c000053,"Caffeine Free Diet Coke, Medium No Ice",c6408349b0b0676e41a0544d,drink,none,0.0,0.0,0.0,0.0,0.0,0.0,0.0,85.0,0.0,,,,,2017-09-06
+123,McDonald's,513fbc1283aa2dc80c000053,Local Deluxe Breakfast,c6408349b25b501e718b2fe1,entree,breakfast,900.0,45.0,16.0,520.0,82.0,2.0,38.0,1340.0,1.0,,,,,2017-09-06
+124,McDonald's,513fbc1283aa2dc80c000053,Mustard Packet,c6408349b364803e5c9b5d31,misc,none,0.0,0.0,0.0,0.0,0.0,0.0,0.0,65.0,0.0,,,,,2017-09-06
+125,McDonald's,513fbc1283aa2dc80c000053,Steak & Egg Burrito,c6408349b496a192d4b8cb47,entree,breakfast,350.0,15.0,6.0,115.0,38.0,3.0,16.0,950.0,2.0,,,,,2017-09-06
+126,McDonald's,513fbc1283aa2dc80c000053,One Quarter Rotisserie Chicken White Platter,c6408349b8949aca2ca326e0,entree,none,810.0,29.0,12.0,190.0,84.0,23.0,53.0,1410.0,9.0,,,,,2017-09-06
+127,McDonald's,513fbc1283aa2dc80c000053,Chocolate Peanut Butter Ice Cream,c6408349b95173229edc274e,dessert,none,340.0,21.0,11.0,40.0,35.0,18.0,6.0,140.0,2.0,,,,,2017-09-06
+128,McDonald's,513fbc1283aa2dc80c000053,"POWERADE Mountain Berry Blast, Small No Ice",c6408349ba292dceebbb477b,drink,none,120.0,0.0,0.0,0.0,29.0,29.0,0.0,150.0,0.0,,,,,2017-09-06
+129,McDonald's,513fbc1283aa2dc80c000053,"Vitamin Water XXX Zero, Small",c6408349bfb250261989b854,drink,none,0.0,0.0,0.0,0.0,0.0,0.0,0.0,40.0,0.0,,,,,2017-09-06
+130,McDonald's,513fbc1283aa2dc80c000053,"Fanta Grape, Large No Ice",c6408349c1010e7f563cd179,drink,none,420.0,0.0,0.0,0.0,110.0,108.0,0.0,135.0,0.0,,,,,2017-09-06
+131,McDonald's,513fbc1283aa2dc80c000053,"Espresso Americano Coffee, Large",c6408349c3bb935bd7294983,drink,coffee,0.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,0.0,,,,,2017-09-06
+132,McDonald's,513fbc1283aa2dc80c000053,Caesar McWrap With Artisan Grilled Chicken,c6408349c529f68bd3a0f90b,entree,none,470.0,18.0,5.0,110.0,40.0,5.0,38.0,1440.0,3.0,,,,,2017-09-06
+133,McDonald's,513fbc1283aa2dc80c000053,"Barq's Caffeine Free Root Beer, Small",c6408349c552482358d6c105,drink,none,170.0,0.0,0.0,0.0,44.0,43.0,0.0,70.0,0.0,,,,,2017-09-06
+134,McDonald's,513fbc1283aa2dc80c000053,"Cherry Coca-Cola, Small",c6408349c5f490475b84e3c5,drink,none,160.0,0.0,0.0,0.0,42.0,42.0,0.0,40.0,0.0,,,,,2017-09-06
+135,McDonald's,513fbc1283aa2dc80c000053,"Iced Caramel Machhiato, Small",c6408349cb1df3afabae93ea,drink,none,210.0,6.0,3.5,20.0,32.0,28.0,7.0,270.0,0.0,,,,,2017-09-06
+136,McDonald's,513fbc1283aa2dc80c000053,Mac N Cheese,c6408349cd18f74b00695ff8,side,none,130.0,4.0,2.5,10.0,16.0,4.0,6.0,240.0,1.0,,,,,2017-09-06
+137,McDonald's,513fbc1283aa2dc80c000053,"Vernor's Ginger Soda, Medium No Ice",c6408349cfc2eb0b3358eed4,drink,none,250.0,0.0,0.0,0.0,68.0,67.0,0.0,85.0,0.0,,,,,2017-09-06
+138,McDonald's,513fbc1283aa2dc80c000053,Green Chili Double Cheeseburger,c6408349d0a9720355b5458d,entree,none,390.0,18.0,8.0,70.0,34.0,7.0,23.0,760.0,2.0,,,,,2017-09-06
+139,McDonald's,513fbc1283aa2dc80c000053,Bacon Double Cheeseburger,c6408349d1b1333fc4f55533,entree,breakfast,500.0,26.0,12.0,100.0,36.0,8.0,30.0,1280.0,3.0,,,,,2017-09-06
+140,McDonald's,513fbc1283aa2dc80c000053,Biscuit and Homestyle Gravy,c6408349d1e78a9386957bfe,entree,breakfast,550.0,33.0,15.0,25.0,54.0,7.0,9.0,1740.0,2.0,,,,,2017-09-06
+141,McDonald's,513fbc1283aa2dc80c000053,"Fanta Grape, Small",c6408349d210b9cb5f5a4cd1,drink,none,170.0,0.0,0.0,0.0,44.0,43.0,0.0,55.0,0.0,,,,,2017-09-06
+142,McDonald's,513fbc1283aa2dc80c000053,"Fanta Orange, Small No Ice",c6408349d2fe8757c8f88613,drink,none,220.0,0.0,0.0,0.0,58.0,57.0,0.0,55.0,0.0,,,,,2017-09-06
+143,McDonald's,513fbc1283aa2dc80c000053,"Hawaiian Punch Fruit Juicy Red, Large",c6408349d3b961c7af4baa66,drink,none,320.0,0.0,0.0,0.0,86.0,85.0,0.0,105.0,0.0,,,,,2017-09-06
+144,McDonald's,513fbc1283aa2dc80c000053,"Southern Style Sweet Tea, Small",c6408349d86301371a679094,drink,none,110.0,0.0,0.0,0.0,27.0,27.0,0.0,15.0,0.0,,,,,2017-09-06
+145,McDonald's,513fbc1283aa2dc80c000053,"Sprite Zero, Small",c6408349da5994ff28464f94,drink,none,0.0,0.0,0.0,0.0,0.0,0.0,0.0,45.0,0.0,,,,,2017-09-06
+146,McDonald's,513fbc1283aa2dc80c000053,"Barq's Root Beer, Small No Ice",c6408349dc9b55bbcbfbbea7,drink,none,220.0,0.0,0.0,0.0,58.0,58.0,0.0,70.0,0.0,,,,,2017-09-06
+147,McDonald's,513fbc1283aa2dc80c000053,"Mello Yello, Extra Small",c6408349dd4ed18b9cf79512,drink,none,120.0,0.0,0.0,0.0,33.0,33.0,0.0,40.0,0.0,,,,,2017-09-06
+148,McDonald's,513fbc1283aa2dc80c000053,Waffle Cone Sundae With Fudge Topping,c6408349df95a24725a31bd4,dessert,none,430.0,12.0,8.0,30.0,64.0,51.0,9.0,210.0,3.0,,,,,2017-09-06
+149,McDonald's,513fbc1283aa2dc80c000053,"Fanta Grape, Large",c6408349e0c45a2f7a42d281,drink,none,330.0,0.0,0.0,0.0,85.0,83.0,0.0,100.0,0.0,,,,,2017-09-06
+151,McDonald's,513fbc1283aa2dc80c000053,"Diet Pepsi, Medium",c6408349e3d1961341a1b059,drink,none,0.0,0.0,0.0,0.0,0.0,0.0,0.0,80.0,0.0,,,,,2017-09-06
+152,McDonald's,513fbc1283aa2dc80c000053,"Hi-C Flashn' Fruit Punch, Medium",c6408349ead4f30f7103a3f5,drink,none,220.0,0.0,0.0,0.0,60.0,60.0,0.0,30.0,0.0,,,,,2017-09-06
+153,McDonald's,513fbc1283aa2dc80c000053,"Diet Dr Pepper, Small No Ice",c6408349ef4cef7b877a65ce,drink,none,0.0,0.0,0.0,0.0,0.0,0.0,0.0,25.0,0.0,,,,,2017-09-06
+154,McDonald's,513fbc1283aa2dc80c000053,Deluxe Burger on Sesame Seed Bun,c6408349f0a78fd3ee56521b,entree,none,470.0,24.0,10.0,80.0,37.0,7.0,26.0,530.0,2.0,,,,,2017-09-06
+155,McDonald's,513fbc1283aa2dc80c000053,Big Breakfast Bacon Sausage Scrambled with Hotcakes and Muffin,c6408349f0bd54a77c8553c1,entree,breakfast,1310.0,61.0,22.0,525.0,147.0,48.0,40.0,1840.0,5.0,,,,,2017-09-06
+156,McDonald's,513fbc1283aa2dc80c000053,"Mr. Pibb Xtra, Small",c6408349f0f7dec7706524dd,drink,none,170.0,0.0,0.0,0.0,45.0,45.0,0.0,25.0,0.0,,,,,2017-09-06
+157,McDonald's,513fbc1283aa2dc80c000053,"Sweet Tea, Medium No Ice",c6408349f3bb72af6317f38d,drink,none,200.0,0.0,0.0,0.0,49.0,49.0,1.0,20.0,0.0,,,,,2017-09-06
+158,McDonald's,513fbc1283aa2dc80c000053,"Egg Nog Shake, Small",c6408349f5363b7fba7681f2,dessert,none,470.0,14.0,9.0,55.0,61.0,64.0,10.0,160.0,0.0,,,,,2017-09-06
+159,McDonald's,513fbc1283aa2dc80c000053,"Hawaiian Punch Fruit Juicy Red, Extra Small",c6408349f72fb8bb9302c496,drink,none,120.0,0.0,0.0,0.0,32.0,31.0,0.0,40.0,0.0,,,,,2017-09-06
+160,McDonald's,513fbc1283aa2dc80c000053,"Iced French Vanilla Latte, Small",c6408349f90f090bda3f71ff,drink,coffee,190.0,6.0,3.5,20.0,28.0,27.0,7.0,90.0,0.0,,,,,2017-09-06
+161,McDonald's,513fbc1283aa2dc80c000053,Tuxedo Coffee Cake,c6408349f98c9dbf9bb5d806,dessert,breakfast,170.0,8.0,2.5,30.0,21.0,12.0,2.0,135.0,1.0,,,,,2017-09-06
+164,McDonald's,513fbc1283aa2dc80c000053,Artisan Grilled Chicken Sandwich,23cb5949555055ed8a5f0e22,entree,none,380.0,7.0,2.0,95.0,44.0,11.0,37.0,1110.0,3.0,,7.2,oz,204.0,2017-09-06
+165,McDonald's,513fbc1283aa2dc80c000053,"Iced Strawberry Lemonade, Medium",23cb59495e4e0d7da1f215fa,drink,none,160.0,0.0,0.0,0.0,43.0,37.0,1.0,15.0,1.0,,17.6,oz,500.0,2017-09-06
+166,McDonald's,513fbc1283aa2dc80c000053,"Southern Style Iced Lemonade, Medium",23cb59496a7b3dd1bc70a7c6,drink,none,180.0,0.0,0.0,0.0,48.0,43.0,0.0,135.0,0.0,,15.6,oz,441.0,2017-09-06
+167,McDonald's,513fbc1283aa2dc80c000053,"Southern Style Iced Lemonade, Small",23cb59496ec18df1f475cee7,drink,none,140.0,0.0,0.0,0.0,37.0,33.0,0.0,105.0,0.0,,12.3,oz,348.0,2017-09-06
+168,McDonald's,513fbc1283aa2dc80c000053,"Red Flash, Medium",23cb594977f3994d23ba4024,drink,none,230.0,0.0,0.0,0.0,59.0,59.0,0.0,60.0,0.0,,18.2,oz,515.0,2017-09-06
+169,McDonald's,513fbc1283aa2dc80c000053,Cuties,23cb59497a5ac81576c95bd1,side,none,35.0,0.0,0.0,0.0,8.0,6.0,0.0,0.0,0.0,,2.2,oz,62.0,2017-09-06
+170,McDonald's,513fbc1283aa2dc80c000053,"Frozen Classic Lemonade, Medium",23cb5949b7d8baaa20a9db18,drink,none,180.0,0.0,0.0,0.0,46.0,41.0,0.0,10.0,0.0,,15.6,oz,442.0,2017-09-06
+171,McDonald's,513fbc1283aa2dc80c000053,"Southern Style Iced Strawberry Lemonade, Medium",23cb5949d03c367748f6b3d1,drink,none,220.0,0.0,0.0,0.0,59.0,53.0,1.0,135.0,1.0,,17.6,oz,500.0,2017-09-06
+172,McDonald's,513fbc1283aa2dc80c000053,1% Low Fat Milk Jug,513fc9e73fe3ffd40300108e,drink,none,100.0,2.5,1.5,10.0,12.0,12.0,8.0,125.0,0.0,,1.0,carton,,2017-09-06
+173,McDonald's,513fbc1283aa2dc80c000053,Mozzarella Sticks (3 Piece),513fc9e73fe3ffd403001095,side,none,190.0,10.0,4.0,20.0,18.0,1.0,8.0,460.0,1.0,,2.3,oz,65.0,2017-09-06
+174,McDonald's,513fbc1283aa2dc80c000053,Chicken McNuggets (6 piece),513fc9e73fe3ffd4030010ab,entree,none,270.0,16.0,2.5,45.0,16.0,0.0,15.0,510.0,1.0,,6.0,pieces,97.0,2017-09-06
+175,McDonald's,513fbc1283aa2dc80c000053,"Chocolate Shake, Small",513fc9e73fe3ffd4030010b2,dessert,none,530.0,15.0,10.0,60.0,68.0,75.0,12.0,260.0,1.0,,12.0,fl oz,,2017-09-06
+176,McDonald's,513fbc1283aa2dc80c000053,"Coca-Cola, Large No Ice",513fc9e73fe3ffd4030010b7,drink,none,380.0,0.0,0.0,0.0,100.0,100.0,0.0,90.0,0.0,,30.0,fl oz cup,,2017-09-06
+177,McDonald's,513fbc1283aa2dc80c000053,"Diet Coke, Extra Small",513fc9e73fe3ffd4030010bd,drink,none,0.0,0.0,0.0,0.0,0.0,0.0,0.0,35.0,0.0,,12.0,fl oz cup,,2017-09-06
+178,McDonald's,513fbc1283aa2dc80c000053,"Diet Dr Pepper, Medium",513fc9e73fe3ffd4030010c4,drink,none,0.0,0.0,0.0,0.0,0.0,0.0,0.0,35.0,0.0,,16.0,fl oz cup,,2017-09-06
+179,McDonald's,513fbc1283aa2dc80c000053,"Dr Pepper, Medium",513fc9e73fe3ffd4030010c9,drink,none,210.0,0.0,0.0,0.0,58.0,57.0,0.0,70.0,0.0,,21.0,fl oz cup,,2017-09-06
+180,McDonald's,513fbc1283aa2dc80c000053,"Dr Pepper, Small",513fc9e73fe3ffd4030010ca,drink,none,170.0,0.0,0.0,0.0,46.0,45.0,0.0,55.0,0.0,,16.0,fl oz cup,,2017-09-06
+181,McDonald's,513fbc1283aa2dc80c000053,Filet-O-Fish,513fc9e73fe3ffd4030010cf,entree,none,410.0,20.0,5.0,50.0,39.0,5.0,18.0,660.0,2.0,,1.0,sandwich,142.0,2017-09-06
+182,McDonald's,513fbc1283aa2dc80c000053,"Frappe Caramel, Small",513fc9e73fe3ffd4030010d6,drink,coffee,420.0,18.0,11.0,65.0,60.0,55.0,7.0,125.0,0.0,,12.0,fl oz cup,,2017-09-06
+183,McDonald's,513fbc1283aa2dc80c000053,"Frappe Mocha, Small",513fc9e73fe3ffd4030010dc,drink,coffee,420.0,17.0,11.0,60.0,60.0,54.0,7.0,120.0,1.0,,12.0,fl oz cup,,2017-09-06
+184,McDonald's,513fbc1283aa2dc80c000053,Grape Jam,513fc9e73fe3ffd4030010e3,misc,none,40.0,0.0,0.0,0.0,9.0,7.0,0.0,0.0,0.0,,1.0,jam,14.0,2017-09-06
+185,McDonald's,513fbc1283aa2dc80c000053,"Latte Hazelnut, Medium",513fc9e73fe3ffd4030010e8,drink,coffee,330.0,10.0,6.0,30.0,50.0,47.0,11.0,135.0,1.0,,16.0,fl oz cup,,2017-09-06
+186,McDonald's,513fbc1283aa2dc80c000053,Honey,513fc9e73fe3ffd4030010ee,misc,none,50.0,0.0,0.0,0.0,12.0,11.0,0.0,0.0,0.0,,1.0,pkg,14.0,2017-09-06
+187,McDonald's,513fbc1283aa2dc80c000053,"Hot Chocolate, Small",513fc9e73fe3ffd4030010f5,drink,none,360.0,13.0,8.0,40.0,50.0,45.0,11.0,180.0,1.0,,12.0,fl oz cup,,2017-09-06
+188,McDonald's,513fbc1283aa2dc80c000053,"Iced Coffee Sugar Free French Vanilla, Medium",513fc9e73fe3ffd403001103,drink,coffee,90.0,5.0,3.5,20.0,11.0,1.0,2.0,90.0,0.0,,22.0,fl oz cup,,2017-09-06
+189,McDonald's,513fbc1283aa2dc80c000053,"Iced Coffee French Vanilla, Large",513fc9e73fe3ffd403001108,drink,coffee,220.0,7.0,4.5,30.0,40.0,37.0,3.0,85.0,0.0,,32.0,fl oz cup,,2017-09-06
+190,McDonald's,513fbc1283aa2dc80c000053,"Iced Coffee, Large",513fc9e73fe3ffd40300110e,drink,coffee,240.0,7.0,4.5,30.0,44.0,41.0,3.0,80.0,0.0,,32.0,fl oz cup,,2017-09-06
+191,McDonald's,513fbc1283aa2dc80c000053,"Iced Coffee, Small",513fc9e73fe3ffd403001110,drink,coffee,130.0,4.0,2.5,15.0,23.0,22.0,1.0,40.0,0.0,,16.0,fl oz cup,,2017-09-06
+192,McDonald's,513fbc1283aa2dc80c000053,"Iced Tea, Large",513fc9e73fe3ffd40300111b,drink,none,5.0,0.0,0.0,0.0,0.0,0.0,1.0,20.0,0.0,,,,,2017-09-06
+193,McDonald's,513fbc1283aa2dc80c000053,"Latte Sugar Free French Vanilla, Small",513fc9e73fe3ffd403001127,drink,coffee,210.0,9.0,5.0,25.0,23.0,12.0,9.0,150.0,1.0,,12.0,fl oz cup,,2017-09-06
+194,McDonald's,513fbc1283aa2dc80c000053,Medium French Fries,513fc9e73fe3ffd403001139,side,none,340.0,16.0,2.0,0.0,44.0,0.0,4.0,230.0,4.0,,1.0,fries,111.0,2017-09-06
+195,McDonald's,513fbc1283aa2dc80c000053,Minute Maid 100% Apple Juice Box,513fc9e73fe3ffd40300113a,drink,none,80.0,0.0,0.0,0.0,21.0,19.0,0.0,15.0,0.0,,6.0,fl oz,,2017-09-06
+196,McDonald's,513fbc1283aa2dc80c000053,Newman's Own Low Fat Balsamic Vinaigrette,513fc9e73fe3ffd403001146,misc,none,35.0,1.5,0.0,0.0,5.0,3.0,0.0,400.0,0.0,,1.0,dressing,,2017-09-06
+197,McDonald's,513fbc1283aa2dc80c000053,"POWERade Mountain Blast, Extra Small",513fc9e73fe3ffd40300115e,drink,none,70.0,0.0,0.0,0.0,16.0,16.0,0.0,85.0,0.0,,12.0,fl oz cup,,2017-09-06
+198,McDonald's,513fbc1283aa2dc80c000053,"POWERade Mountain Blast, Medium",513fc9e73fe3ffd403001160,drink,none,120.0,0.0,0.0,0.0,31.0,31.0,0.0,160.0,0.0,,21.0,fl oz cup,,2017-09-06
+199,McDonald's,513fbc1283aa2dc80c000053,"Ranch Snack Wrap, Buttermilk Crispy",513fc9e73fe3ffd403001172,entree,none,380.0,20.0,6.0,45.0,34.0,2.0,16.0,830.0,2.0,,4.6,oz,129.0,2017-09-06
+200,McDonald's,513fbc1283aa2dc80c000053,"Sausage, Egg & Cheese McGriddles",513fc9e73fe3ffd40300117d,entree,breakfast,550.0,32.0,13.0,215.0,45.0,15.0,20.0,1280.0,2.0,,7.2,oz,205.0,2017-09-06
+201,McDonald's,513fbc1283aa2dc80c000053,"McFlurry with Oreo Cookies, Snack Size",513fc9e73fe3ffd403001184,dessert,none,340.0,11.0,6.0,30.0,40.0,42.0,8.0,180.0,0.0,,1.0,McFlurry,190.0,2017-09-06
+202,McDonald's,513fbc1283aa2dc80c000053,Signature Sriracha Buttermilk Crispy Chicken Sandwich,513fc9e73fe3ffd403001189,entree,none,730.0,33.0,7.0,80.0,75.0,13.0,32.0,1430.0,5.0,,5.7,oz,162.0,2017-09-06
+203,McDonald's,513fbc1283aa2dc80c000053,Spicy Buffalo Sauce,513fc9e73fe3ffd40300118a,misc,none,30.0,3.0,0.0,0.0,1.0,0.0,0.0,510.0,0.0,,1.0,sauce,22.0,2017-09-06
+204,McDonald's,513fbc1283aa2dc80c000053,"Sprite, Medium",513fc9e73fe3ffd40300118f,drink,none,210.0,0.0,0.0,0.0,55.0,54.0,0.0,95.0,0.0,,21.0,fl oz cup,,2017-09-06
+205,McDonald's,513fbc1283aa2dc80c000053,"Strawberry Shake, Large",513fc9e73fe3ffd403001196,dessert,none,810.0,23.0,15.0,95.0,97.0,115.0,19.0,310.0,0.0,,22.0,fl oz,,2017-09-06
+206,McDonald's,513fbc1283aa2dc80c000053,Tangy Barbeque Sauce,513fc9e73fe3ffd4030011a1,misc,none,45.0,0.0,0.0,0.0,11.0,9.0,0.0,260.0,0.0,,1.0,pkg,28.0,2017-09-06
+207,McDonald's,513fbc1283aa2dc80c000053,"Bacon, Egg & Cheese McGriddles with Egg Whites",521b95c74a56d006d578b118,entree,breakfast,380.0,15.0,7.0,35.0,44.0,15.0,18.0,1230.0,2.0,,1.0,meal,178.0,2017-09-06
+208,McDonald's,513fbc1283aa2dc80c000053,"Premium McWrap Chicken Sweet Chili, Grilled",521b95c74a56d006d578b12b,entree,none,420.0,10.0,3.0,100.0,46.0,11.0,35.0,1420.0,3.0,,10.4,oz,296.0,2017-09-06
+209,McDonald's,513fbc1283aa2dc80c000053,"Sausage, Egg & Cheese McGriddles with Egg Whites",521b95c74a56d006d578b132,entree,breakfast,510.0,29.0,12.0,55.0,44.0,15.0,19.0,1270.0,2.0,,7.3,oz,206.0,2017-09-06
+210,McDonald's,513fbc1283aa2dc80c000053,Bacon Clubhouse Burger,ae495051ca85401f77d25ce9,entree,breakfast,740.0,41.0,16.0,120.0,51.0,14.0,40.0,1420.0,4.0,,9.7,oz,274.0,2017-09-06
+211,McDonald's,513fbc1283aa2dc80c000053,Chicken McNuggets (40 piece),ae495051f4042f9fabd0857a,entree,none,1770.0,107.0,18.0,295.0,105.0,1.0,98.0,3370.0,7.0,,1.0,plating,646.0,2017-09-06
+212,McDonald's,513fbc1283aa2dc80c000053,Grilled Onion Cheddar Burger Triple,c64083490295790ca1f8709a,entree,none,530.0,29.0,14.0,115.0,35.0,6.0,32.0,1080.0,2.0,,,,,2017-09-06
+213,McDonald's,513fbc1283aa2dc80c000053,"Sprite Zero, Extra Small",c640834902e8653c493de1e1,drink,none,0.0,0.0,0.0,0.0,0.0,0.0,0.0,35.0,0.0,,,,,2017-09-06
+214,McDonald's,513fbc1283aa2dc80c000053,"Barq's Root Beer, Extra Small No Ice",c64083490310573447d0be9d,drink,none,170.0,0.0,0.0,0.0,44.0,44.0,0.0,55.0,0.0,,,,,2017-09-06
+215,McDonald's,513fbc1283aa2dc80c000053,Bacon McDouble New York,c6408349075b761439af5094,entree,breakfast,450.0,22.0,10.0,85.0,34.0,7.0,28.0,1080.0,2.0,,,,,2017-09-06
+216,McDonald's,513fbc1283aa2dc80c000053,"Mountain Dew, Extra Small",c640834907ea86742600b6c0,drink,none,30.0,0.0,0.0,0.0,9.0,9.0,0.0,20.0,0.0,,,,,2017-09-06
+217,McDonald's,513fbc1283aa2dc80c000053,Steak Egg and Cheese Bagel with Slivered Onions,c640834909d81430b30e039e,entree,breakfast,620.0,30.0,13.0,255.0,54.0,7.0,32.0,1390.0,4.0,,,,,2017-09-06
+218,McDonald's,513fbc1283aa2dc80c000053,"Southern Style Sweet Tea, Large",c64083490cb57dd48ce6e006,drink,none,250.0,0.0,0.0,0.0,61.0,61.0,1.0,35.0,0.0,,,,,2017-09-06
+219,McDonald's,513fbc1283aa2dc80c000053,"Minute Maid Fruit Punch Slushie, Travel",c6408349103b6d8865841779,drink,none,430.0,0.0,0.0,0.0,112.0,110.0,0.0,50.0,0.0,,,,,2017-09-06
+220,McDonald's,513fbc1283aa2dc80c000053,"Minute Maid Orange Juice, Value",c640834913964ab0028f12d8,drink,none,110.0,0.0,0.0,0.0,27.0,24.0,2.0,0.0,0.0,,,,,2017-09-06
+221,McDonald's,513fbc1283aa2dc80c000053,"Red Flash, Small No Ice",c640834914794f58d8f63cdf,drink,none,210.0,0.0,0.0,0.0,55.0,55.0,0.0,55.0,0.0,,,,,2017-09-06
+222,McDonald's,513fbc1283aa2dc80c000053,Vanilla Bean Ice Cream,c640834916f60028a07286ba,dessert,none,290.0,17.0,11.0,45.0,30.0,17.0,5.0,100.0,0.0,,,,,2017-09-06
+223,McDonald's,513fbc1283aa2dc80c000053,"Frappe Chocolate Covered Strawberry, Small",c640834917cf33fceba112af,drink,coffee,490.0,19.0,12.0,55.0,76.0,68.0,7.0,110.0,1.0,,,,,2017-09-06
+224,McDonald's,513fbc1283aa2dc80c000053,Sweet BBQ Bacon Artisan Grilled Chicken on Artisan Roll,c6408349185e7648a15aa582,entree,breakfast,640.0,23.0,7.0,135.0,62.0,18.0,49.0,1940.0,4.0,,,,,2017-09-06
+225,McDonald's,513fbc1283aa2dc80c000053,"Arctic Orange Shake, Medium",c64083491a767d24e3a77d13,dessert,none,620.0,17.0,11.0,70.0,82.0,92.0,13.0,200.0,0.0,,,,,2017-09-06
+226,McDonald's,513fbc1283aa2dc80c000053,"Cherry Coca-Cola, Large",c64083491c9aa56c134011d8,drink,none,310.0,0.0,0.0,0.0,80.0,80.0,0.0,80.0,0.0,,,,,2017-09-06
+227,McDonald's,513fbc1283aa2dc80c000053,McGriddles Chicken Sausage,c6408349271c2b48d7b78cdb,entree,breakfast,320.0,11.0,4.5,45.0,42.0,14.0,13.0,1050.0,1.0,,,,,2017-09-06
+228,McDonald's,513fbc1283aa2dc80c000053,"McCafe Iced Latte, Small",c64083492d5fb1a87bbb9cb5,drink,coffee,120.0,6.0,3.5,20.0,10.0,9.0,6.0,85.0,0.0,,,,,2017-09-06
+229,McDonald's,513fbc1283aa2dc80c000053,Portuguese Sausage Side Order,c64083492e5b24e4a20185fa,entree,breakfast,220.0,19.0,7.0,50.0,2.0,1.0,10.0,570.0,0.0,,,,,2017-09-06
+230,McDonald's,513fbc1283aa2dc80c000053,Pico Guacamole Buttermilk Crispy Chicken on Potato Roll,c6408349316a70b07d691a55,entree,none,640.0,31.0,7.0,80.0,59.0,6.0,29.0,1410.0,5.0,,,,,2017-09-06
+231,McDonald's,513fbc1283aa2dc80c000053,"FUZE Raspberry Tea, Extra Small No Ice",c640834932b2f8d8810c863a,drink,none,90.0,0.0,0.0,0.0,23.0,22.0,0.0,50.0,0.0,,,,,2017-09-06
+232,McDonald's,513fbc1283aa2dc80c000053,"Vitamin Water XXX Zero, Medium",c6408349382e7a6ce1a5f2fb,drink,none,0.0,0.0,0.0,0.0,0.0,0.0,0.0,55.0,0.0,,,,,2017-09-06
+233,McDonald's,513fbc1283aa2dc80c000053,"Minute Maid Cherry Limeade Slushie, Travel",c6408349383523c8a980de72,drink,none,490.0,0.0,0.0,0.0,127.0,124.0,0.0,35.0,0.0,,,,,2017-09-06
+234,McDonald's,513fbc1283aa2dc80c000053,"Sprite Zero, Small No Ice",c64083493a52cf6caacb1ee6,drink,none,0.0,0.0,0.0,0.0,0.0,0.0,0.0,60.0,0.0,,,,,2017-09-06
+235,McDonald's,513fbc1283aa2dc80c000053,Green Chili Double Cheeseburger New York,c64083493a8e063c23a64f0c,entree,none,390.0,18.0,8.0,70.0,34.0,7.0,23.0,750.0,2.0,,,,,2017-09-06
+236,McDonald's,513fbc1283aa2dc80c000053,"Mello Yello, Medium No Ice",c640834943dd708917c6e150,drink,none,290.0,0.0,0.0,0.0,76.0,76.0,0.0,90.0,0.0,,,,,2017-09-06
+237,McDonald's,513fbc1283aa2dc80c000053,Butter Croissant,c640834945bbf365f084722b,dessert,none,140.0,7.0,4.5,30.0,16.0,2.0,3.0,180.0,1.0,,,,,2017-09-06
+238,McDonald's,513fbc1283aa2dc80c000053,McCheddar Potato Bites (8 piece),c640834946aaea15538f43ed,side,none,270.0,13.0,3.5,10.0,31.0,2.0,6.0,710.0,2.0,,,,,2017-09-06
+239,McDonald's,513fbc1283aa2dc80c000053,Southern Style Buttermilk Crispy Chicken Sandwich,c640834950795fd92e8e203c,entree,none,470.0,20.0,4.5,65.0,48.0,5.0,25.0,950.0,3.0,,,,,2017-09-06
+240,McDonald's,513fbc1283aa2dc80c000053,"Caffeine Free Diet Coke, Medium",c6408349528f0759bb45e5ca,drink,none,0.0,0.0,0.0,0.0,0.0,0.0,0.0,70.0,0.0,,,,,2017-09-06
+241,McDonald's,513fbc1283aa2dc80c000053,"Hazelnut Cappuccino, Small",c640834952b7c1fddab39267,drink,coffee,730.0,19.0,11.0,55.0,124.0,118.0,20.0,240.0,1.0,,,,,2017-09-06
+242,McDonald's,513fbc1283aa2dc80c000053,Berry Bran Muffin,c64083495cf363fd5b5ceff9,dessert,none,400.0,15.0,1.5,0.0,60.0,29.0,8.0,540.0,5.0,,,,,2017-09-06
+243,McDonald's,513fbc1283aa2dc80c000053,Guava and Creme Pie,c64083495e6c19617899b6ed,dessert,none,290.0,15.0,8.0,15.0,35.0,15.0,3.0,150.0,3.0,,,,,2017-09-06
+244,McDonald's,513fbc1283aa2dc80c000053,Quarter Pounder Cheddar Bacon Onion,c6408349610c2a71ab6d47f6,entree,breakfast,770.0,43.0,18.0,135.0,52.0,14.0,44.0,1670.0,4.0,,,,,2017-09-06
+245,McDonald's,513fbc1283aa2dc80c000053,Donatos 7 inch Pepperoni Pizza,c6408349610d321d04d35228,entree,none,510.0,26.0,12.0,80.0,43.0,4.0,26.0,1200.0,2.0,,,,,2017-09-06
+246,McDonald's,513fbc1283aa2dc80c000053,"Fanta Strawberry, Large",c640834962a8267d5e336985,drink,none,330.0,0.0,0.0,0.0,86.0,85.0,0.0,100.0,0.0,,,,,2017-09-06
+247,McDonald's,513fbc1283aa2dc80c000053,"Red Flash, Medium No Ice",c6408349642df5edd9cd701f,drink,none,280.0,0.0,0.0,0.0,72.0,72.0,0.0,70.0,0.0,,,,,2017-09-06
+248,McDonald's,513fbc1283aa2dc80c000053,Chicken Noodle Soup,c640834965f89e2d22236e44,side,none,100.0,1.5,0.0,15.0,11.0,0.0,11.0,880.0,3.0,,,,,2017-09-06
+249,McDonald's,513fbc1283aa2dc80c000053,"Minute Maid Light Lemonade, Small No Ice",c64083496758c90175202109,drink,none,10.0,0.0,0.0,0.0,3.0,0.0,0.0,30.0,0.0,,,,,2017-09-06
+250,McDonald's,513fbc1283aa2dc80c000053,"Fanta Grape, Medium",c64083496c2cec651a2a2a14,drink,none,240.0,0.0,0.0,0.0,63.0,61.0,0.0,75.0,0.0,,,,,2017-09-06
+251,McDonald's,513fbc1283aa2dc80c000053,"Vernor's Ginger Soda, Medium",c64083496d8e9de19e7c8da2,drink,none,200.0,0.0,0.0,0.0,55.0,54.0,0.0,65.0,0.0,,,,,2017-09-06
+252,McDonald's,513fbc1283aa2dc80c000053,Hot N' Spicy McChicken Deluxe,c64083496e02b7adfcdd62b7,entree,none,440.0,20.0,6.0,55.0,48.0,7.0,18.0,840.0,4.0,,,,,2017-09-06
+253,McDonald's,513fbc1283aa2dc80c000053,"Hi-C Poppin' Pink Lemonade, Extra Small",c64083496e5f4fd9c8a0bfe3,drink,none,110.0,0.0,0.0,0.0,30.0,30.0,0.0,50.0,0.0,,,,,2017-09-06
+254,McDonald's,513fbc1283aa2dc80c000053,"Iced Unsweetened Green Tea, Small",c6408349707003313c862bb8,drink,none,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0,,,,,2017-09-06
+255,McDonald's,513fbc1283aa2dc80c000053,"Diet Pepsi, Large",c640834973bd254924fee00c,drink,none,0.0,0.0,0.0,0.0,1.0,0.0,0.0,110.0,0.0,,,,,2017-09-06
+256,McDonald's,513fbc1283aa2dc80c000053,Lemon Poppy Seed Muffin Topper,c640834974e737ed0369cb14,dessert,none,140.0,6.0,1.0,15.0,20.0,12.0,1.0,85.0,0.0,,,,,2017-09-06
+257,McDonald's,513fbc1283aa2dc80c000053,Guacamole Buttermilk Crispy Chicken Sandwich,c640834977daab9500e36620,entree,none,680.0,31.0,7.0,75.0,69.0,12.0,31.0,1410.0,6.0,,,,,2017-09-06
+258,McDonald's,513fbc1283aa2dc80c000053,"Red Flash, Large No Ice",c64083497be1c5fd5e5d74ad,drink,none,400.0,0.0,0.0,0.0,103.0,103.0,0.0,100.0,0.0,,,,,2017-09-06
+259,McDonald's,513fbc1283aa2dc80c000053,"Vitamin Water XXX Zero, Large",c64083497dc01681bd1625e2,drink,none,0.0,0.0,0.0,0.0,0.0,0.0,0.0,75.0,0.0,,,,,2017-09-06
+260,McDonald's,513fbc1283aa2dc80c000053,"Coca-Cola, Medium No Ice",c6408349808d879e8eb18aaa,drink,none,270.0,0.0,0.0,0.0,70.0,70.0,0.0,60.0,0.0,,,,,2017-09-06
+261,McDonald's,513fbc1283aa2dc80c000053,Cheeseburger Bacon,c6408349827a8482f84588eb,entree,breakfast,360.0,16.0,7.0,55.0,34.0,7.0,21.0,920.0,2.0,,,,,2017-09-06
+262,McDonald's,513fbc1283aa2dc80c000053,"Fanta Orange, Large",c6408349829734162906da30,drink,none,320.0,0.0,0.0,0.0,84.0,82.0,0.0,75.0,0.0,,,,,2017-09-06
+263,McDonald's,513fbc1283aa2dc80c000053,"Fruitopia Strawberry Passion, Large No Ice",c64083498323dec60eade73c,drink,none,400.0,0.0,0.0,0.0,108.0,104.0,0.0,125.0,0.0,,,,,2017-09-06
+264,McDonald's,513fbc1283aa2dc80c000053,Chocolate Cone,c640834988775a6aa0d10d9e,dessert,none,180.0,4.5,3.0,15.0,29.0,22.0,5.0,55.0,1.0,,,,,2017-09-06
+265,McDonald's,513fbc1283aa2dc80c000053,Chocolate Ice Cream,c640834989305966aa93b2f6,dessert,none,260.0,15.0,9.0,40.0,30.0,19.0,5.0,80.0,1.0,,,,,2017-09-06
+266,McDonald's,513fbc1283aa2dc80c000053,"Fanta Fruit Punch, Large",c64083498f9ff55a981f565e,drink,none,300.0,0.0,0.0,0.0,80.0,78.0,0.0,110.0,0.0,,,,,2017-09-06
+267,McDonald's,513fbc1283aa2dc80c000053,"Coca-Cola Zero, Small",c640834994227a1e21873e38,drink,none,0.0,0.0,0.0,0.0,0.0,0.0,0.0,55.0,0.0,,,,,2017-09-06
+268,McDonald's,513fbc1283aa2dc80c000053,Blueberry Biscuit,c6408349944e1cf2bed99e32,entree,breakfast,230.0,8.0,4.0,0.0,36.0,11.0,3.0,470.0,1.0,,,,,2017-09-06
+269,McDonald's,513fbc1283aa2dc80c000053,Spam Eggs and Rice,c6408349965f1382ce1321f7,side,none,480.0,25.0,9.0,470.0,36.0,1.0,24.0,780.0,0.0,,,,,2017-09-06
+270,McDonald's,513fbc1283aa2dc80c000053,McCheddar Potato Bites (12 piece),c64083499ac3fa7a0497c500,side,none,400.0,20.0,5.0,15.0,47.0,3.0,9.0,1070.0,3.0,,,,,2017-09-06
+271,McDonald's,513fbc1283aa2dc80c000053,"Diet Dr Pepper, Large No Ice",c64083499b019256ac2fb62e,drink,none,0.0,0.0,0.0,0.0,0.0,0.0,0.0,50.0,0.0,,,,,2017-09-06
+272,McDonald's,513fbc1283aa2dc80c000053,Big Breakfast Bacon Scrambled and Biscuit,c64083499c62a556985d3fee,entree,breakfast,690.0,40.0,15.0,460.0,54.0,3.0,30.0,1690.0,3.0,,,,,2017-09-06
+273,McDonald's,513fbc1283aa2dc80c000053,Deluxe Artisan Grilled Chicken on Potato Roll,c64083499c86015e1d9401a8,entree,none,360.0,9.0,2.5,100.0,36.0,6.0,35.0,1140.0,2.0,,,,,2017-09-06
+274,McDonald's,513fbc1283aa2dc80c000053,"Diet Pepsi, Medium No Ice",c64083499cb3b0064a9d5f99,drink,none,0.0,0.0,0.0,0.0,0.0,0.0,0.0,100.0,0.0,,,,,2017-09-06
+275,McDonald's,513fbc1283aa2dc80c000053,Hot N Spicy McChicken Scratch Biscuit,c64083499ce0fc620dbabc10,entree,breakfast,460.0,23.0,9.0,75.0,49.0,3.0,14.0,1090.0,3.0,,,,,2017-09-06
+276,McDonald's,513fbc1283aa2dc80c000053,Triple Bacon Cheeseburger,c64083499d2b29f6862a8656,entree,breakfast,590.0,32.0,15.0,125.0,37.0,8.0,38.0,1400.0,3.0,,,,,2017-09-06
+277,McDonald's,513fbc1283aa2dc80c000053,Deluxe Buttermilk Crispy Chicken on Artisan Roll,c64083499f60519a00475f6c,entree,none,580.0,23.0,5.0,60.0,65.0,11.0,28.0,1050.0,5.0,,,,,2017-09-06
+278,McDonald's,513fbc1283aa2dc80c000053,"Fruitopia Strawberry Passion, Medium No Ice",c6408349a3496eba74e7ac29,drink,none,280.0,0.0,0.0,0.0,75.0,73.0,0.0,90.0,0.0,,,,,2017-09-06
+279,McDonald's,513fbc1283aa2dc80c000053,Fried Taro Pie,c6408349a3cf4aa6752b9829,dessert,none,250.0,14.0,7.0,0.0,30.0,9.0,2.0,170.0,2.0,,,,,2017-09-06
+280,McDonald's,513fbc1283aa2dc80c000053,Veggie McWrap,c6408349a409cf4a6df421bd,entree,none,480.0,19.0,6.0,20.0,63.0,14.0,15.0,870.0,8.0,,,,,2017-09-06
+281,McDonald's,513fbc1283aa2dc80c000053,Coca-Cola (Small) No Ice,c6408349a5ecbf96c999ff37,drink,none,200.0,0.0,0.0,0.0,53.0,53.0,0.0,50.0,0.0,,,,,2017-09-06
+282,McDonald's,513fbc1283aa2dc80c000053,Jalapeno McChicken,c6408349a64ac71248ddbbb9,entree,none,430.0,20.0,5.0,55.0,44.0,6.0,18.0,1030.0,3.0,,,,,2017-09-06
+283,McDonald's,513fbc1283aa2dc80c000053,Chicken Sausage McMuffin,c6408349a796ca161947ef14,entree,breakfast,290.0,12.0,6.0,65.0,29.0,2.0,16.0,800.0,2.0,,,,,2017-09-06
+284,McDonald's,513fbc1283aa2dc80c000053,Buttermilk Crispy Chicken Sandwich,c6408349a8faa752d065d24f,entree,none,570.0,23.0,5.0,60.0,64.0,11.0,28.0,1050.0,4.0,,,,,2017-09-06
+285,McDonald's,513fbc1283aa2dc80c000053,"FUZE Raspberry Tea, Medium No Ice",c6408349aa2abdcebe312b66,drink,none,150.0,0.0,0.0,0.0,40.0,39.0,0.0,90.0,0.0,,,,,2017-09-06
+286,McDonald's,513fbc1283aa2dc80c000053,"Mountain Dew, Medium",c6408349aabf4b728b936386,drink,none,60.0,0.0,0.0,0.0,17.0,17.0,0.0,40.0,0.0,,,,,2017-09-06
+287,McDonald's,513fbc1283aa2dc80c000053,Chicken McBites,c6408349ad78bdf2ad0f0802,side,none,470.0,28.0,4.0,50.0,33.0,1.0,22.0,730.0,2.0,,,,,2017-09-06
+288,McDonald's,513fbc1283aa2dc80c000053,"Fanta Orange, Small",c6408349b08ec7eac7555fb7,drink,none,170.0,0.0,0.0,0.0,44.0,43.0,0.0,40.0,0.0,,,,,2017-09-06
+289,McDonald's,513fbc1283aa2dc80c000053,Newman's Own Creamy French Dressing,c6408349b4db51be727681a9,misc,none,300.0,23.0,3.5,0.0,22.0,22.0,0.0,450.0,1.0,,,,,2017-09-06
+290,McDonald's,513fbc1283aa2dc80c000053,"FUZE Raspberry Tea, Small No Ice",c6408349b53a3a5e6af947dd,drink,none,120.0,0.0,0.0,0.0,31.0,30.0,0.0,65.0,0.0,,,,,2017-09-06
+291,McDonald's,513fbc1283aa2dc80c000053,Big Breakfast Steak Scrambled with Biscuit,c6408349b5733542e6ab66fb,entree,breakfast,710.0,41.0,16.0,475.0,53.0,3.0,31.0,1640.0,3.0,,,,,2017-09-06
+292,McDonald's,513fbc1283aa2dc80c000053,Deluxe Artisan Grilled Chicken on Sesame Seed Bun,c6408349be5204b25ede1309,entree,none,360.0,9.0,2.5,100.0,36.0,7.0,35.0,1070.0,2.0,,,,,2017-09-06
+293,McDonald's,513fbc1283aa2dc80c000053,"Fruitopia Strawberry Passion, Medium",c6408349bff9e85e93d7d4aa,drink,none,220.0,0.0,0.0,0.0,61.0,59.0,0.0,70.0,0.0,,,,,2017-09-06
+294,McDonald's,513fbc1283aa2dc80c000053,"Mist Twist, Small",c6408349c282ee7fa78defb6,drink,none,150.0,0.0,0.0,0.0,39.0,39.0,0.0,30.0,0.0,,,,,2017-09-06
+295,McDonald's,513fbc1283aa2dc80c000053,Double Chocolate Muffin,c6408349c2be5957d572427f,dessert,breakfast,450.0,15.0,3.5,0.0,74.0,42.0,8.0,600.0,4.0,,,,,2017-09-06
+296,McDonald's,513fbc1283aa2dc80c000053,"Popcorn, Large",c6408349c3c41ea357fd1585,drink,none,500.0,33.0,3.0,0.0,45.0,0.0,6.0,1250.0,3.0,,,,,2017-09-06
+297,McDonald's,513fbc1283aa2dc80c000053,Fried Coconut (Haupia) Pie,c6408349c4add7c3a801b17a,dessert,none,270.0,17.0,6.0,0.0,29.0,7.0,2.0,220.0,1.0,,,,,2017-09-06
+298,McDonald's,513fbc1283aa2dc80c000053,Triple Bacon Cheeseburger New York,c6408349c753224f5220190d,entree,breakfast,590.0,32.0,15.0,125.0,37.0,8.0,38.0,1400.0,2.0,,,,,2017-09-06
+299,McDonald's,513fbc1283aa2dc80c000053,"Southern Style Sweet Tea, Medium No Ice",c6408349c96324e30a827cac,drink,none,270.0,0.0,0.0,0.0,66.0,66.0,1.0,20.0,0.0,,,,,2017-09-06
+300,McDonald's,513fbc1283aa2dc80c000053,"Cherry Coca-Cola, Extra Small No Ice",c6408349c972e03f7e970ded,drink,none,160.0,0.0,0.0,0.0,42.0,42.0,0.0,40.0,0.0,,,,,2017-09-06
+301,McDonald's,513fbc1283aa2dc80c000053,"Fruitopia Strawberry Passion, Extra Small",c6408349ca7db5f79b8837da,drink,none,120.0,0.0,0.0,0.0,32.0,31.0,0.0,40.0,0.0,,,,,2017-09-06
+302,McDonald's,513fbc1283aa2dc80c000053,"Orange Crush, Small No Ice",c6408349cdc5f9d7615c856d,drink,none,60.0,0.0,0.0,0.0,17.0,16.0,0.0,20.0,0.0,,,,,2017-09-06
+303,McDonald's,513fbc1283aa2dc80c000053,Pineapple Side,c6408349cdcb95e70a4c2240,side,none,60.0,0.0,0.0,0.0,15.0,11.0,1.0,0.0,2.0,,,,,2017-09-06
+304,McDonald's,513fbc1283aa2dc80c000053,"FUZE Raspberry Tea, Large No Ice",c6408349d181b613bbc3a8c2,drink,none,220.0,0.0,0.0,0.0,57.0,55.0,0.0,125.0,0.0,,,,,2017-09-06
+305,McDonald's,513fbc1283aa2dc80c000053,"Mr. Pibb Xtra, Medium",c6408349d5b3f01b16d0bc84,drink,none,210.0,0.0,0.0,0.0,58.0,58.0,0.0,35.0,0.0,,,,,2017-09-06
+306,McDonald's,513fbc1283aa2dc80c000053,"Diet Pepsi, Extra Small",c6408349d77d2f179f02ba8e,drink,none,0.0,0.0,0.0,0.0,0.0,0.0,0.0,40.0,0.0,,,,,2017-09-06
+307,McDonald's,513fbc1283aa2dc80c000053,Sweet BBQ Bacon Artisan Grilled Chicken on Potato Roll,c6408349dda9d93770414e11,entree,breakfast,600.0,22.0,7.0,135.0,52.0,13.0,46.0,1920.0,3.0,,,,,2017-09-06
+308,McDonald's,513fbc1283aa2dc80c000053,"Diet Coke, Extra Small No Ice",c6408349de41624fc302809f,drink,none,0.0,0.0,0.0,0.0,0.0,0.0,0.0,50.0,0.0,,,,,2017-09-06
+309,McDonald's,513fbc1283aa2dc80c000053,Pico Guacamole Buttermilk Crispy Chicken on Sesame Seed Bun,c6408349dece321fe1cbac1f,entree,none,630.0,32.0,7.0,80.0,59.0,7.0,29.0,1340.0,5.0,,,,,2017-09-06
+310,McDonald's,513fbc1283aa2dc80c000053,Carrot Muffin,c6408349e162612f955e8fee,dessert,none,430.0,16.0,1.5,0.0,66.0,26.0,6.0,360.0,2.0,,,,,2017-09-06
+311,McDonald's,513fbc1283aa2dc80c000053,"Peppermint Mocha with Nonfat Milk, Medium",c6408349e28afb17f98411d7,drink,coffee,330.0,4.0,2.5,15.0,59.0,53.0,13.0,190.0,1.0,,,,,2017-09-06
+312,McDonald's,513fbc1283aa2dc80c000053,"Minute Maid Orangeade Slushie, Medium",c6408349e658cb274844344d,drink,none,230.0,0.0,0.0,0.0,60.0,59.0,0.0,30.0,0.0,,,,,2017-09-06
+313,McDonald's,513fbc1283aa2dc80c000053,"Fanta Grape, Extra Small",c6408349e90607b396c846d2,drink,none,130.0,0.0,0.0,0.0,33.0,33.0,0.0,40.0,0.0,,,,,2017-09-06
+314,McDonald's,513fbc1283aa2dc80c000053,"Coca-Cola Zero, Small No Ice",c6408349eb3cc943339a342c,drink,none,0.0,0.0,0.0,0.0,0.0,0.0,0.0,40.0,0.0,,,,,2017-09-06
+315,McDonald's,513fbc1283aa2dc80c000053,"POWERADE Mountain Berry Blast, Extra Small No Ice",c6408349ef9f4e9f91a223c6,drink,none,90.0,0.0,0.0,0.0,22.0,22.0,0.0,110.0,0.0,,,,,2017-09-06
+316,McDonald's,513fbc1283aa2dc80c000053,Sweet BBQ Bacon Burger on Artisan Roll,c6408349f12ffbc30788308c,entree,breakfast,750.0,38.0,15.0,110.0,62.0,18.0,40.0,1400.0,4.0,,,,,2017-09-06
+317,McDonald's,513fbc1283aa2dc80c000053,Pico Guacamole Burger on Potato Roll,c6408349f5ec33a3ff48bfcb,entree,none,580.0,33.0,12.0,95.0,42.0,6.0,30.0,990.0,3.0,,,,,2017-09-06
+318,McDonald's,513fbc1283aa2dc80c000053,"Minute Maid Light Lemonade, Large",c6408349f8b0c61314934898,drink,none,15.0,0.0,0.0,0.0,4.0,0.0,0.0,45.0,0.0,,,,,2017-09-06
+319,McDonald's,513fbc1283aa2dc80c000053,Blueberry Muffin,c6408349fd55c0abb61fe946,dessert,none,430.0,16.0,1.5,0.0,65.0,34.0,7.0,320.0,2.0,,,,,2017-09-06
+320,McDonald's,513fbc1283aa2dc80c000053,Bacon & Cheese Sirloin Third Pound Burger,ddee52564fe7e8c11aacf82c,entree,breakfast,810.0,40.0,17.0,155.0,65.0,13.0,46.0,2030.0,4.0,,10.3,oz,292.0,2017-09-06
+321,McDonald's,513fbc1283aa2dc80c000053,"Frozen Strawberry Lemonade, Small",ddee52567b9de86d26f386b4,drink,none,180.0,0.0,0.0,0.0,48.0,43.0,1.0,10.0,0.0,,14.1,oz,399.0,2017-09-06
+322,McDonald's,513fbc1283aa2dc80c000053,Pumpkin and Creme Pie,ddee5256910abc2ace4c9b53,dessert,none,280.0,16.0,9.0,10.0,31.0,13.0,3.0,170.0,1.0,,2.7,oz,77.0,2017-09-06
+323,McDonald's,513fbc1283aa2dc80c000053,Lettuce & Tomato Sirloin Third Pound Burger,ddee525695a91f1e9c46b396,entree,none,750.0,38.0,17.0,135.0,63.0,10.0,39.0,1600.0,4.0,,10.9,oz,310.0,2017-09-06
+324,McDonald's,513fbc1283aa2dc80c000053,"Iced Classic Lemonade, Large",23cb59490d29c72cfb26c083,drink,none,170.0,0.0,0.0,0.0,43.0,37.0,1.0,15.0,1.0,,20.3,oz,574.0,2017-09-06
+325,McDonald's,513fbc1283aa2dc80c000053,"Southern Style Iced Strawberry Lemonade, Large",23cb594929d13e2442bcc9ad,drink,none,290.0,0.0,0.0,0.0,78.0,71.0,1.0,180.0,1.0,,22.9,oz,649.0,2017-09-06
+326,McDonald's,513fbc1283aa2dc80c000053,"Frappe Oreo, Medium",23cb5949571186814482faed,drink,coffee,580.0,21.0,13.0,65.0,91.0,74.0,8.0,180.0,1.0,,18.3,oz,518.0,2017-09-06
+327,McDonald's,513fbc1283aa2dc80c000053,"Frozen Strawberry Lemonade, Large",23cb594963fca9d56aa8e5a1,drink,none,290.0,0.0,0.0,0.0,76.0,68.0,1.0,20.0,1.0,,22.1,oz,627.0,2017-09-06
+328,McDonald's,513fbc1283aa2dc80c000053,"Southern Style Iced Strawberry Lemonade, Small",23cb5949fc1ce03311ac4614,drink,none,160.0,0.0,0.0,0.0,44.0,40.0,0.0,105.0,1.0,,13.8,oz,390.0,2017-09-06
+329,McDonald's,513fbc1283aa2dc80c000053,"Bacon, Egg & Cheese McGriddles",513fc9e73fe3ffd403001099,entree,breakfast,420.0,18.0,8.0,195.0,45.0,15.0,18.0,1230.0,2.0,,6.2,oz,175.0,2017-09-06
+330,McDonald's,513fbc1283aa2dc80c000053,Baked Hot Apple Pie,513fc9e73fe3ffd40300109a,dessert,none,230.0,10.0,5.0,0.0,32.0,13.0,2.0,160.0,4.0,,2.6,oz,75.0,2017-09-06
+331,McDonald's,513fbc1283aa2dc80c000053,Big Mac,513fc9e73fe3ffd40300109f,entree,none,540.0,28.0,10.0,80.0,46.0,9.0,25.0,950.0,3.0,,7.5,oz,212.0,2017-09-06
+332,McDonald's,513fbc1283aa2dc80c000053,Chicken McNuggets (20 piece),513fc9e73fe3ffd4030010a9,entree,none,890.0,53.0,9.0,145.0,53.0,0.0,49.0,1680.0,4.0,,20.0,pieces,323.0,2017-09-06
+333,McDonald's,513fbc1283aa2dc80c000053,Chocolate Chip Cookie,513fc9e73fe3ffd4030010b1,dessert,none,170.0,7.0,3.5,10.0,23.0,15.0,2.0,90.0,1.0,,1.0,cookie,33.0,2017-09-06
+334,McDonald's,513fbc1283aa2dc80c000053,"Coca-Cola, Extra Small",513fc9e73fe3ffd4030010b6,drink,none,110.0,0.0,0.0,0.0,30.0,30.0,0.0,25.0,0.0,,12.0,fl oz cup,,2017-09-06
+335,McDonald's,513fbc1283aa2dc80c000053,Daily Double,513fc9e73fe3ffd4030010bc,entree,none,430.0,22.0,10.0,75.0,35.0,6.0,23.0,760.0,2.0,,6.8,oz,191.0,2017-09-06
+336,McDonald's,513fbc1283aa2dc80c000053,"Dr Pepper, Large",513fc9e73fe3ffd4030010c8,drink,none,290.0,0.0,0.0,0.0,79.0,78.0,0.0,95.0,0.0,,30.0,fl oz cup,,2017-09-06
+337,McDonald's,513fbc1283aa2dc80c000053,Fruit & Maple Oatmeal without Brown Sugar,513fc9e73fe3ffd4030010e2,entree,breakfast,260.0,4.0,1.5,5.0,49.0,18.0,6.0,115.0,5.0,,1.0,oatmeal,250.0,2017-09-06
+338,McDonald's,513fbc1283aa2dc80c000053,"Latte Hazelnut, Large",513fc9e73fe3ffd4030010e7,drink,coffee,420.0,14.0,8.0,40.0,62.0,58.0,15.0,180.0,1.0,,20.0,fl oz cup,,2017-09-06
+339,McDonald's,513fbc1283aa2dc80c000053,"Hot Chocolate, Medium",513fc9e73fe3ffd4030010f4,drink,none,440.0,16.0,9.0,50.0,61.0,56.0,14.0,220.0,1.0,,16.0,fl oz cup,,2017-09-06
+340,McDonald's,513fbc1283aa2dc80c000053,Hot Fudge Sundae,513fc9e73fe3ffd4030010f9,dessert,none,380.0,14.0,8.0,25.0,43.0,47.0,10.0,180.0,3.0,,1.0,sundae,179.0,2017-09-06
+341,McDonald's,513fbc1283aa2dc80c000053,"Iced Coffee Sugar Free French Vanilla, Large",513fc9e73fe3ffd403001102,drink,coffee,130.0,7.0,4.5,30.0,16.0,2.0,3.0,130.0,0.0,,32.0,fl oz cup,,2017-09-06
+342,McDonald's,513fbc1283aa2dc80c000053,"Iced Coffee Caramel, Small",513fc9e73fe3ffd403001107,drink,coffee,120.0,4.0,2.5,15.0,22.0,20.0,1.0,40.0,0.0,,16.0,fl oz cup,,2017-09-06
+343,McDonald's,513fbc1283aa2dc80c000053,"Iced Coffee Hazelnut, Small",513fc9e73fe3ffd40300110d,drink,coffee,110.0,4.0,2.5,15.0,18.0,17.0,2.0,40.0,0.0,,16.0,fl oz cup,,2017-09-06
+344,McDonald's,513fbc1283aa2dc80c000053,"Iced Tea, Extra Small",513fc9e73fe3ffd40300111a,drink,none,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0,,12.0,fl oz cup,,2017-09-06
+345,McDonald's,513fbc1283aa2dc80c000053,Kiddie Cone,513fc9e73fe3ffd40300111f,dessert,none,45.0,1.0,0.5,5.0,5.0,6.0,1.0,20.0,0.0,,1.0,cone,29.0,2017-09-06
+346,McDonald's,513fbc1283aa2dc80c000053,Large French Fries,513fc9e73fe3ffd403001121,side,none,510.0,24.0,3.5,0.0,66.0,0.0,7.0,350.0,6.0,,1.0,fries,168.0,2017-09-06
+347,McDonald's,513fbc1283aa2dc80c000053,"Latte Sugar Free French Vanilla, Medium",513fc9e73fe3ffd403001126,drink,coffee,260.0,10.0,6.0,30.0,29.0,15.0,11.0,190.0,1.0,,16.0,fl oz cup,,2017-09-06
+348,McDonald's,513fbc1283aa2dc80c000053,McFlurry with Oreo Cookies,513fc9e73fe3ffd403001133,dessert,none,510.0,17.0,9.0,45.0,60.0,64.0,12.0,280.0,1.0,,10.0,1 oz,285.0,2017-09-06
+349,McDonald's,513fbc1283aa2dc80c000053,McRib,513fc9e73fe3ffd403001138,entree,none,480.0,22.0,7.0,80.0,45.0,12.0,25.0,870.0,2.0,,7.4,oz,211.0,2017-09-06
+350,McDonald's,513fbc1283aa2dc80c000053,"Mocha, Small",513fc9e73fe3ffd403001140,drink,coffee,340.0,12.0,7.0,35.0,49.0,42.0,10.0,150.0,1.0,,12.0,fl oz cup,,2017-09-06
+351,McDonald's,513fbc1283aa2dc80c000053,Newman's Own Creamy Southwest Dressing,513fc9e73fe3ffd403001145,misc,none,120.0,8.0,1.5,20.0,11.0,3.0,1.0,300.0,0.0,,1.5,fl oz,,2017-09-06
+352,McDonald's,513fbc1283aa2dc80c000053,Peanuts Packet for Sundaes,513fc9e73fe3ffd40300115d,dessert,none,45.0,3.5,0.5,0.0,2.0,0.0,2.0,0.0,1.0,,0.30000000000000004,oz,7.0,2017-09-06
+353,McDonald's,513fbc1283aa2dc80c000053,Premium Bacon Ranch Salad with Grilled Chicken,513fc9e73fe3ffd403001164,entree,breakfast,190.0,12.0,5.0,40.0,9.0,3.0,14.0,500.0,3.0,,9.4,oz,266.0,2017-09-06
+354,McDonald's,513fbc1283aa2dc80c000053,Premium Southwest Salad with Buttermilk Crispy Chicken,513fc9e73fe3ffd40300116f,entree,none,160.0,7.0,3.0,15.0,19.0,4.0,8.0,200.0,5.0,,10.4,oz,294.0,2017-09-06
+355,McDonald's,513fbc1283aa2dc80c000053,Quarter Pounder with Cheese,513fc9e73fe3ffd403001171,entree,none,530.0,27.0,13.0,100.0,41.0,10.0,31.0,1090.0,3.0,,7.3,oz,206.0,2017-09-06
+356,McDonald's,513fbc1283aa2dc80c000053,Sausage Biscuit,513fc9e73fe3ffd403001176,entree,breakfast,460.0,30.0,13.0,40.0,36.0,3.0,11.0,1050.0,2.0,,4.1,oz,117.0,2017-09-06
+357,McDonald's,513fbc1283aa2dc80c000053,Sausage McMuffin with Egg,513fc9e73fe3ffd40300117c,entree,breakfast,470.0,30.0,12.0,275.0,30.0,3.0,21.0,810.0,2.0,,5.7,oz,162.0,2017-09-06
+358,McDonald's,513fbc1283aa2dc80c000053,"McFlurry with M&M'S Chocolate Candies, Snack Size",513fc9e73fe3ffd403001183,dessert,none,420.0,15.0,9.0,35.0,51.0,58.0,9.0,130.0,1.0,,1.0,McFlurry,207.0,2017-09-06
+359,McDonald's,513fbc1283aa2dc80c000053,Southern Style Chicken Biscuit,513fc9e73fe3ffd403001188,entree,breakfast,440.0,22.0,8.0,35.0,45.0,4.0,16.0,1230.0,2.0,,1.0,biscuit,143.0,2017-09-06
+360,McDonald's,513fbc1283aa2dc80c000053,"Sprite, Large",513fc9e73fe3ffd40300118e,drink,none,280.0,0.0,0.0,0.0,74.0,73.0,0.0,130.0,0.0,,30.0,fl oz cup,,2017-09-06
+361,McDonald's,513fbc1283aa2dc80c000053,"Sprite, Small",513fc9e73fe3ffd403001190,drink,none,150.0,0.0,0.0,0.0,39.0,38.0,0.0,70.0,0.0,,16.0,fl oz cup,,2017-09-06
+362,McDonald's,513fbc1283aa2dc80c000053,"Strawberry Shake, Medium",513fc9e73fe3ffd403001195,dessert,none,600.0,18.0,11.0,75.0,71.0,84.0,14.0,230.0,0.0,,16.0,fl oz,,2017-09-06
+363,McDonald's,513fbc1283aa2dc80c000053,Sweet 'N Sour Sauce,513fc9e73fe3ffd40300119b,misc,none,50.0,0.0,0.0,0.0,11.0,10.0,1.0,160.0,0.0,,1.0,pkg,28.0,2017-09-06
+364,McDonald's,513fbc1283aa2dc80c000053,"Sweet Tea, Small",513fc9e73fe3ffd4030011a0,drink,none,90.0,0.0,0.0,0.0,21.0,21.0,0.0,15.0,0.0,,16.0,fl oz,,2017-09-06
+365,McDonald's,513fbc1283aa2dc80c000053,"Vanilla Shake, Large",513fc9e73fe3ffd4030011a5,dessert,none,800.0,22.0,14.0,90.0,99.0,99.0,19.0,370.0,0.0,,22.0,fl oz,,2017-09-06
+366,McDonald's,513fbc1283aa2dc80c000053,Big Breakfast with Egg Whites,521b95c74a56d006d578b11a,entree,breakfast,670.0,40.0,15.0,50.0,52.0,3.0,24.0,1540.0,3.0,,9.4,oz,267.0,2017-09-06
+367,McDonald's,513fbc1283aa2dc80c000053,"Blueberry Pomegranate Smoothie, Small",521b95c74a56d006d578b11f,drink,none,200.0,0.5,0.0,5.0,46.0,40.0,2.0,35.0,3.0,,12.0,fl oz cup,,2017-09-06
+368,McDonald's,513fbc1283aa2dc80c000053,"Premium McWrap Chicken & Bacon, Buttermilk Crispy",521b95c74a56d006d578b126,entree,breakfast,680.0,33.0,10.0,95.0,60.0,5.0,35.0,1570.0,4.0,,11.1,oz,314.0,2017-09-06
+369,McDonald's,513fbc1283aa2dc80c000053,Bacon McDouble,534449c77ba4ca15456f5026,entree,breakfast,450.0,22.0,10.0,85.0,34.0,7.0,28.0,1080.0,2.0,,5.7,oz,162.0,2017-09-06
+370,McDonald's,513fbc1283aa2dc80c000053,"Gilroy Garlic Fries, Large",c64083490296b25c0f28588c,side,none,600.0,31.0,6.0,0.0,70.0,1.0,10.0,620.0,7.0,,,,,2017-09-06
+371,McDonald's,513fbc1283aa2dc80c000053,Old Bay Double Filet-O-Fish Sandwich,c64083490459560c0c4ce928,entree,none,540.0,25.0,6.0,80.0,49.0,5.0,29.0,760.0,3.0,,,,,2017-09-06
+372,McDonald's,513fbc1283aa2dc80c000053,Double Filet-O- Fish,c64083490809f9601ccb5170,entree,none,540.0,26.0,6.0,80.0,48.0,5.0,28.0,780.0,2.0,,,,,2017-09-06
+373,McDonald's,513fbc1283aa2dc80c000053,"Caffeine Free Diet Coke, Large No Ice",c64083490c6faf344b2c6a7d,drink,none,0.0,0.0,0.0,0.0,0.0,0.0,0.0,120.0,0.0,,,,,2017-09-06
+374,McDonald's,513fbc1283aa2dc80c000053,"Barq's Caffeine Free Root Beer, Large",c64083490d224c446d322399,drink,none,320.0,0.0,0.0,0.0,83.0,83.0,0.0,130.0,0.0,,,,,2017-09-06
+375,McDonald's,513fbc1283aa2dc80c000053,Sausage Scratch Biscuit,c64083490d879154f50233b7,entree,breakfast,490.0,32.0,13.0,75.0,39.0,3.0,12.0,1070.0,2.0,,,,,2017-09-06
+376,McDonald's,513fbc1283aa2dc80c000053,1% Low Fat Milk Jug California,c64083490da0cfc0434100b9,drink,none,130.0,2.5,1.5,15.0,16.0,15.0,11.0,160.0,0.0,,,,,2017-09-06
+377,McDonald's,513fbc1283aa2dc80c000053,Buttermilk Crispy Chicken Tenders (2 piece),c6408349170d261802104810,entree,none,240.0,13.0,2.0,50.0,11.0,0.0,20.0,680.0,1.0,,,,,2017-09-06
+378,McDonald's,513fbc1283aa2dc80c000053,"FUZE Raspberry Tea, Extra Small",c640834917caf9bc7ed0c781,drink,none,70.0,0.0,0.0,0.0,17.0,17.0,0.0,40.0,0.0,,,,,2017-09-06
+379,McDonald's,513fbc1283aa2dc80c000053,Pico Guacamole Burger on Sesame Seed Bun,c64083491aa7249487697806,entree,none,580.0,33.0,12.0,95.0,41.0,7.0,29.0,920.0,4.0,,,,,2017-09-06
+380,McDonald's,513fbc1283aa2dc80c000053,"Barq's Root Beer, Small",c64083491bb6f654d659a4d7,drink,none,170.0,0.0,0.0,0.0,44.0,44.0,0.0,55.0,0.0,,,,,2017-09-06
+381,McDonald's,513fbc1283aa2dc80c000053,Hotcakes with Strawberry and Cream Cheese,c64083491bddfbe8c1b36f07,dessert,none,520.0,8.0,2.0,20.0,103.0,58.0,9.0,570.0,3.0,,,,,2017-09-06
+382,McDonald's,513fbc1283aa2dc80c000053,Basket of Fries,c64083491d6ea4d4223fe52c,side,none,670.0,32.0,4.5,0.0,87.0,0.0,9.0,460.0,8.0,,,,,2017-09-06
+383,McDonald's,513fbc1283aa2dc80c000053,"Barq's Caffeine Free Root Beer, Extra Small",c6408349276294e0fb29e6bb,drink,none,120.0,0.0,0.0,0.0,33.0,33.0,0.0,50.0,0.0,,,,,2017-09-06
+384,McDonald's,513fbc1283aa2dc80c000053,"Minute Maid Cherry Limeade Slushie, Large",c640834930f3b9f0a71ad17e,drink,none,350.0,0.0,0.0,0.0,90.0,88.0,0.0,25.0,0.0,,,,,2017-09-06
+385,McDonald's,513fbc1283aa2dc80c000053,"Diet Coke, Large No Ice",c640834934485cb0bc624e1a,drink,none,0.0,0.0,0.0,0.0,0.0,0.0,0.0,125.0,0.0,,,,,2017-09-06
+386,McDonald's,513fbc1283aa2dc80c000053,Sriracha Buttermilk Crispy Chicken on Sesame Seed Bun,c64083493742c5a4f2d48e23,entree,none,680.0,33.0,7.0,80.0,65.0,9.0,30.0,1340.0,5.0,,,,,2017-09-06
+387,McDonald's,513fbc1283aa2dc80c000053,"Vernor's Ginger Ale, Extra Small",c64083493ca06fe86a3c7ff9,drink,none,100.0,0.0,0.0,0.0,27.0,27.0,0.0,35.0,0.0,,,,,2017-09-06
+388,McDonald's,513fbc1283aa2dc80c000053,"Vitamin Water Zero, Extra Small No Ice",c64083494099a9b5f663280f,drink,none,0.0,0.0,0.0,0.0,0.0,0.0,0.0,40.0,0.0,,,,,2017-09-06
+389,McDonald's,513fbc1283aa2dc80c000053,"Egg Nog Shake, Large",c640834941021d69a0ec7b4e,dessert,none,820.0,23.0,14.0,90.0,103.0,115.0,18.0,290.0,0.0,,,,,2017-09-06
+390,McDonald's,513fbc1283aa2dc80c000053,Spam Side Order,c640834943426fd1e612c9b3,side,none,190.0,16.0,6.0,45.0,1.0,1.0,8.0,660.0,0.0,,,,,2017-09-06
+391,McDonald's,513fbc1283aa2dc80c000053,"Gilroy Garlic Fries, Medium",c64083494405a42d26a32bc0,side,none,420.0,23.0,4.5,0.0,48.0,1.0,8.0,500.0,5.0,,,,,2017-09-06
+392,McDonald's,513fbc1283aa2dc80c000053,Strawberry Sundae EOTF,c6408349453fc50115183988,dessert,none,250.0,6.0,4.0,25.0,31.0,38.0,6.0,90.0,0.0,,,,,2017-09-06
+393,McDonald's,513fbc1283aa2dc80c000053,"Coke ICEE, Large",c640834947cf1efdbaf6fb76,drink,none,240.0,0.0,0.0,0.0,67.0,67.0,0.0,30.0,0.0,,,,,2017-09-06
+394,McDonald's,513fbc1283aa2dc80c000053,"Vitamin Water Zero, Small No Ice",c6408349493418b541f8855d,drink,none,0.0,0.0,0.0,0.0,0.0,0.0,0.0,55.0,0.0,,,,,2017-09-06
+395,McDonald's,513fbc1283aa2dc80c000053,"Diet Pepsi, Small No Ice",c64083494a13269dc16303f3,drink,none,0.0,0.0,0.0,0.0,0.0,0.0,0.0,75.0,0.0,,,,,2017-09-06
+396,McDonald's,513fbc1283aa2dc80c000053,"Iced Caramel Chocolate Coffee, Large",c64083494d5a9691f2aa3a23,drink,coffee,230.0,8.0,5.0,30.0,39.0,34.0,3.0,150.0,0.0,,,,,2017-09-06
+397,McDonald's,513fbc1283aa2dc80c000053,"Pepsi, Small No Ice",c64083494e2b57715ed37749,drink,none,200.0,0.0,0.0,0.0,55.0,55.0,0.0,45.0,0.0,,,,,2017-09-06
+398,McDonald's,513fbc1283aa2dc80c000053,"Hot Tea, Large",c6408349517af7f9e0b9231f,drink,none,5.0,0.0,0.0,0.0,2.0,0.0,0.0,15.0,0.0,,,,,2017-09-06
+399,McDonald's,513fbc1283aa2dc80c000053,Cheeseburger Bacon New York,c640834951ec1f99b0cc03be,entree,breakfast,360.0,16.0,7.0,55.0,34.0,7.0,20.0,920.0,2.0,,,,,2017-09-06
+450,McDonald's,513fbc1283aa2dc80c000053,Big Breakfast 2 Bacon Hotcakes Scrambled Egg and Biscuit,c6408349b1f6846a67b9c6ad,entree,breakfast,1290.0,56.0,22.0,505.0,156.0,48.0,39.0,2300.0,6.0,,,,,2017-09-06
+451,McDonald's,513fbc1283aa2dc80c000053,"Fanta Orange, Extra Small No Ice",c6408349b6a6b13a214f0e40,drink,none,170.0,0.0,0.0,0.0,44.0,43.0,0.0,40.0,0.0,,,,,2017-09-06
+452,McDonald's,513fbc1283aa2dc80c000053,"Iced Latte with Sugar Free French Vanilla Syrup, Small",c6408349b920724260c15119,drink,coffee,150.0,6.0,3.5,20.0,17.0,9.0,7.0,115.0,0.0,,,,,2017-09-06
+453,McDonald's,513fbc1283aa2dc80c000053,"Mountain Dew, Small",c6408349b9a30fcafd7524e7,drink,none,45.0,0.0,0.0,0.0,12.0,12.0,0.0,30.0,0.0,,,,,2017-09-06
+454,McDonald's,513fbc1283aa2dc80c000053,Orange Sherbet,c6408349baa3013268929c01,dessert,none,190.0,3.0,2.0,5.0,42.0,23.0,2.0,35.0,0.0,,,,,2017-09-06
+455,McDonald's,513fbc1283aa2dc80c000053,"Orange Crush, Large",c6408349c355bf6be7bd59a7,drink,none,90.0,0.0,0.0,0.0,24.0,24.0,0.0,50.0,0.0,,,,,2017-09-06
+456,McDonald's,513fbc1283aa2dc80c000053,"Fanta Strawberry, Medium No Ice",c6408349c5860c37dacb49e3,drink,none,300.0,0.0,0.0,0.0,78.0,77.0,0.0,95.0,0.0,,,,,2017-09-06
+457,McDonald's,513fbc1283aa2dc80c000053,"Mist Twist, Extra Small",c6408349c952edc7e245bab7,drink,none,110.0,0.0,0.0,0.0,28.0,28.0,0.0,25.0,0.0,,,,,2017-09-06
+458,McDonald's,513fbc1283aa2dc80c000053,Plain Gourmet Pretzel Twist,c6408349ca19ea0fd39d2c0f,side,none,470.0,7.0,1.5,0.0,90.0,4.0,13.0,470.0,3.0,,,,,2017-09-06
+459,McDonald's,513fbc1283aa2dc80c000053,"Minute Maid Lemonade, Extra Small",c6408349cae22d4bc5de9c8f,drink,none,110.0,0.0,0.0,0.0,28.0,27.0,0.0,70.0,0.0,,,,,2017-09-06
+460,McDonald's,513fbc1283aa2dc80c000053,"Vernor's Ginger Soda, Large",c6408349caf8853742b63db9,drink,none,280.0,0.0,0.0,0.0,75.0,74.0,0.0,90.0,0.0,,,,,2017-09-06
+461,McDonald's,513fbc1283aa2dc80c000053,"Vernor's Ginger Soda, Extra Small No Ice",c6408349cb16b2073c0c1ef4,drink,none,140.0,0.0,0.0,0.0,39.0,38.0,0.0,45.0,0.0,,,,,2017-09-06
+462,McDonald's,513fbc1283aa2dc80c000053,Deluxe Burger on Artisan Roll,c6408349d3df5e235d23ae8d,entree,none,520.0,24.0,10.0,80.0,47.0,11.0,28.0,620.0,3.0,,,,,2017-09-06
+463,McDonald's,513fbc1283aa2dc80c000053,"Hawaiian Punch Fruit Juicy Red, Small",c6408349d543f6f7ccc0926b,drink,none,160.0,0.0,0.0,0.0,44.0,43.0,0.0,50.0,0.0,,,,,2017-09-06
+464,McDonald's,513fbc1283aa2dc80c000053,Denali Big Mac,c6408349d5b8eb936199a411,entree,none,850.0,51.0,20.0,170.0,47.0,9.0,50.0,1090.0,3.0,,,,,2017-09-06
+465,McDonald's,513fbc1283aa2dc80c000053,"Hi-C Poppin' Pink Lemonade, Small",c6408349d88cd9539239e716,drink,none,160.0,0.0,0.0,0.0,42.0,42.0,0.0,75.0,0.0,,,,,2017-09-06
+466,McDonald's,513fbc1283aa2dc80c000053,Oregon Strawberry Ice Cream,c6408349daf408f30d0c5940,dessert,none,280.0,16.0,10.0,40.0,37.0,18.0,5.0,90.0,1.0,,,,,2017-09-06
+467,McDonald's,513fbc1283aa2dc80c000053,Two Biscuits and Homestyle Sausage Gravy,c6408349e87e31f31bd58e84,entree,breakfast,1100.0,66.0,29.0,50.0,109.0,14.0,18.0,3490.0,3.0,,,,,2017-09-06
+468,McDonald's,513fbc1283aa2dc80c000053,"Espresso Americano Coffee, Medium",c6408349e89bb603058eb20c,drink,coffee,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0,,,,,2017-09-06
+469,McDonald's,513fbc1283aa2dc80c000053,"Dr Pepper, Extra Small No Ice",c6408349e8b5a06b476316c5,drink,none,40.0,0.0,0.0,0.0,11.0,11.0,0.0,10.0,0.0,,,,,2017-09-06
+470,McDonald's,513fbc1283aa2dc80c000053,"Coca-Cola Zero, Extra Small",c6408349ed43625fd60b86b3,drink,none,0.0,0.0,0.0,0.0,0.0,0.0,0.0,30.0,0.0,,,,,2017-09-06
+471,McDonald's,513fbc1283aa2dc80c000053,"Fanta Fruit Punch, Extra Small No Ice",c6408349ee2044ab120026f8,drink,none,160.0,0.0,0.0,0.0,42.0,41.0,0.0,60.0,0.0,,,,,2017-09-06
+472,McDonald's,513fbc1283aa2dc80c000053,Cinnamon Coffee Cake Muffin,c6408349ee586ba3cb25a4cb,dessert,coffee,430.0,18.0,4.5,50.0,62.0,39.0,4.0,310.0,1.0,,,,,2017-09-06
+473,McDonald's,513fbc1283aa2dc80c000053,"Tropicana Pink Lemonade, Medium",c6408349ef8fdea3f995aed7,drink,none,60.0,0.0,0.0,0.0,16.0,16.0,0.0,80.0,0.0,,,,,2017-09-06
+474,McDonald's,513fbc1283aa2dc80c000053,Big Breakfast Sausage Scrambled with Hotcakes and Muffin,c6408349f44a23dbcbf6bdb3,entree,breakfast,1240.0,57.0,20.0,510.0,146.0,47.0,35.0,1600.0,5.0,,,,,2017-09-06
+475,McDonald's,513fbc1283aa2dc80c000053,Southern Style Chicken Biscuit Pressure Fried,c6408349f75a8227491a2a95,entree,breakfast,440.0,22.0,8.0,40.0,46.0,4.0,15.0,1140.0,2.0,,,,,2017-09-06
+476,McDonald's,513fbc1283aa2dc80c000053,"Hawaiian Punch Fruit Juicy Red, Extra Small No Ice",c6408349f97ead3f26711500,drink,none,170.0,0.0,0.0,0.0,45.0,44.0,0.0,55.0,0.0,,,,,2017-09-06
+477,McDonald's,513fbc1283aa2dc80c000053,"Hi-C Poppin' Pink Lemonade, Large No Ice",c6408349ff14ad97a8b6ebea,drink,none,330.0,0.0,0.0,0.0,87.0,87.0,0.0,150.0,0.0,,,,,2017-09-06
+478,McDonald's,513fbc1283aa2dc80c000053,"Southern Style Sweet Tea, Extra Small",c6408349ff6342d7720d981d,drink,none,80.0,0.0,0.0,0.0,20.0,20.0,0.0,10.0,0.0,,,,,2017-09-06
+479,McDonald's,513fbc1283aa2dc80c000053,Premium Grilled Chicken Bacon Clubhouse Sandwich,ddee5256147b963037615d74,entree,breakfast,630.0,26.0,8.0,145.0,50.0,14.0,48.0,1830.0,4.0,,10.0,oz,,2017-09-06
+480,McDonald's,513fbc1283aa2dc80c000053,Sweet Potato and Creme Pie,ddee5256545ed4a53af455c4,dessert,none,290.0,16.0,9.0,10.0,32.0,13.0,3.0,170.0,1.0,,2.8,oz,78.0,2017-09-06
+486,McDonald's,513fbc1283aa2dc80c000053,"Southern Style Frozen Lemonade, Medium",23cb59492691b7e43efa59ac,drink,none,280.0,0.0,0.0,0.0,76.0,70.0,0.0,210.0,0.0,,15.6,oz,442.0,2017-09-06
+487,McDonald's,513fbc1283aa2dc80c000053,"Southern Style Frozen Lemonade, Large",23cb59493b4ae57c2b4a14c4,drink,none,360.0,0.0,0.0,0.0,95.0,87.0,0.0,270.0,0.0,,19.5,oz,553.0,2017-09-06
+488,McDonald's,513fbc1283aa2dc80c000053,"Red Flash, Large",23cb59494a4153911157ea4c,drink,none,300.0,0.0,0.0,0.0,79.0,79.0,0.0,80.0,0.0,,25.0,oz,709.0,2017-09-06
+489,McDonald's,513fbc1283aa2dc80c000053,"Iced Classic Lemonade, Medium",23cb5949c0446d93cfe1e2d7,drink,none,130.0,0.0,0.0,0.0,32.0,28.0,0.0,15.0,1.0,,15.6,oz,441.0,2017-09-06
+490,McDonald's,513fbc1283aa2dc80c000053,"Latte Caramel, Medium",513fc9e73fe3ffd4030010a2,drink,coffee,330.0,10.0,6.0,30.0,50.0,48.0,11.0,140.0,1.0,,16.0,fl oz cup,,2017-09-06
+491,McDonald's,513fbc1283aa2dc80c000053,Cheeseburger,513fc9e73fe3ffd4030010a7,entree,none,300.0,12.0,5.0,40.0,33.0,7.0,15.0,680.0,2.0,,4.0,oz,,2017-09-06
+492,McDonald's,513fbc1283aa2dc80c000053,"Chocolate Shake, Large",513fc9e73fe3ffd4030010b4,dessert,none,850.0,23.0,14.0,90.0,110.0,122.0,19.0,420.0,1.0,,22.0,fl oz,,2017-09-06
+493,McDonald's,513fbc1283aa2dc80c000053,"Coca-Cola, Small",513fc9e73fe3ffd4030010b9,drink,none,150.0,0.0,0.0,0.0,40.0,40.0,0.0,35.0,0.0,,16.0,fl oz cup,,2017-09-06
+494,McDonald's,513fbc1283aa2dc80c000053,"Diet Coke, Medium",513fc9e73fe3ffd4030010bf,drink,none,0.0,0.0,0.0,0.0,0.0,0.0,0.0,70.0,0.0,,21.0,fl oz cup,,2017-09-06
+495,McDonald's,513fbc1283aa2dc80c000053,"Diet Dr Pepper, Extra Small",513fc9e73fe3ffd4030010c1,drink,none,0.0,0.0,0.0,0.0,0.0,0.0,0.0,25.0,0.0,,12.0,fl oz cup,,2017-09-06
+496,McDonald's,513fbc1283aa2dc80c000053,Double Quarter Pounder with Cheese,513fc9e73fe3ffd4030010c6,entree,none,770.0,45.0,21.0,175.0,42.0,10.0,51.0,1290.0,3.0,,10.3,oz,291.0,2017-09-06
+497,McDonald's,513fbc1283aa2dc80c000053,"Latte French Vanilla, Medium",513fc9e73fe3ffd4030010de,drink,coffee,320.0,10.0,6.0,30.0,48.0,45.0,11.0,140.0,1.0,,16.0,fl oz cup,,2017-09-06
+498,McDonald's,513fbc1283aa2dc80c000053,Fruit 'n Yogurt Parfait,513fc9e73fe3ffd4030010e0,side,none,150.0,2.0,1.0,5.0,30.0,22.0,4.0,75.0,1.0,,1.0,parfait,149.0,2017-09-06
+499,McDonald's,513fbc1283aa2dc80c000053,Hamburger,513fc9e73fe3ffd4030010e5,entree,none,250.0,8.0,3.0,30.0,31.0,6.0,13.0,480.0,2.0,,3.5,oz,99.0,2017-09-06
+501,McDonald's,513fbc1283aa2dc80c000053,Hot Caramel Sundae,513fc9e73fe3ffd4030010f2,dessert,none,380.0,11.0,6.0,30.0,51.0,44.0,9.0,160.0,1.0,,1.0,sundae,182.0,2017-09-06
+502,McDonald's,513fbc1283aa2dc80c000053,Hotcakes,513fc9e73fe3ffd4030010fd,dessert,none,600.0,16.0,7.0,45.0,102.0,45.0,9.0,610.0,2.0,,5.1,oz,144.0,2017-09-06
+503,McDonald's,513fbc1283aa2dc80c000053,"Iced Coffee Caramel, Large",513fc9e73fe3ffd403001105,drink,coffee,230.0,7.0,4.5,30.0,43.0,40.0,3.0,80.0,0.0,,32.0,fl oz cup,,2017-09-06
+504,McDonald's,513fbc1283aa2dc80c000053,"Iced Coffee Hazelnut, Large",513fc9e73fe3ffd40300110b,drink,coffee,230.0,7.0,4.5,30.0,43.0,40.0,3.0,80.0,0.0,,32.0,fl oz cup,,2017-09-06
+505,McDonald's,513fbc1283aa2dc80c000053,"Iced Tea, Small",513fc9e73fe3ffd40300111d,drink,none,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0,,16.0,fl oz cup,,2017-09-06
+506,McDonald's,513fbc1283aa2dc80c000053,"Latte, Small",513fc9e73fe3ffd403001124,drink,coffee,170.0,9.0,5.0,25.0,15.0,12.0,9.0,115.0,0.0,,12.0,fl oz cup,,2017-09-06
+507,McDonald's,513fbc1283aa2dc80c000053,McChicken,513fc9e73fe3ffd40300112f,entree,none,350.0,15.0,3.5,40.0,40.0,5.0,15.0,600.0,2.0,,5.1,oz,144.0,2017-09-06
+508,McDonald's,513fbc1283aa2dc80c000053,McFlurry with M&M'S Chocolate Candies,513fc9e73fe3ffd403001131,dessert,none,630.0,22.0,14.0,50.0,77.0,86.0,13.0,200.0,2.0,,12.0,fl oz cup,310.0,2017-09-06
+509,McDonald's,513fbc1283aa2dc80c000053,"Minute Maid Orange Juice, Medium",513fc9e73fe3ffd40300113c,drink,none,190.0,0.0,0.0,0.0,44.0,39.0,3.0,0.0,0.0,,16.0,fl oz cup,,2017-09-06
+510,McDonald's,513fbc1283aa2dc80c000053,Premium Bacon Ranch Salad without chicken,513fc9e73fe3ffd403001162,entree,breakfast,320.0,14.0,6.0,135.0,9.0,4.0,42.0,1230.0,3.0,,5.9,oz,169.0,2017-09-06
+511,McDonald's,513fbc1283aa2dc80c000053,Salt Packet,513fc9e73fe3ffd403001174,misc,none,0.0,0.0,0.0,0.0,0.0,0.0,0.0,290.0,0.0,,1.0,pkg,,2017-09-06
+512,McDonald's,513fbc1283aa2dc80c000053,Sausage Burrito,513fc9e73fe3ffd403001179,entree,breakfast,290.0,15.0,6.0,165.0,26.0,2.0,13.0,800.0,1.0,,1.0,burrito,111.0,2017-09-06
+513,McDonald's,513fbc1283aa2dc80c000053,Sausage McGriddles,513fc9e73fe3ffd40300117a,entree,breakfast,430.0,24.0,9.0,35.0,42.0,15.0,11.0,990.0,1.0,,5.1,oz,144.0,2017-09-06
+514,McDonald's,513fbc1283aa2dc80c000053,Side Salad,513fc9e73fe3ffd40300117f,side,none,15.0,0.0,0.0,0.0,3.0,1.0,1.0,15.0,1.0,,2.7,oz,78.0,2017-09-06
+515,McDonald's,513fbc1283aa2dc80c000053,"Strawberry Banana Smoothie, Small",513fc9e73fe3ffd403001193,drink,none,190.0,0.5,0.0,5.0,44.0,39.0,2.0,40.0,2.0,,12.0,fl oz cup,,2017-09-06
+516,McDonald's,513fbc1283aa2dc80c000053,Strawberry Sundae,513fc9e73fe3ffd403001198,dessert,none,320.0,10.0,4.5,25.0,40.0,45.0,8.0,95.0,1.0,,1.0,sundae,178.0,2017-09-06
+517,McDonald's,513fbc1283aa2dc80c000053,"Sweet Tea, Large",513fc9e73fe3ffd40300119e,drink,none,160.0,0.0,0.0,0.0,38.0,38.0,1.0,25.0,0.0,,30.0,fl oz,,2017-09-06
+518,McDonald's,513fbc1283aa2dc80c000053,"Vanilla Shake, Small",513fc9e73fe3ffd4030011a3,dessert,none,490.0,14.0,9.0,60.0,61.0,59.0,11.0,230.0,0.0,,12.0,fl oz,,2017-09-06
+519,McDonald's,513fbc1283aa2dc80c000053,Big Breakfast with Hotcakes and Egg Whites,521b95c74a56d006d578b11c,entree,breakfast,1270.0,57.0,22.0,95.0,154.0,48.0,33.0,2150.0,6.0,,14.5,oz,412.0,2017-09-06
+520,McDonald's,513fbc1283aa2dc80c000053,"Premium McWrap Chicken & Ranch, Buttermilk Crispy",521b95c74a56d006d578b128,entree,none,650.0,33.0,9.0,80.0,60.0,5.0,30.0,1400.0,4.0,,10.9,oz,309.0,2017-09-06
+521,McDonald's,513fbc1283aa2dc80c000053,Quarter Pounder Deluxe,521b95c74a56d006d578b12e,entree,none,590.0,32.0,14.0,105.0,44.0,11.0,32.0,1180.0,4.0,,9.2,oz,260.0,2017-09-06
+522,McDonald's,513fbc1283aa2dc80c000053,Sausage Biscuit with Egg Whites,521b95c74a56d006d578b130,entree,breakfast,490.0,31.0,14.0,45.0,36.0,3.0,17.0,1140.0,2.0,,5.8,oz,164.0,2017-09-06
+523,McDonald's,513fbc1283aa2dc80c000053,Bacon Buffalo Ranch McChicken,534449c77ba4ca15456f5028,entree,breakfast,430.0,21.0,4.5,55.0,40.0,6.0,20.0,1040.0,2.0,,5.7,oz,162.0,2017-09-06
+524,McDonald's,513fbc1283aa2dc80c000053,Bacon Cheddar McChicken,534449c8bbe335144597ff2c,entree,breakfast,470.0,23.0,8.0,70.0,43.0,6.0,23.0,1040.0,3.0,,6.1,oz,172.0,2017-09-06
+525,McDonald's,513fbc1283aa2dc80c000053,Pico Guacamole Artisan Grilled Chicken without Bun,c6402811a01776b61beeb1a0,entree,none,300.0,15.0,4.5,115.0,8.0,2.0,32.0,1200.0,2.0,,1.0,sandwich without bun,,2017-10-10
+526,McDonald's,513fbc1283aa2dc80c000053,Double Sausage McMuffin with Egg and Cheese,c64083490053b34035a306f4,entree,breakfast,670.0,48.0,18.0,310.0,30.0,3.0,28.0,1100.0,2.0,,,,,2017-09-06
+527,McDonald's,513fbc1283aa2dc80c000053,"Southern Style Sweet Tea, Medium",c640834902e2c008f6cf1417,drink,none,150.0,0.0,0.0,0.0,36.0,36.0,0.0,20.0,0.0,,,,,2017-09-06
+528,McDonald's,513fbc1283aa2dc80c000053,"Caffeine Free Diet Coke, Extra Small No Ice",c6408349063be64c3a5b4b74,drink,none,0.0,0.0,0.0,0.0,0.0,0.0,0.0,50.0,0.0,,,,,2017-09-06
+529,McDonald's,513fbc1283aa2dc80c000053,Big Mac with Butter,c64083490a5a313086b504b6,entree,none,560.0,31.0,12.0,85.0,46.0,9.0,25.0,950.0,3.0,,,,,2017-09-06
+530,McDonald's,513fbc1283aa2dc80c000053,"Cherry Coca-Cola, Large No Ice",c64083490a706978fa71da53,drink,none,400.0,0.0,0.0,0.0,105.0,105.0,0.0,105.0,0.0,,,,,2017-09-06
+531,McDonald's,513fbc1283aa2dc80c000053,"Vitamin Water Zero, Large No Ice",c64083490e22cbb4638482d9,drink,none,0.0,0.0,0.0,0.0,1.0,0.0,0.0,100.0,0.0,,,,,2017-09-06
+532,McDonald's,513fbc1283aa2dc80c000053,"Mist Twist, Extra Small No Ice",c64083490f63dcc4a6222032,drink,none,150.0,0.0,0.0,0.0,41.0,41.0,0.0,35.0,0.0,,,,,2017-09-06
+533,McDonald's,513fbc1283aa2dc80c000053,"Arctic Orange Shake, Large",c6408349178bb3fce03851b7,dessert,none,840.0,23.0,14.0,90.0,109.0,126.0,18.0,290.0,0.0,,,,,2017-09-06
+534,McDonald's,513fbc1283aa2dc80c000053,Twist Cone,c64083491de75f64c2635567,dessert,none,160.0,4.0,2.5,15.0,23.0,19.0,4.0,55.0,1.0,,,,,2017-09-06
+535,McDonald's,513fbc1283aa2dc80c000053,Cheese Curds,c64083491f2f9b30f3e7e30b,side,none,440.0,30.0,15.0,80.0,18.0,1.0,24.0,970.0,2.0,,,,,2017-09-06
+536,McDonald's,513fbc1283aa2dc80c000053,Hamburger New York,c64083492219c864c49798ab,entree,none,250.0,8.0,3.0,30.0,31.0,6.0,13.0,470.0,2.0,,,,,2017-09-06
+537,McDonald's,513fbc1283aa2dc80c000053,Deluxe Buttermilk Crispy Chicken on Potato Roll,c64083492343e8d0af7d6e52,entree,none,530.0,22.0,4.5,60.0,55.0,5.0,26.0,1020.0,4.0,,,,,2017-09-06
+538,McDonald's,513fbc1283aa2dc80c000053,Hot N Spicy McChicken Biscuit,c640834927f393b0f3a0c76b,entree,breakfast,430.0,22.0,9.0,40.0,46.0,2.0,14.0,1070.0,3.0,,,,,2017-09-06
+539,McDonald's,513fbc1283aa2dc80c000053,Sriracha Artisan Grilled Chicken on Artisan Roll,c64083492a6530604af871d1,entree,none,560.0,20.0,5.0,115.0,56.0,14.0,41.0,1550.0,4.0,,,,,2017-09-06
+540,McDonald's,513fbc1283aa2dc80c000053,McChicken Deluxe,c64083492b01655849018a81,entree,none,430.0,19.0,6.0,55.0,47.0,7.0,18.0,830.0,3.0,,,,,2017-09-06
+541,McDonald's,513fbc1283aa2dc80c000053,Chorizo Burrito,c64083492cd1ad2cd10e3bd3,entree,breakfast,310.0,15.0,6.0,175.0,28.0,3.0,16.0,820.0,2.0,,,,,2017-09-06
+542,McDonald's,513fbc1283aa2dc80c000053,"Fanta Strawberry, Extra Small No Ice",c64083492e9aeb082fb1c7d0,drink,none,170.0,0.0,0.0,0.0,45.0,44.0,0.0,55.0,0.0,,,,,2017-09-06
+543,McDonald's,513fbc1283aa2dc80c000053,"Mello Yello, Large",c6408349318e5a5466ce21a5,drink,none,310.0,0.0,0.0,0.0,83.0,83.0,0.0,95.0,0.0,,,,,2017-09-06
+544,McDonald's,513fbc1283aa2dc80c000053,Quarter Pounder Deluxe New York,c640834935fde9000badb5a4,entree,none,590.0,32.0,14.0,105.0,44.0,11.0,32.0,1170.0,4.0,,,,,2017-09-06
+545,McDonald's,513fbc1283aa2dc80c000053,"Fanta Grape, Extra Small No Ice",c640834936d74b844ddba5a5,drink,none,170.0,0.0,0.0,0.0,44.0,43.0,0.0,55.0,0.0,,,,,2017-09-06
+546,McDonald's,513fbc1283aa2dc80c000053,"Peppermint Mocha, Large",c640834937f368742b34d544,drink,coffee,500.0,17.0,10.0,50.0,71.0,63.0,16.0,240.0,1.0,,,,,2017-09-06
+547,McDonald's,513fbc1283aa2dc80c000053,Low Fat Crunchy Granola Packet,c640834939a73b58d667c407,misc,none,30.0,0.0,0.0,0.0,6.0,2.0,1.0,40.0,0.0,,,,,2017-09-06
+548,McDonald's,513fbc1283aa2dc80c000053,"Southern Style Sweet Tea, Extra Small No Ice",c64083493c1a3090d65a2aff,drink,none,150.0,0.0,0.0,0.0,37.0,37.0,0.0,10.0,0.0,,,,,2017-09-06
+549,McDonald's,513fbc1283aa2dc80c000053,"Fanta Grape, Medium No Ice",c64083493e4c0db8e8fdc6e3,drink,none,300.0,0.0,0.0,0.0,77.0,76.0,0.0,95.0,0.0,,,,,2017-09-06
+550,McDonald's,513fbc1283aa2dc80c000053,Chicken McGriddles,c640834946b1ac9da15cafca,entree,breakfast,390.0,15.0,4.5,35.0,51.0,14.0,14.0,1000.0,2.0,,,,,2017-09-06
+551,McDonald's,513fbc1283aa2dc80c000053,"Fruitopia Strawberry Passion, Small No Ice",c6408349490a65ddfd62088f,drink,none,210.0,0.0,0.0,0.0,57.0,56.0,0.0,70.0,0.0,,,,,2017-09-06
+552,McDonald's,513fbc1283aa2dc80c000053,"Fanta Fruit Punch, Large No Ice",c640834949bcd04da8520eea,drink,none,400.0,0.0,0.0,0.0,104.0,102.0,0.0,150.0,0.0,,,,,2017-09-06
+553,McDonald's,513fbc1283aa2dc80c000053,Hotcakes with Caramel Apple Topping,c64083494a492a8d988b7f02,dessert,none,580.0,9.0,2.0,20.0,116.0,65.0,9.0,680.0,3.0,,,,,2017-09-06
+554,McDonald's,513fbc1283aa2dc80c000053,"Hi-C Poppin' Pink Lemonade, Medium",c64083494e5493518d821d5a,drink,none,200.0,0.0,0.0,0.0,54.0,54.0,0.0,95.0,0.0,,,,,2017-09-06
+555,McDonald's,513fbc1283aa2dc80c000053,Quarter Pounder,c64083495519eae513452eec,entree,none,430.0,20.0,8.0,75.0,38.0,9.0,26.0,700.0,2.0,,,,,2017-09-06
+556,McDonald's,513fbc1283aa2dc80c000053,Bagel With Cream Cheese,c64083495b1f531d7c76ac29,entree,breakfast,310.0,8.0,4.0,25.0,49.0,6.0,10.0,570.0,3.0,,,,,2017-09-06
+557,McDonald's,513fbc1283aa2dc80c000053,"Barq's Root Beer, Large",c64083495de2b3f9fdfb488b,drink,none,320.0,0.0,0.0,0.0,84.0,83.0,0.0,100.0,0.0,,,,,2017-09-06
+558,McDonald's,513fbc1283aa2dc80c000053,"Fruitopia Strawberry Passion, Small",c64083495eaa11257a9b51c1,drink,none,160.0,0.0,0.0,0.0,43.0,42.0,0.0,50.0,0.0,,,,,2017-09-06
+559,McDonald's,513fbc1283aa2dc80c000053,"Hawaiian Punch Fruit Juicy Red, Medium No Ice",c64083495eacee5dc9dbc04f,drink,none,300.0,0.0,0.0,0.0,79.0,78.0,0.0,95.0,0.0,,,,,2017-09-06
+560,McDonald's,513fbc1283aa2dc80c000053,"Egg Nog Shake, Medium",c6408349619810d10532e2b0,dessert,none,570.0,16.0,10.0,65.0,73.0,79.0,12.0,200.0,0.0,,,,,2017-09-06
+561,McDonald's,513fbc1283aa2dc80c000053,Bacon Double Cheeseburger New York,c640834963b710c5a3b354c6,entree,breakfast,500.0,26.0,12.0,100.0,36.0,8.0,30.0,1270.0,2.0,,,,,2017-09-06
+562,McDonald's,513fbc1283aa2dc80c000053,"Fanta Grape, Small No Ice",c640834966915339e2c7ba2f,drink,none,230.0,0.0,0.0,0.0,59.0,58.0,0.0,70.0,0.0,,,,,2017-09-06
+563,McDonald's,513fbc1283aa2dc80c000053,Double Cheeseburger New York,c640834966d57221dd5e4ef7,entree,none,430.0,22.0,11.0,85.0,35.0,7.0,25.0,1040.0,2.0,,,,,2017-09-06
+564,McDonald's,513fbc1283aa2dc80c000053,"Mist Twist, Medium",c640834966fb4d9523ddc714,drink,none,220.0,0.0,0.0,0.0,57.0,57.0,0.0,45.0,0.0,,,,,2017-09-06
+565,McDonald's,513fbc1283aa2dc80c000053,Mint Chocolate Chip Ice Cream,c64083496ca469d990cf8f76,dessert,none,290.0,17.0,11.0,35.0,30.0,19.0,4.0,80.0,1.0,,,,,2017-09-06
+566,McDonald's,513fbc1283aa2dc80c000053,"Popcorn, Small",c64083496ca5103517421100,drink,none,230.0,15.0,1.5,0.0,21.0,0.0,3.0,580.0,1.0,,,,,2017-09-06
+567,McDonald's,513fbc1283aa2dc80c000053,"Hot Tea, Small",c64083496f2cc83589b48032,drink,none,0.0,0.0,0.0,0.0,1.0,0.0,0.0,10.0,0.0,,,,,2017-09-06
+568,McDonald's,513fbc1283aa2dc80c000053,Homestyle Burger,c640834970a8a2ade58463e7,entree,none,440.0,21.0,8.0,75.0,36.0,6.0,26.0,630.0,3.0,,,,,2017-09-06
+569,McDonald's,513fbc1283aa2dc80c000053,"Fanta Fruit Punch, Extra Small",c640834974f97639dc35baf7,drink,none,120.0,0.0,0.0,0.0,31.0,31.0,0.0,45.0,0.0,,,,,2017-09-06
+570,McDonald's,513fbc1283aa2dc80c000053,Donatos 7 inch Cheese Pizza,c640834978c74d51f57a384f,entree,none,540.0,27.0,15.0,80.0,43.0,4.0,29.0,1270.0,2.0,,,,,2017-09-06
+571,McDonald's,513fbc1283aa2dc80c000053,"Fruitopia Strawberry Passion, Extra Small No Ice",c64083497c2081c972f97229,drink,none,160.0,0.0,0.0,0.0,43.0,42.0,0.0,50.0,0.0,,,,,2017-09-06
+572,McDonald's,513fbc1283aa2dc80c000053,Bagel Plain,c64083497d2716a5c3b7514f,entree,breakfast,260.0,2.0,0.0,0.0,50.0,5.0,10.0,500.0,3.0,,,,,2017-09-06
+573,McDonald's,513fbc1283aa2dc80c000053,Southern Style Chicken McGriddles,c640834987734ef6c9f20b93,entree,breakfast,410.0,15.0,4.5,30.0,51.0,16.0,16.0,1160.0,1.0,,,,,2017-09-06
+574,McDonald's,513fbc1283aa2dc80c000053,"Chocolate Cone, Large",c64083498aaf355ed2f8e27f,dessert,none,330.0,9.0,6.0,35.0,53.0,43.0,9.0,105.0,2.0,,,,,2017-09-06
+575,McDonald's,513fbc1283aa2dc80c000053,"Fanta Orange, Medium",c64083498e8f98ce299dda98,drink,none,240.0,0.0,0.0,0.0,62.0,61.0,0.0,55.0,0.0,,,,,2017-09-06
+576,McDonald's,513fbc1283aa2dc80c000053,"Iced Caramel Latte, Small",c640834991211e66194d0fac,drink,coffee,200.0,6.0,3.5,20.0,30.0,29.0,7.0,85.0,0.0,,,,,2017-09-06
+577,McDonald's,513fbc1283aa2dc80c000053,Bacon and White Cheddar Cheese McMuffin,c640834993be5946b3df329a,entree,breakfast,350.0,16.0,7.0,255.0,30.0,3.0,20.0,770.0,2.0,,,,,2017-09-06
+578,McDonald's,513fbc1283aa2dc80c000053,Quarter Pounder New York,c6408349986ad1b6d70cf827,entree,none,430.0,20.0,8.0,75.0,38.0,9.0,26.0,700.0,2.0,,,,,2017-09-06
+579,McDonald's,513fbc1283aa2dc80c000053,"Sprite Zero, Large No Ice",c64083499994c762aa77a09a,drink,none,10.0,0.0,0.0,0.0,0.0,0.0,0.0,55.0,0.0,,,,,2017-09-06
+580,McDonald's,513fbc1283aa2dc80c000053,Raspberry Pastry,c640834999e60176b3d1b9a2,dessert,none,110.0,5.0,2.5,15.0,14.0,4.0,2.0,105.0,1.0,,,,,2017-09-06
+581,McDonald's,513fbc1283aa2dc80c000053,"Hi-C Poppin' Pink Lemonade, Large",c6408349a005d066c63ad2db,drink,none,280.0,0.0,0.0,0.0,73.0,73.0,0.0,130.0,0.0,,,,,2017-09-06
+582,McDonald's,513fbc1283aa2dc80c000053,Sausage Scratch Biscuit with Egg,c6408349a0744f1e433ef0f5,entree,breakfast,550.0,36.0,15.0,240.0,41.0,4.0,18.0,1160.0,2.0,,,,,2017-09-06
+583,McDonald's,513fbc1283aa2dc80c000053,"Minute Maid Lemonade, Small",c6408349a49c966e4b42d3d9,drink,none,140.0,0.0,0.0,0.0,38.0,36.0,0.0,95.0,0.0,,,,,2017-09-06
+584,McDonald's,513fbc1283aa2dc80c000053,Cheddar Bacon Onion Grilled Chicken Sandwich,c6408349b3eae9c69c76a9a6,entree,breakfast,650.0,26.0,10.0,155.0,50.0,14.0,53.0,2130.0,4.0,,,,,2017-09-06
+585,McDonald's,513fbc1283aa2dc80c000053,Sausage Egg and Cheese Bagel,c6408349b5669c4e6f8be125,entree,breakfast,670.0,39.0,16.0,245.0,54.0,7.0,27.0,1300.0,4.0,,,,,2017-09-06
+586,McDonald's,513fbc1283aa2dc80c000053,"Pepsi, Medium",c6408349b66c4796fcbfe033,drink,none,60.0,0.0,0.0,0.0,16.0,16.0,0.0,30.0,0.0,,,,,2017-09-06
+587,McDonald's,513fbc1283aa2dc80c000053,"Latte Pumpkin Spice, Small",c6408349b8653f3a77b6495d,drink,coffee,270.0,9.0,5.0,25.0,41.0,39.0,10.0,130.0,1.0,,,,,2017-09-06
+588,McDonald's,513fbc1283aa2dc80c000053,"FUZE Raspberry Tea, Small",c6408349b875a01a5fb89ed5,drink,none,90.0,0.0,0.0,0.0,23.0,22.0,0.0,50.0,0.0,,,,,2017-09-06
+589,McDonald's,513fbc1283aa2dc80c000053,"Pepsi, Small",c6408349c349ccd3b801bf7a,drink,none,150.0,0.0,0.0,0.0,40.0,40.0,0.0,30.0,0.0,,,,,2017-09-06
+590,McDonald's,513fbc1283aa2dc80c000053,"Mr. Pibb Xtra, Large",c6408349c4d21b8b073ba6d8,drink,none,290.0,0.0,0.0,0.0,79.0,79.0,0.0,45.0,0.0,,,,,2017-09-06
+591,McDonald's,513fbc1283aa2dc80c000053,"Cherry Coca-Cola, Medium",c6408349c4e807bfe9329843,drink,none,230.0,0.0,0.0,0.0,59.0,59.0,0.0,60.0,0.0,,,,,2017-09-06
+592,McDonald's,513fbc1283aa2dc80c000053,"Fruit 'N Yogurt Parfait, Large",c6408349c5049fb3a9edb696,side,none,300.0,4.5,2.5,15.0,58.0,45.0,8.0,110.0,1.0,,,,,2017-09-06
+593,McDonald's,513fbc1283aa2dc80c000053,"Vitamin Water Zero, Medium No Ice",c6408349c72e2ba7b959523a,drink,none,0.0,0.0,0.0,0.0,0.0,0.0,0.0,70.0,0.0,,,,,2017-09-06
+594,McDonald's,513fbc1283aa2dc80c000053,"Pepsi, Medium No Ice",c6408349cc7a8ac3082515b8,drink,none,270.0,0.0,0.0,0.0,73.0,72.0,0.0,55.0,0.0,,,,,2017-09-06
+595,McDonald's,513fbc1283aa2dc80c000053,"Caffeine Free Diet Coke, Small No Ice",c6408349cd04ac7724c3c82c,drink,none,0.0,0.0,0.0,0.0,0.0,0.0,0.0,65.0,0.0,,,,,2017-09-06
+596,McDonald's,513fbc1283aa2dc80c000053,"Coke ICEE, Small",c6408349cf658cdfdc16ce7b,drink,none,130.0,0.0,0.0,0.0,35.0,35.0,0.0,15.0,0.0,,,,,2017-09-06
+597,McDonald's,513fbc1283aa2dc80c000053,Fruit and Maple Oatmeal with Maple Sugar Packet,c6408349d1eb6ccb5447ce55,entree,breakfast,270.0,4.0,1.5,5.0,53.0,22.0,7.0,115.0,5.0,,,,,2017-09-06
+598,McDonald's,513fbc1283aa2dc80c000053,"Caffeine Free Diet Coke, Extra Small",c6408349d25fb4274c4566d9,drink,none,0.0,0.0,0.0,0.0,0.0,0.0,0.0,35.0,0.0,,,,,2017-09-06
+599,McDonald's,513fbc1283aa2dc80c000053,Caesar McWrap With Buttermilk Crispy Chicken,c6408349d2a6fa1ba25ff7ea,entree,none,640.0,32.0,7.0,70.0,60.0,5.0,29.0,1320.0,5.0,,,,,2017-09-06
+600,McDonald's,513fbc1283aa2dc80c000053,Deluxe Artisan Grilled Chicken on Artisan Roll,c6408349dff55837a5ae01e6,entree,none,410.0,9.0,3.0,100.0,46.0,11.0,37.0,1160.0,3.0,,,,,2017-09-06
+601,McDonald's,513fbc1283aa2dc80c000053,Double Chocolate Muffin Topper,c6408349e30040fbeeaa7def,entree,none,160.0,8.0,2.5,15.0,20.0,12.0,2.0,100.0,1.0,,,,,2017-09-06
+602,McDonald's,513fbc1283aa2dc80c000053,Cookie Dough Ice Cream,c6408349f02c759f36b4b2c0,dessert,none,290.0,15.0,10.0,35.0,36.0,26.0,4.0,110.0,1.0,,,,,2017-09-06
+603,McDonald's,513fbc1283aa2dc80c000053,"Hawaiian Punch Fruit Juicy Red, Large No Ice",c6408349f14e2f2fa8a3ed3e,drink,none,420.0,0.0,0.0,0.0,113.0,111.0,0.0,135.0,0.0,,,,,2017-09-06
+604,McDonald's,513fbc1283aa2dc80c000053,Chicken Carver Sandwich,c6408349f290936fe76ee4bf,entree,none,790.0,34.0,9.0,90.0,72.0,4.0,45.0,1470.0,6.0,,,,,2017-09-06
+605,McDonald's,513fbc1283aa2dc80c000053,Gourmet Twist Hot Pretzel with Butter Salt,c6408349f51eeebf55b12701,side,none,480.0,8.0,1.5,0.0,90.0,4.0,13.0,980.0,3.0,,,,,2017-09-06
+606,McDonald's,513fbc1283aa2dc80c000053,Portuguese Sausage Eggs and Rice,c6408349f7da2b1f19e41a10,entree,breakfast,520.0,29.0,10.0,475.0,37.0,2.0,26.0,690.0,1.0,,,,,2017-09-06
+607,McDonald's,513fbc1283aa2dc80c000053,"Orange Crush, Small",c6408349f9ccfc9b8bd5c96e,drink,none,45.0,0.0,0.0,0.0,12.0,12.0,0.0,25.0,0.0,,,,,2017-09-06
+608,McDonald's,513fbc1283aa2dc80c000053,Fried Guava Pie,c6408349f9fef09fe9f59f33,dessert,none,210.0,7.0,3.0,0.0,35.0,16.0,2.0,140.0,1.0,,,,,2017-09-06
+609,McDonald's,513fbc1283aa2dc80c000053,Pico Guacamole Artisan Grilled Chicken Sandwich on Artisan Roll,c6408349fa3b9383d339088b,entree,none,520.0,18.0,6.0,115.0,50.0,12.0,40.0,1540.0,4.0,,,,,2017-09-06
+610,McDonald's,513fbc1283aa2dc80c000053,"Barq's Caffeine Free Root Beer, Large No Ice",c6408349fa93cdb79d4c9a4e,drink,none,420.0,0.0,0.0,0.0,109.0,108.0,0.0,170.0,0.0,,,,,2017-09-06
+611,McDonald's,513fbc1283aa2dc80c000053,"Southern Style Sweet Tea, Small No Ice",c6408349fadccfc397195d9a,drink,none,230.0,0.0,0.0,0.0,56.0,56.0,1.0,15.0,0.0,,,,,2017-09-06
+612,McDonald's,513fbc1283aa2dc80c000053,"Mist Twist, Small No Ice",c6408349fe3ce3970086a358,drink,none,200.0,0.0,0.0,0.0,54.0,54.0,0.0,45.0,0.0,,,,,2017-09-06
+613,McDonald's,513fbc1283aa2dc80c000053,Chicken McNuggets (4 piece),ddee525645450459acf85b56,entree,none,180.0,11.0,2.0,30.0,11.0,0.0,10.0,340.0,1.0,,2.3,oz,65.0,2017-09-06
+614,McDonald's,513fbc1283aa2dc80c000053,"Dr Pepper, Extra Small",ddee52567a73896dd6119c4f,drink,none,120.0,0.0,0.0,0.0,32.0,32.0,0.0,40.0,0.0,,12.0,fl oz cup,,2017-09-06
+615,McDonald's,513fbc1283aa2dc80c000053,Steakhouse Sirloin Third Pound Burger,ddee5256d774113b8f203e4e,entree,none,730.0,36.0,16.0,135.0,62.0,11.0,39.0,1550.0,4.0,,9.7,oz,276.0,2017-09-06
+621,McDonald's,513fbc1283aa2dc80c000053,"Iced Strawberry Lemonade, Small",23cb59490ed045f0643b1c45,drink,none,120.0,0.0,0.0,0.0,33.0,28.0,1.0,10.0,1.0,,13.8,oz,390.0,2017-09-06
+622,McDonald's,513fbc1283aa2dc80c000053,"Southern Style Frozen Strawberry Lemonade, Small",23cb59497bc13c39ce7b95cb,drink,none,280.0,0.0,0.0,0.0,73.0,68.0,0.0,180.0,0.0,,14.1,oz,399.0,2017-09-06
+623,McDonald's,513fbc1283aa2dc80c000053,Apple Slices,23cb594989518baa90a3314e,side,none,15.0,0.0,0.0,0.0,4.0,3.0,0.0,0.0,0.0,,1.2,oz,34.0,2017-09-06
+624,McDonald's,513fbc1283aa2dc80c000053,"Red Flash, Extra Small",23cb59498f6ed8cacb4f92af,drink,none,120.0,0.0,0.0,0.0,31.0,31.0,0.0,30.0,0.0,,9.2,oz,260.0,2017-09-06
+625,McDonald's,513fbc1283aa2dc80c000053,"Southern Style Frozen Lemonade, Small",23cb5949c72e993726f9f190,drink,none,230.0,0.0,0.0,0.0,61.0,56.0,0.0,170.0,0.0,,12.6,oz,357.0,2017-09-06
+626,McDonald's,513fbc1283aa2dc80c000053,"Frappe Oreo, Small",23cb5949f259be67aead0432,drink,coffee,460.0,17.0,10.0,55.0,72.0,58.0,6.0,150.0,1.0,,14.6,oz,413.0,2017-09-06
+627,McDonald's,513fbc1283aa2dc80c000053,"Bacon, Egg & Cheese Biscuit",513fc9e73fe3ffd403001098,entree,breakfast,450.0,24.0,12.0,200.0,40.0,3.0,18.0,1290.0,3.0,,5.2,oz,147.0,2017-09-06
+628,McDonald's,513fbc1283aa2dc80c000053,Big Breakfast with Hotcakes,513fc9e73fe3ffd40300109e,entree,breakfast,1350.0,65.0,25.0,510.0,155.0,48.0,35.0,2100.0,6.0,,14.5,oz,412.0,2017-09-06
+629,McDonald's,513fbc1283aa2dc80c000053,"Latte Caramel, Small",513fc9e73fe3ffd4030010a3,drink,coffee,270.0,9.0,5.0,25.0,40.0,38.0,9.0,115.0,1.0,,12.0,fl oz cup,,2017-09-06
+630,McDonald's,513fbc1283aa2dc80c000053,Chicken McNuggets (10 piece),513fc9e73fe3ffd4030010a8,entree,none,440.0,27.0,4.5,75.0,26.0,0.0,24.0,840.0,2.0,,10.0,pieces,162.0,2017-09-06
+631,McDonald's,513fbc1283aa2dc80c000053,Cinnamon Melts,513fc9e73fe3ffd4030010b5,dessert,none,460.0,19.0,9.0,15.0,66.0,32.0,6.0,370.0,3.0,,1.0,cinnamon melt,114.0,2017-09-06
+632,McDonald's,513fbc1283aa2dc80c000053,"Diet Dr Pepper, Large",513fc9e73fe3ffd4030010c2,drink,none,0.0,0.0,0.0,0.0,0.0,0.0,0.0,65.0,0.0,,30.0,fl oz cup,,2017-09-06
+633,McDonald's,513fbc1283aa2dc80c000053,"Diet Dr Pepper, Small",513fc9e73fe3ffd4030010c7,drink,none,0.0,0.0,0.0,0.0,0.0,0.0,0.0,25.0,0.0,,16.0,fl oz cup,,2017-09-06
+634,McDonald's,513fbc1283aa2dc80c000053,"Frappe Chocolate Chip, Small",513fc9e73fe3ffd4030010d9,drink,coffee,500.0,22.0,14.0,65.0,72.0,64.0,8.0,130.0,1.0,,12.0,fl oz cup,,2017-09-06
+635,McDonald's,513fbc1283aa2dc80c000053,"Latte French Vanilla, Small",513fc9e73fe3ffd4030010df,drink,coffee,260.0,9.0,5.0,25.0,38.0,36.0,9.0,115.0,1.0,,12.0,fl oz cup,,2017-09-06
+636,McDonald's,513fbc1283aa2dc80c000053,Fruit & Maple Oatmeal,513fc9e73fe3ffd4030010e1,entree,breakfast,310.0,4.0,1.5,5.0,62.0,33.0,6.0,140.0,5.0,,1.0,oatmeal,251.0,2017-09-06
+637,McDonald's,513fbc1283aa2dc80c000053,Hash Browns,513fc9e73fe3ffd4030010e6,side,none,150.0,9.0,1.5,0.0,16.0,0.0,1.0,320.0,1.0,,1.0,hash brown,56.0,2017-09-06
+638,McDonald's,513fbc1283aa2dc80c000053,Hotcakes and Sausage,513fc9e73fe3ffd4030010fe,entree,breakfast,790.0,35.0,13.0,80.0,103.0,45.0,16.0,890.0,2.0,,6.7,oz,189.0,2017-09-06
+639,McDonald's,513fbc1283aa2dc80c000053,"Iced Caramel Mocha, Small",513fc9e73fe3ffd403001101,drink,coffee,270.0,11.0,6.0,35.0,37.0,31.0,7.0,140.0,0.0,,12.0,fl oz cup,,2017-09-06
+640,McDonald's,513fbc1283aa2dc80c000053,"Iced Coffee Caramel, Medium",513fc9e73fe3ffd403001106,drink,coffee,160.0,5.0,3.5,20.0,29.0,27.0,2.0,60.0,0.0,,22.0,fl oz cup,,2017-09-06
+641,McDonald's,513fbc1283aa2dc80c000053,"Iced Coffee Hazelnut, Medium",513fc9e73fe3ffd40300110c,drink,coffee,160.0,5.0,3.5,20.0,29.0,27.0,2.0,60.0,0.0,,22.0,fl oz cup,,2017-09-06
+642,McDonald's,513fbc1283aa2dc80c000053,"Iced Mocha, Small",513fc9e73fe3ffd403001113,drink,coffee,290.0,11.0,6.0,35.0,40.0,34.0,8.0,125.0,1.0,,12.0,fl oz cup,,2017-09-06
+643,McDonald's,513fbc1283aa2dc80c000053,Ketchup Packet,513fc9e73fe3ffd40300111e,misc,none,10.0,0.0,0.0,0.0,2.0,2.0,0.0,90.0,0.0,,1.0,pkg,9.0,2017-09-06
+644,McDonald's,513fbc1283aa2dc80c000053,Kids Fries,513fc9e73fe3ffd403001120,side,none,110.0,5.0,1.0,0.0,15.0,0.0,1.0,80.0,1.0,,1.0,fries,38.0,2017-09-06
+645,McDonald's,513fbc1283aa2dc80c000053,"Latte Sugar Free French Vanilla, Large",513fc9e73fe3ffd403001125,drink,coffee,330.0,14.0,8.0,40.0,37.0,20.0,15.0,240.0,1.0,,20.0,fl oz cup,,2017-09-06
+646,McDonald's,513fbc1283aa2dc80c000053,"Mango Pineapple Smoothie, Small",513fc9e73fe3ffd40300112b,drink,none,200.0,0.5,0.0,5.0,45.0,42.0,2.0,35.0,1.0,,12.0,fl oz cup,,2017-09-06
+647,McDonald's,513fbc1283aa2dc80c000053,"Minute Maid Orange Juice, Small",513fc9e73fe3ffd40300113d,drink,none,150.0,0.0,0.0,0.0,34.0,30.0,2.0,0.0,0.0,,12.0,fl oz cup,,2017-09-06
+648,McDonald's,513fbc1283aa2dc80c000053,Newman's Own Ranch Dressing,513fc9e73fe3ffd403001149,misc,none,200.0,17.0,2.5,20.0,11.0,4.0,1.0,530.0,1.0,,2.0,fl oz,,2017-09-06
+649,McDonald's,513fbc1283aa2dc80c000053,Oatmeal Raisin Cookie,513fc9e73fe3ffd40300115c,dessert,breakfast,140.0,5.0,2.5,10.0,22.0,12.0,2.0,125.0,1.0,,1.0,cookie,33.0,2017-09-06
+700,McDonald's,513fbc1283aa2dc80c000053,"Iced Hazelnut Latte, Large",c640834958101f5d29924758,drink,coffee,380.0,11.0,6.0,35.0,58.0,54.0,13.0,160.0,1.0,,,,,2017-09-06
+701,McDonald's,513fbc1283aa2dc80c000053,Southern Style Chicken Scratch Biscuit Pressure Fried,c64083495b604d816b0b6151,entree,breakfast,460.0,23.0,8.0,75.0,49.0,4.0,15.0,1160.0,2.0,,,,,2017-09-06
+702,McDonald's,513fbc1283aa2dc80c000053,"Mello Yello, Medium",c64083495fcb410913d970a0,drink,none,230.0,0.0,0.0,0.0,62.0,62.0,0.0,70.0,0.0,,,,,2017-09-06
+703,McDonald's,513fbc1283aa2dc80c000053,Biscuit and Gravy,c640834960ff63a530fabdcc,entree,breakfast,440.0,25.0,10.0,20.0,43.0,3.0,10.0,1270.0,2.0,,,,,2017-09-06
+704,McDonald's,513fbc1283aa2dc80c000053,Steak Egg and Cheese McGriddles,c640834961bdd60dcf8b23eb,entree,breakfast,500.0,24.0,11.0,225.0,46.0,16.0,25.0,1430.0,3.0,,,,,2017-09-06
+705,McDonald's,513fbc1283aa2dc80c000053,"Minute Maid Cherry Limeade Slushie, Small",c6408349641ddc597a82f1a9,drink,none,190.0,0.0,0.0,0.0,50.0,49.0,0.0,15.0,0.0,,,,,2017-09-06
+706,McDonald's,513fbc1283aa2dc80c000053,"Coca-Cola Zero, Extra Small No Ice",c6408349666f7ae57e0ad2e5,drink,none,0.0,0.0,0.0,0.0,0.0,0.0,0.0,40.0,0.0,,,,,2017-09-06
+707,McDonald's,513fbc1283aa2dc80c000053,"Caramel Macchiato, Small",c640834966ec78b5fe803297,drink,coffee,260.0,7.0,4.0,25.0,41.0,37.0,8.0,350.0,0.0,,,,,2017-09-06
+708,McDonald's,513fbc1283aa2dc80c000053,Quarter Pounder With Cheese New York,c64083496a0064258cdb0cca,entree,none,530.0,27.0,13.0,100.0,41.0,10.0,31.0,1090.0,3.0,,,,,2017-09-06
+709,McDonald's,513fbc1283aa2dc80c000053,"Barq's Caffeine Free Root Beer, Small No Ice",c64083496c3aed3512a25f80,drink,none,220.0,0.0,0.0,0.0,58.0,58.0,0.0,90.0,0.0,,,,,2017-09-06
+710,McDonald's,513fbc1283aa2dc80c000053,"Mello Yello, Large No Ice",c64083496d5b99c1ee5f9c5b,drink,none,410.0,0.0,0.0,0.0,109.0,109.0,0.0,125.0,0.0,,,,,2017-09-06
+711,McDonald's,513fbc1283aa2dc80c000053,"Minute Maid Light Lemonade, Extra Small No Ice",c640834970ec836d424adcc5,drink,none,5.0,0.0,0.0,0.0,2.0,0.0,0.0,20.0,0.0,,,,,2017-09-06
+712,McDonald's,513fbc1283aa2dc80c000053,"Hi-C Flashn' Fruit Punch, Large",c6408349710685bd0c61b3f4,drink,none,310.0,0.0,0.0,0.0,81.0,79.0,0.0,140.0,0.0,,,,,2017-09-06
+713,McDonald's,513fbc1283aa2dc80c000053,One Quarter Rotisserie Chicken Dark Platter,c64083497182653dcf6bf533,entree,breakfast,770.0,31.0,12.0,170.0,85.0,24.0,37.0,1400.0,9.0,,,,,2017-09-06
+714,McDonald's,513fbc1283aa2dc80c000053,"Twist Cone, Large",c6408349723a8d59f3fac30f,dessert,none,300.0,8.0,5.0,30.0,42.0,39.0,8.0,110.0,1.0,,,,,2017-09-06
+715,McDonald's,513fbc1283aa2dc80c000053,"Fanta Fruit Punch, Medium No Ice",c640834973c5e39dd3e62e63,drink,none,280.0,0.0,0.0,0.0,73.0,72.0,0.0,100.0,0.0,,,,,2017-09-06
+716,McDonald's,513fbc1283aa2dc80c000053,Lobster Roll,c6408349797455e984ac7aea,entree,none,290.0,5.0,1.5,65.0,35.0,3.0,24.0,630.0,2.0,,,,,2017-09-06
+717,McDonald's,513fbc1283aa2dc80c000053,Cheeseburger New York,c64083497e37b47164b27b81,entree,none,300.0,12.0,5.0,40.0,33.0,7.0,15.0,670.0,2.0,,,,,2017-09-06
+718,McDonald's,513fbc1283aa2dc80c000053,"Chocolate Dipped Cone, Large",c64083497ececce5011f5984,dessert,none,450.0,18.0,15.0,30.0,44.0,46.0,8.0,125.0,1.0,,,,,2017-09-06
+719,McDonald's,513fbc1283aa2dc80c000053,"Fanta Strawberry, Medium",c640834985ba4a9aaaf0fbe6,drink,none,240.0,0.0,0.0,0.0,63.0,63.0,0.0,75.0,0.0,,,,,2017-09-06
+720,McDonald's,513fbc1283aa2dc80c000053,"Minute Maid Lemonade, Small No Ice",c64083498a786076d2916747,drink,none,190.0,0.0,0.0,0.0,50.0,48.0,0.0,130.0,0.0,,,,,2017-09-06
+721,McDonald's,513fbc1283aa2dc80c000053,McFlurry with Reese's Peanut Butter Cup,c640834990ad0f9225a98e7c,dessert,none,610.0,24.0,11.0,45.0,66.0,76.0,16.0,320.0,2.0,,,,,2017-09-06
+722,McDonald's,513fbc1283aa2dc80c000053,"Diet Pepsi, Extra Small No Ice",c64083499496180609e648f8,drink,none,0.0,0.0,0.0,0.0,0.0,0.0,0.0,55.0,0.0,,,,,2017-09-06
+723,McDonald's,513fbc1283aa2dc80c000053,"Coffee, Large",c640834994b4880e317429b0,drink,coffee,0.0,0.0,0.0,0.0,2.0,0.0,2.0,30.0,0.0,,,,,2017-09-06
+724,McDonald's,513fbc1283aa2dc80c000053,Blueberry Muffin Topper,c6408349969e4ce2ceb7c51b,dessert,none,140.0,7.0,2.0,15.0,19.0,10.0,1.0,95.0,0.0,,,,,2017-09-06
+725,McDonald's,513fbc1283aa2dc80c000053,"Diet Pepsi, Small",c64083499ef7ce6e3afee9e0,drink,none,0.0,0.0,0.0,0.0,0.0,0.0,0.0,55.0,0.0,,,,,2017-09-06
+726,McDonald's,513fbc1283aa2dc80c000053,"Minute Maid Light Lemonade, Small",c64083499f1c841eda89442b,drink,none,10.0,0.0,0.0,0.0,2.0,0.0,0.0,25.0,0.0,,,,,2017-09-06
+727,McDonald's,513fbc1283aa2dc80c000053,Caramel Butter Pecan Ice Cream,c6408349a89b354e40adc221,dessert,none,330.0,20.0,10.0,40.0,34.0,23.0,5.0,125.0,1.0,,,,,2017-09-06
+728,McDonald's,513fbc1283aa2dc80c000053,Pico Guacamole Artisan Grilled Chicken on Sesame Seed Bun,c6408349b571f28605504884,entree,none,470.0,18.0,5.0,115.0,40.0,7.0,38.0,1450.0,3.0,,,,,2017-09-06
+729,McDonald's,513fbc1283aa2dc80c000053,"Minute Maid Orangeade Slushie, Small",c6408349b64aa48eb6a89a66,drink,none,180.0,0.0,0.0,0.0,47.0,46.0,0.0,20.0,0.0,,,,,2017-09-06
+730,McDonald's,513fbc1283aa2dc80c000053,"Minute Maid Lemonade, Medium No Ice",c6408349bde7de0af944099b,drink,none,240.0,0.0,0.0,0.0,63.0,63.0,0.0,140.0,0.0,,,,,2017-09-06
+731,McDonald's,513fbc1283aa2dc80c000053,McGriddles Spam,c6408349c1413ef33f1f94b0,entree,breakfast,450.0,21.0,9.0,205.0,45.0,15.0,17.0,1320.0,2.0,,,,,2017-09-06
+732,McDonald's,513fbc1283aa2dc80c000053,"Mountain Dew, Small No Ice",c6408349c66089abe7834223,drink,none,60.0,0.0,0.0,0.0,17.0,17.0,0.0,20.0,0.0,,,,,2017-09-06
+733,McDonald's,513fbc1283aa2dc80c000053,"Iced Hazelnut Latte, Small",c6408349c7ab072769a04e3d,drink,coffee,200.0,6.0,3.5,20.0,30.0,28.0,7.0,85.0,0.0,,,,,2017-09-06
+734,McDonald's,513fbc1283aa2dc80c000053,Bacon Biscuit,c6408349c820f1b7cd072147,entree,breakfast,340.0,17.0,9.0,20.0,36.0,3.0,10.0,1010.0,2.0,,,,,2017-09-06
+735,McDonald's,513fbc1283aa2dc80c000053,"Fanta Fruit Punch, Small",c6408349c82d3d9b6d2fa961,drink,none,160.0,0.0,0.0,0.0,42.0,41.0,0.0,60.0,0.0,,,,,2017-09-06
+736,McDonald's,513fbc1283aa2dc80c000053,"Fanta Fruit Punch, Small No Ice",c6408349c966969ba771f566,drink,none,210.0,0.0,0.0,0.0,55.0,55.0,0.0,80.0,0.0,,,,,2017-09-06
+737,McDonald's,513fbc1283aa2dc80c000053,McGriddles Buttermilk Crispy Chicken,c6408349cae88a27add09732,entree,breakfast,540.0,22.0,6.0,60.0,61.0,14.0,24.0,1320.0,3.0,,,,,2017-09-06
+738,McDonald's,513fbc1283aa2dc80c000053,Pico Guacamole Buttermilk Crispy Chicken Sandwich on Artisan Roll,c6408349cc8fc6c3596bddf5,entree,none,680.0,32.0,7.0,80.0,69.0,12.0,31.0,1430.0,6.0,,,,,2017-09-06
+739,McDonald's,513fbc1283aa2dc80c000053,"Minute Maid Orangeade Slushie, Large",c6408349d2087eab127d4154,drink,none,320.0,0.0,0.0,0.0,84.0,82.0,0.0,40.0,0.0,,,,,2017-09-06
+740,McDonald's,513fbc1283aa2dc80c000053,"Picante Sauce Packet, Mild",c6408349d96f193f872b663e,misc,none,0.0,0.0,0.0,0.0,1.0,0.0,0.0,130.0,0.0,,,,,2017-09-06
+741,McDonald's,513fbc1283aa2dc80c000053,"Tropicana Pink Lemonade, Small",c6408349db748a570cf9ba10,drink,none,40.0,0.0,0.0,0.0,11.0,11.0,0.0,55.0,0.0,,,,,2017-09-06
+742,McDonald's,513fbc1283aa2dc80c000053,"Barq's Root Beer, Large No Ice",c6408349dc404f53534fb381,drink,none,420.0,0.0,0.0,0.0,109.0,109.0,0.0,135.0,0.0,,,,,2017-09-06
+743,McDonald's,513fbc1283aa2dc80c000053,"Vanilla Cone, Large",c6408349dd5aa1af716d94c1,dessert,none,300.0,8.0,5.0,35.0,33.0,39.0,8.0,125.0,0.0,,,,,2017-09-06
+744,McDonald's,513fbc1283aa2dc80c000053,"Caramel Cappuccino, Small",c6408349dffad287015f6328,drink,coffee,730.0,19.0,11.0,55.0,125.0,119.0,20.0,240.0,1.0,,,,,2017-09-06
+745,McDonald's,513fbc1283aa2dc80c000053,Sriracha Artisan Grilled Chicken on Sesame Seed Bun,c6408349e41bd22394473afe,entree,none,510.0,20.0,4.5,115.0,46.0,9.0,39.0,1460.0,3.0,,,,,2017-09-06
+746,McDonald's,513fbc1283aa2dc80c000053,McChicken Hot 'N Spicy Patty,c6408349ec0384ffc10cf9ff,entree,none,160.0,10.0,2.0,35.0,11.0,0.0,9.0,300.0,1.0,,,,,2017-09-06
+747,McDonald's,513fbc1283aa2dc80c000053,"Vernor's Ginger Soda, Large No Ice",c6408349eca5a57bd71982c3,drink,none,360.0,0.0,0.0,0.0,97.0,96.0,0.0,120.0,0.0,,,,,2017-09-06
+748,McDonald's,513fbc1283aa2dc80c000053,"FUZE Raspberry Tea, Large",c6408349ed25b51b1e96f760,drink,none,170.0,0.0,0.0,0.0,44.0,43.0,0.0,95.0,0.0,,,,,2017-09-06
+749,McDonald's,513fbc1283aa2dc80c000053,"Minute Maid Fruit Punch Slushie, Small",c6408349ef47e2b7f937043b,drink,none,170.0,0.0,0.0,0.0,44.0,43.0,0.0,20.0,0.0,,,,,2017-09-06
+5,Wendy's,513fbc1283aa2dc80c00000f,Crispy Chicken Sandwich,516d9a42e3afed1038d004e9,entree,none,330.0,16.0,3.0,30.0,33.0,4.0,14.0,600.0,2.0,,1.0,sandwich,,2017-10-31
+6,Wendy's,513fbc1283aa2dc80c00000f,Grilled Chicken Wrap,516d9a42e3afed1038d004ea,entree,none,270.0,10.0,3.5,55.0,24.0,3.0,20.0,640.0,2.0,,1.0,wrap,,2017-10-31
+7,Wendy's,513fbc1283aa2dc80c00000f,"All-Natural Lemonade, Small",521b95ca4a56d006d578b6cf,drink,none,190.0,0.0,0.0,0.0,50.0,47.0,0.0,0.0,0.0,,1.0,drink,,2017-10-31
+8,Wendy's,513fbc1283aa2dc80c00000f,"Dr Pepper, Small Cup",521b95ca4a56d006d578b6d6,drink,none,120.0,0.0,0.0,0.0,33.0,32.0,0.0,35.0,0.0,,,,,2017-01-05
+9,Wendy's,513fbc1283aa2dc80c00000f,"Sprite, Small",521b95ca4a56d006d578b6dc,drink,none,200.0,0.0,0.0,0.0,53.0,53.0,0.0,90.0,0.0,,1.0,drink,,2017-10-31
+10,Wendy's,513fbc1283aa2dc80c00000f,"Spicy Chicken Caesar Salad, Half Size",521b95ca4a56d006d578b703,entree,none,410.0,24.0,7.0,80.0,29.0,4.0,23.0,990.0,5.0,,1.0,salad,,2017-10-31
+11,Wendy's,513fbc1283aa2dc80c00000f,"Applewood Smoked Bacon, 1 strip",521b95ca4a56d006d578b708,misc,breakfast,25.0,2.0,0.5,5.0,0.0,0.0,2.0,80.0,0.0,,1.0,strip,,2017-01-05
+12,Wendy's,513fbc1283aa2dc80c00000f,Ketchup,521b95ca4a56d006d578b70e,misc,none,10.0,0.0,0.0,0.0,2.0,2.0,0.0,85.0,0.0,,,,,2017-01-05
+13,Wendy's,513fbc1283aa2dc80c00000f,Mustard,521b95ca4a56d006d578b710,misc,none,5.0,0.0,0.0,0.0,0.0,0.0,0.0,45.0,0.0,,,,,2017-01-05
+14,Wendy's,513fbc1283aa2dc80c00000f,Smoky Honey Mustard,521b95ca4a56d006d578b715,misc,none,45.0,4.0,0.5,5.0,3.0,3.0,0.0,105.0,0.0,,,,,2017-01-05
+15,Wendy's,513fbc1283aa2dc80c00000f,Dave's Single,521b95ca4a56d006d578b71b,misc,none,570.0,34.0,13.0,100.0,39.0,9.0,30.0,1210.0,3.0,,1.0,burger,,2017-10-31
+16,Wendy's,513fbc1283aa2dc80c00000f,Apple Slices,521b95ca4a56d006d578b727,side,none,35.0,0.0,0.0,0.0,9.0,7.0,0.0,0.0,2.0,,1.0,serving,,2017-10-31
+17,Wendy's,513fbc1283aa2dc80c00000f,"Natural-Cut Fries, Small",521b95ca4a56d006d578b734,side,none,320.0,15.0,2.5,0.0,43.0,0.0,5.0,320.0,4.0,,1.0,serving,,2017-10-31
+18,Wendy's,513fbc1283aa2dc80c00000f,"Fanta Orange, Large",52cdcca3051cb9eb32004152,drink,none,430.0,0.0,0.0,0.0,117.0,115.0,0.0,110.0,0.0,,1.0,drink,,2017-10-31
+19,Wendy's,513fbc1283aa2dc80c00000f,"All-Natural Lemonade, Medium",52cdcca4051cb9eb3200415b,drink,none,330.0,0.0,0.0,0.0,86.0,81.0,0.0,0.0,0.0,,1.0,drink,,2017-10-31
+20,Wendy's,513fbc1283aa2dc80c00000f,"Strawberry Lemonade, Medium",52cdcca4051cb9eb3200416d,drink,none,380.0,0.0,0.0,0.0,98.0,92.0,0.0,5.0,0.0,,1.0,drink,,2017-10-31
+21,Wendy's,513fbc1283aa2dc80c00000f,"Coke Zero, Value",52cdcca4051cb9eb32004193,drink,none,0.0,0.0,0.0,0.0,0.0,0.0,0.0,40.0,0.0,,1.0,drink,,2017-10-31
+22,Wendy's,513fbc1283aa2dc80c00000f,"Fanta Orange, Kids' Meal",52cdcca4051cb9eb320041a3,drink,none,130.0,0.0,0.0,0.0,35.0,35.0,0.0,30.0,0.0,,1.0,drink,,2017-10-31
+23,Wendy's,513fbc1283aa2dc80c00000f,"Vanilla Frosty, Medium",52cdcca4051cb9eb320041c7,dessert,none,460.0,12.0,8.0,50.0,77.0,65.0,12.0,220.0,0.0,,1.0,frosty,,2017-10-31
+24,Wendy's,513fbc1283aa2dc80c00000f,"Hi-C Flashin' Fruit Punch, Kids' Meal",52cdcca5051cb9eb320041fa,drink,none,130.0,0.0,0.0,0.0,35.0,34.0,0.0,40.0,0.0,,1.0,drink,,2017-10-31
+25,Wendy's,513fbc1283aa2dc80c00000f,"Asiago Ranch Chicken Club, Homestyle",ae492026034f78e07bf4dd49,entree,none,670.0,34.0,9.0,110.0,54.0,7.0,38.0,1490.0,3.0,,1.0,sandwich,,2017-10-31
+26,Wendy's,513fbc1283aa2dc80c00000f,Artisan Egg Sandwich with Applewood Smoked Bacon,ae4920260f1019c4c20a3bf7,entree,breakfast,360.0,19.0,8.0,250.0,29.0,4.0,20.0,750.0,1.0,,1.0,sandwich,,2017-10-31
+27,Wendy's,513fbc1283aa2dc80c00000f,Bacon Cheese Baked Potato,ae4920261302f62459878105,side,breakfast,480.0,17.0,7.0,40.0,66.0,6.0,17.0,780.0,7.0,,1.0,potato,,2017-10-31
+28,Wendy's,513fbc1283aa2dc80c00000f,Fresh-Baked Biscuit with All-Natural Sausage,ae49202663a6101187904e02,entree,breakfast,590.0,41.0,19.0,270.0,36.0,5.0,20.0,1290.0,1.0,,1.0,sandwich,,2017-10-31
+29,Wendy's,513fbc1283aa2dc80c00000f,"Classic Chocolate Frosty, Small",ae49202672f43789e1a1359b,dessert,none,340.0,9.0,6.0,35.0,56.0,47.0,10.0,170.0,2.0,,1.0,frosty,,2017-10-31
+30,Wendy's,513fbc1283aa2dc80c00000f,Cheddar Cheese Slice,ae4920268e3822b2a915e9b6,misc,none,80.0,6.0,3.5,20.0,0.0,0.0,5.0,120.0,0.0,,1.0,slice,,2017-01-05
+31,Wendy's,513fbc1283aa2dc80c00000f,Mornin' Melt Panini with Applewood Smoked Bacon,ae492026d1156ac3138c37ec,entree,breakfast,520.0,33.0,10.0,285.0,33.0,3.0,31.0,790.0,1.0,,1.0,sandwich,,2017-10-31
+32,Wendy's,513fbc1283aa2dc80c00000f,"Brewed Decaffeinated Coffee, Small",c64044466f734771d6867607,drink,coffee,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,1.0,serving,,2017-10-31
+33,Wendy's,513fbc1283aa2dc80c00000f,Bacon Sriracha Fries,c6404446d1e71523b13fd6ae,side,breakfast,590.0,38.0,11.0,45.0,47.0,3.0,14.0,790.0,4.0,,1.0,order,,2017-10-31
+34,Wendy's,513fbc1283aa2dc80c00000f,"Coke Zero, Kids' Meal",c6404446e2467853e7ccf80f,drink,none,0.0,0.0,0.0,0.0,0.0,0.0,0.0,30.0,0.0,,1.0,drink,,2017-10-31
+59,Wendy's,513fbc1283aa2dc80c00000f,Iceberg Lettuce Leaf,23cb9275100f37b4fbb2beff,misc,none,5.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,,,,2017-01-05
+60,Wendy's,513fbc1283aa2dc80c00000f,Kids' 4-Piece Chicken Nuggets,23cb9275192f9e54ef22d8eb,entree,none,170.0,11.0,2.0,35.0,10.0,0.0,9.0,340.0,0.0,,1.0,serving,,2017-10-31
+61,Wendy's,513fbc1283aa2dc80c00000f,"Multigrain Bun, Toasted",23cb927551ac88cd9524983e,misc,none,160.0,1.5,0.0,0.0,33.0,7.0,6.0,320.0,2.0,,,,,2017-01-05
+62,Wendy's,513fbc1283aa2dc80c00000f,Jr. Cheeseburger,516d9a42e3afed1038d004df,entree,none,280.0,13.0,6.0,50.0,25.0,5.0,16.0,740.0,1.0,,1.0,burger,,2017-10-31
+63,Wendy's,513fbc1283aa2dc80c00000f,Jr. Bacon Cheeseburger,516d9a42e3afed1038d004e1,entree,breakfast,380.0,22.0,8.0,65.0,26.0,5.0,19.0,770.0,1.0,,1.0,burger,,2017-10-31
+64,Wendy's,513fbc1283aa2dc80c00000f,Grilled Chicken Sandwich,516d9a42e3afed1038d004e6,entree,none,360.0,8.0,1.5,90.0,38.0,11.0,35.0,820.0,3.0,,1.0,sandwich,,2017-10-31
+65,Wendy's,513fbc1283aa2dc80c00000f,Spicy Chicken Wrap,516d9a42e3afed1038d004ec,entree,none,370.0,20.0,5.0,50.0,30.0,2.0,18.0,850.0,2.0,,1.0,wrap,,2017-10-31
+66,Wendy's,513fbc1283aa2dc80c00000f,"Coke Zero, Small",521b95ca4a56d006d578b6d4,drink,none,0.0,0.0,0.0,0.0,0.0,0.0,0.0,50.0,0.0,,,,,2017-10-31
+67,Wendy's,513fbc1283aa2dc80c00000f,10-Piece Chicken Nuggets,521b95ca4a56d006d578b6e1,entree,none,420.0,27.0,5.0,80.0,24.0,0.0,22.0,850.0,1.0,,1.0,order,,2017-10-31
+68,Wendy's,513fbc1283aa2dc80c00000f,"Apple Pecan Chicken Salad, Half Size",521b95ca4a56d006d578b6f8,entree,none,340.0,17.0,4.0,55.0,29.0,22.0,20.0,550.0,4.0,,1.0,salad,,2017-10-31
+69,Wendy's,513fbc1283aa2dc80c00000f,1/4 lb. Hamburger Patty,521b95ca4a56d006d578b706,entree,none,240.0,18.0,7.0,75.0,0.0,0.0,20.0,280.0,0.0,,,,,2017-01-05
+70,Wendy's,513fbc1283aa2dc80c00000f,Homestyle Chicken Breast,521b95ca4a56d006d578b70c,entree,none,280.0,13.0,2.5,70.0,17.0,0.0,23.0,710.0,0.0,,,,,2017-01-05
+71,Wendy's,513fbc1283aa2dc80c00000f,Tortilla,521b95ca4a56d006d578b718,misc,none,130.0,3.5,1.0,0.0,21.0,1.0,3.0,320.0,2.0,,,,,2017-01-05
+72,Wendy's,513fbc1283aa2dc80c00000f,Baconator,521b95ca4a56d006d578b720,entree,breakfast,950.0,62.0,24.0,205.0,38.0,8.0,59.0,1810.0,2.0,,1.0,burger,,2017-10-31
+73,Wendy's,513fbc1283aa2dc80c00000f,Son of Baconator,521b95ca4a56d006d578b725,entree,breakfast,630.0,39.0,15.0,125.0,37.0,8.0,34.0,1490.0,2.0,,1.0,burger,,2017-10-31
+74,Wendy's,513fbc1283aa2dc80c00000f,Garden Side Salad with Ranch Dressing,521b95ca4a56d006d578b72b,entree,none,260.0,18.0,4.5,20.0,19.0,4.0,7.0,460.0,2.0,,1.0,salad,,2017-10-31
+75,Wendy's,513fbc1283aa2dc80c00000f,"Chili, Small",521b95ca4a56d006d578b732,side,none,170.0,5.0,2.0,35.0,16.0,6.0,15.0,780.0,4.0,,1.0,serving,,2017-10-31
+76,Wendy's,513fbc1283aa2dc80c00000f,"All-Natural Lemonade, Large",52cdcca3051cb9eb32004142,drink,none,380.0,0.0,0.0,0.0,100.0,93.0,0.0,0.0,0.0,,1.0,drink,,2017-10-31
+77,Wendy's,513fbc1283aa2dc80c00000f,"Coca-Cola, Large",52cdcca3051cb9eb32004147,drink,none,400.0,0.0,0.0,0.0,109.0,109.0,0.0,90.0,0.0,,1.0,drink,,2017-10-31
+78,Wendy's,513fbc1283aa2dc80c00000f,"Barq's Root Beer, Medium",52cdcca4051cb9eb3200415e,drink,none,360.0,0.0,0.0,0.0,98.0,98.0,0.0,150.0,0.0,,1.0,drink,,2017-10-31
+79,Wendy's,513fbc1283aa2dc80c00000f,"Coke Zero, Medium",52cdcca4051cb9eb32004160,drink,none,0.0,0.0,0.0,0.0,1.0,0.0,0.0,80.0,0.0,,1.0,drink,,2017-10-31
+80,Wendy's,513fbc1283aa2dc80c00000f,"Dr Pepper, Medium",52cdcca4051cb9eb32004165,drink,none,190.0,0.0,0.0,0.0,53.0,51.0,0.0,55.0,0.0,,1.0,drink,,2017-10-31
+81,Wendy's,513fbc1283aa2dc80c00000f,"Strawberry Lemonade, Value",52cdcca4051cb9eb32004189,drink,none,210.0,0.0,0.0,0.0,55.0,52.0,0.0,0.0,0.0,,12.0,oz,,2017-10-31
+82,Wendy's,513fbc1283aa2dc80c00000f,"Barq's Root Beer, Value",52cdcca4051cb9eb3200418f,drink,none,180.0,0.0,0.0,0.0,49.0,49.0,0.0,75.0,0.0,,1.0,drink,,2017-10-31
+83,Wendy's,513fbc1283aa2dc80c00000f,"Diet Coke, Value",52cdcca4051cb9eb32004191,drink,none,0.0,0.0,0.0,0.0,0.0,0.0,0.0,50.0,0.0,,1.0,drink,,2017-10-31
+84,Wendy's,513fbc1283aa2dc80c00000f,"Diet Coke, Kids' Meal",52cdcca4051cb9eb320041a6,drink,none,0.0,0.0,0.0,0.0,0.0,0.0,0.0,40.0,0.0,,1.0,drink,,2017-10-31
+85,Wendy's,513fbc1283aa2dc80c00000f,6-Piece Chicken Nuggets,52cdcca5051cb9eb320041eb,entree,none,250.0,16.0,3.5,50.0,14.0,0.0,13.0,510.0,1.0,,1.0,order,,2017-10-31
+86,Wendy's,513fbc1283aa2dc80c00000f,"Asiago Ranch Chicken Club, Grilled",ae4920262561031c5abc391d,entree,none,520.0,23.0,7.0,125.0,36.0,7.0,42.0,1140.0,3.0,,1.0,sandwich,,2017-10-31
+87,Wendy's,513fbc1283aa2dc80c00000f,"Vanilla Iced Coffee, Small",ae492026396c95043b6befcc,drink,coffee,170.0,6.0,3.5,20.0,28.0,26.0,2.0,30.0,0.0,,1.0,drink,,2017-10-31
+88,Wendy's,513fbc1283aa2dc80c00000f,"Classic Chocolate Frosty, Jr.",ae4920263bcb6e18a8f1f586,dessert,none,200.0,5.0,3.0,20.0,33.0,27.0,6.0,95.0,1.0,,1.0,frosty,,2017-10-31
+89,Wendy's,513fbc1283aa2dc80c00000f,Kids' Grilled Chicken Wrap,ae4920264757c8f95917f1c5,entree,none,270.0,10.0,3.5,55.0,24.0,3.0,20.0,640.0,2.0,,1.0,serving,,2017-10-31
+90,Wendy's,513fbc1283aa2dc80c00000f,Pulled Pork Cheese Fries w/ Spicy BBQ,ae4920268ce7379eb74124ea,side,none,500.0,25.0,8.0,45.0,54.0,13.0,17.0,990.0,4.0,,,,,2017-01-05
+91,Wendy's,513fbc1283aa2dc80c00000f,Pulled Pork Cheeseburger w/ Smoky BBQ,ae492026ad906acee9ab4f87,entree,none,630.0,32.0,13.0,130.0,42.0,12.0,38.0,1270.0,2.0,,,,,2017-01-05
+92,Wendy's,513fbc1283aa2dc80c00000f,Kids' Hamburger,ae492026e7705e7379ea0375,entree,none,240.0,9.0,3.5,40.0,24.0,5.0,13.0,420.0,1.0,,1.0,burger,,2017-10-31
+93,Wendy's,513fbc1283aa2dc80c00000f,Pulled Pork Cheese Fries w/ Sweet BBQ,ae492026ed90123f7e0ced01,side,none,490.0,25.0,8.0,45.0,52.0,11.0,17.0,890.0,4.0,,,,,2017-01-05
+94,Wendy's,513fbc1283aa2dc80c00000f,"Honest Tropical Green Tea, Medium",c6404446120589b43d0443a4,drink,none,120.0,0.0,0.0,0.0,30.0,30.0,0.0,10.0,0.0,,1.0,drink,,2017-10-31
+95,Wendy's,513fbc1283aa2dc80c00000f,3-Piece Chicken Tenders,c6404446d7e1d073693dd99d,entree,none,300.0,14.0,2.5,70.0,20.0,0.0,22.0,920.0,0.0,,1.0,order,,2017-10-31
+96,Wendy's,513fbc1283aa2dc80c00000f,"Power Mediterranean Chicken Salad, Half Size",c64062284648dab5893d1502,entree,none,250.0,9.0,2.5,50.0,23.0,10.0,22.0,620.0,5.0,,1.0,salad,,2017-10-31
+97,Wendy's,513fbc1283aa2dc80c00000f,Kids Honest Kids Fruit Punch,c6406228a4c13f0e2d543f18,drink,none,35.0,0.0,0.0,0.0,8.0,8.0,0.0,15.0,0.0,,,,,2017-01-05
+98,Wendy's,513fbc1283aa2dc80c00000f,"Taco Salad, Full Size",c640926471428e8d236e93c0,entree,none,660.0,32.0,13.0,85.0,63.0,18.0,32.0,1820.0,10.0,,1.0,salad,,2017-10-31
+100,Wendy's,513fbc1283aa2dc80c00000f,Jr. Cheeseburger Deluxe,516d9a42e3afed1038d004e0,entree,none,330.0,19.0,7.0,55.0,27.0,6.0,16.0,740.0,2.0,,1.0,burger,,2017-10-31
+101,Wendy's,513fbc1283aa2dc80c00000f,Homestyle Chicken Wrap,516d9a42e3afed1038d004eb,entree,none,340.0,16.0,0.5,50.0,32.0,4.0,17.0,820.0,2.0,,1.0,wrap,,2017-10-31
+102,Wendy's,513fbc1283aa2dc80c00000f,"Diet Coke, Small",521b95ca4a56d006d578b6d5,drink,none,0.0,0.0,0.0,0.0,0.0,0.0,0.0,45.0,0.0,,1.0,drink,,2017-10-31
+103,Wendy's,513fbc1283aa2dc80c00000f,"Spicy Chicken Caesar Salad, Full Size",521b95ca4a56d006d578b702,entree,none,720.0,43.0,13.0,155.0,41.0,6.0,43.0,1760.0,6.0,,1.0,salad,,2017-10-31
+104,Wendy's,513fbc1283aa2dc80c00000f,American Cheese,521b95ca4a56d006d578b707,misc,none,40.0,3.5,2.0,10.0,1.0,0.0,2.0,190.0,0.0,,,,,2017-01-05
+105,Wendy's,513fbc1283aa2dc80c00000f,Jr. Hamburger Patty,521b95ca4a56d006d578b70d,entree,none,110.0,8.0,3.5,40.0,0.0,0.0,9.0,130.0,0.0,,,,,2017-01-05
+106,Wendy's,513fbc1283aa2dc80c00000f,Jr. Sandwich Bun,521b95ca4a56d006d578b714,entree,none,120.0,1.5,0.0,0.0,23.0,4.0,4.0,210.0,1.0,,,,,2017-01-05
+107,Wendy's,513fbc1283aa2dc80c00000f,Grilled Chicken Breast,521b95ca4a56d006d578b719,entree,none,130.0,2.0,0.5,90.0,0.0,0.0,29.0,370.0,0.0,,,,,2017-01-05
+108,Wendy's,513fbc1283aa2dc80c00000f,Dave's Double,521b95ca4a56d006d578b71a,entree,none,810.0,51.0,20.0,175.0,39.0,9.0,49.0,1460.0,3.0,,1.0,burger,,2017-10-31
+109,Wendy's,513fbc1283aa2dc80c00000f,Spicy Chicken Sandwich,521b95ca4a56d006d578b726,entree,none,510.0,21.0,4.0,75.0,51.0,6.0,30.0,1110.0,3.0,,1.0,sandwich,,2017-10-31
+110,Wendy's,513fbc1283aa2dc80c00000f,Hot Cocoa,52cdcca3051cb9eb3200413f,drink,none,120.0,2.0,2.0,0.0,24.0,16.0,1.0,160.0,1.0,,1.0,drink,,2017-10-31
+111,Wendy's,513fbc1283aa2dc80c00000f,"Barq's Root Beer, Large",52cdcca3051cb9eb32004146,drink,none,450.0,0.0,0.0,0.0,122.0,122.0,0.0,180.0,0.0,,1.0,drink,,2017-10-31
+112,Wendy's,513fbc1283aa2dc80c00000f,"Fanta Orange, Medium",52cdcca4051cb9eb32004166,drink,none,340.0,0.0,0.0,0.0,64.0,92.0,0.0,85.0,0.0,,1.0,drink,,2017-10-31
+113,Wendy's,513fbc1283aa2dc80c00000f,"Barq's Root Beer, Kids' Meal",52cdcca4051cb9eb3200419d,drink,none,130.0,0.0,0.0,0.0,37.0,37.0,0.0,55.0,0.0,,1.0,drink,,2017-10-31
+114,Wendy's,513fbc1283aa2dc80c00000f,"Classic Chocolate Frosty, Medium",52cdcca4051cb9eb320041c6,dessert,none,460.0,12.0,8.0,50.0,76.0,63.0,13.0,20.0,0.0,,1.0,frosty,,2017-10-31
+115,Wendy's,513fbc1283aa2dc80c00000f,"Coca-Cola, Value",52cdcca5051cb9eb320041ec,drink,none,160.0,0.0,0.0,0.0,44.0,44.0,0.0,35.0,0.0,,1.0,drink,,2017-10-31
+116,Wendy's,513fbc1283aa2dc80c00000f,"BBQ Ranch Chicken Salad, Half Size",ae4920260a54d70069cce2bd,entree,none,310.0,15.0,5.0,65.0,25.0,17.0,21.0,710.0,3.0,,1.0,salad,,2017-10-31
+117,Wendy's,513fbc1283aa2dc80c00000f,Premium Cod,ae49202614a8d744cf8403cf,entree,none,180.0,9.0,2.0,30.0,14.0,0.0,11.0,480.0,1.0,,,,,2017-01-05
+118,Wendy's,513fbc1283aa2dc80c00000f,Kids' Cheeseburger,ae49202617dca1a080ad107e,entree,none,270.0,13.0,6.0,50.0,25.0,5.0,15.0,620.0,1.0,,1.0,burger,,2017-10-31
+119,Wendy's,513fbc1283aa2dc80c00000f,Spring Mix,ae49202636a4ac242b631250,misc,none,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0,,,,,2017-01-05
+120,Wendy's,513fbc1283aa2dc80c00000f,Honey Butter Chicken Biscuit,ae492026632a5cb9feccd85b,entree,breakfast,500.0,26.0,12.0,50.0,48.0,9.0,19.0,1120.0,1.0,,1.0,sandwich,,2017-10-31
+121,Wendy's,513fbc1283aa2dc80c00000f,Sausage Biscuit,ae49202679b2756516b44c4c,entree,breakfast,480.0,33.0,15.0,50.0,35.0,5.0,12.0,1010.0,1.0,,1.0,sandwich,,2017-10-31
+122,Wendy's,513fbc1283aa2dc80c00000f,Broccoli Cheese Baked Potato,ae492026869ca3329478ad6e,side,none,430.0,11.0,6.0,25.0,70.0,7.0,15.0,570.0,10.0,,1.0,potato,,2017-10-31
+123,Wendy's,513fbc1283aa2dc80c00000f,Kids' Natural Cut Fries,ae492026ab40f676ea86c673,side,none,230.0,10.0,2.0,0.0,30.0,0.0,3.0,230.0,3.0,,1.0,serving,,2017-10-31
+124,Wendy's,513fbc1283aa2dc80c00000f,"Premium Bun, Toasted",ae492026ae75f8ba89f2ae76,misc,none,160.0,2.5,0.5,0.0,28.0,4.0,4.0,270.0,1.0,,,,,2017-01-05
+125,Wendy's,513fbc1283aa2dc80c00000f,"Original RedHead Roasters Coffee, Small",ae492026c72044a327ea7c38,drink,coffee,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0,,1.0,drink,,2017-10-31
+126,Wendy's,513fbc1283aa2dc80c00000f,Oatmeal Bar,ae492026ee7cd7d76dcb8ff5,entree,breakfast,290.0,10.0,4.5,20.0,47.0,24.0,4.0,230.0,5.0,,1.0,bar,,2017-10-31
+127,Wendy's,513fbc1283aa2dc80c00000f,"Skinny Vanilla Iced Coffee, Medium",c64044460a279d4409b279cc,drink,coffee,100.0,8.0,5.0,25.0,14.0,0.0,3.0,45.0,0.0,,1.0,drink,,2017-10-31
+128,Wendy's,513fbc1283aa2dc80c00000f,4-Piece Chicken Tenders,c6404446868fcf3e65157fe1,entree,none,400.0,19.0,3.0,90.0,26.0,1.0,29.0,1230.0,0.0,,1.0,order,,2017-10-31
+129,Wendy's,513fbc1283aa2dc80c00000f,Kids' 1% White Milk,c6406228cee2778b037b543c,drink,none,90.0,2.0,1.5,10.0,10.0,10.0,7.0,105.0,0.0,,1.0,drink,,2017-10-31
+130,Wendy's,513fbc1283aa2dc80c00000f,"Taco Salad, Half Size",c64092645d61379d689a5b55,entree,none,470.0,23.0,8.0,45.0,49.0,12.0,19.0,1320.0,7.0,,1.0,salad,,2017-10-31
+187,Wendy's,513fbc1283aa2dc80c00000f,Kids' Apples Slices,23cb9275601f622113346068,side,none,35.0,0.0,0.0,0.0,9.0,7.0,0.0,0.0,2.0,,1.0,serving,,2017-10-31
+188,Wendy's,513fbc1283aa2dc80c00000f,Double Stack,516d9a42e3afed1038d004e3,entree,none,390.0,21.0,9.0,90.0,25.0,5.0,25.0,910.0,1.0,,1.0,burger,,2017-10-31
+189,Wendy's,513fbc1283aa2dc80c00000f,"Brewed Unsweetened Iced Tea, Small",521b95ca4a56d006d578b6d2,drink,none,0.0,0.0,0.0,0.0,1.0,0.0,0.0,10.0,0.0,,1.0,drink,,2017-10-31
+190,Wendy's,513fbc1283aa2dc80c00000f,"Fanta Orange, Small",521b95ca4a56d006d578b6d7,drink,none,210.0,0.0,0.0,0.0,59.0,58.0,0.0,55.0,0.0,,1.0,drink,,2017-10-31
+191,Wendy's,513fbc1283aa2dc80c00000f,"Strawberry Lemonade, Small",521b95ca4a56d006d578b6dd,drink,none,230.0,0.0,0.0,0.0,58.0,55.0,0.0,0.0,0.0,,1.0,drink,,2017-10-31
+192,Wendy's,513fbc1283aa2dc80c00000f,"Vanilla Frosty, Small",521b95ca4a56d006d578b6f6,dessert,none,340.0,8.0,5.0,35.0,56.0,47.0,9.0,160.0,0.0,,1.0,frosty,,2017-10-31
+193,Wendy's,513fbc1283aa2dc80c00000f,Crinkle Cut Pickles,521b95ca4a56d006d578b70a,misc,none,0.0,0.0,0.0,0.0,0.0,0.0,0.0,120.0,0.0,,3.0,each,,2017-01-05
+194,Wendy's,513fbc1283aa2dc80c00000f,Mayonnaise,521b95ca4a56d006d578b70f,misc,none,60.0,6.0,1.0,5.0,0.0,0.0,0.0,40.0,0.0,,,,,2017-01-05
+195,Wendy's,513fbc1283aa2dc80c00000f,Spicy Chicken Breast,521b95ca4a56d006d578b716,entree,none,270.0,12.0,2.5,70.0,16.0,0.0,24.0,750.0,0.0,,,,,2017-01-05
+196,Wendy's,513fbc1283aa2dc80c00000f,Dave's Triple,521b95ca4a56d006d578b71c,entree,none,1090.0,72.0,30.0,260.0,40.0,9.0,71.0,1910.0,3.0,,1.0,burger,,2017-10-31
+197,Wendy's,513fbc1283aa2dc80c00000f,Homestyle Chicken Sandwich,521b95ca4a56d006d578b723,entree,none,520.0,22.0,4.0,75.0,52.0,6.0,29.0,1070.0,3.0,,1.0,sandwich,,2017-10-31
+198,Wendy's,513fbc1283aa2dc80c00000f,"Natural-Cut Fries, Large",521b95ca4a56d006d578b72e,side,none,530.0,24.0,4.5,0.0,70.0,0.0,7.0,520.0,6.0,,1.0,serving,,2017-10-31
+199,Wendy's,513fbc1283aa2dc80c00000f,Plain Baked Potato,521b95ca4a56d006d578b730,side,none,270.0,0.0,0.0,0.0,61.0,3.0,7.0,25.0,7.0,,1.0,potato,,2017-10-31
+209,Wendy's,513fbc1283aa2dc80c00000f,Sour Cream & Chive Baked Potato,521b95ca4a56d006d578b735,side,none,310.0,2.5,1.5,10.0,63.0,4.0,8.0,35.0,7.0,,1.0,potato,,2017-10-31
+210,Wendy's,513fbc1283aa2dc80c00000f,"Diet Coke, Large",52cdcca3051cb9eb32004149,drink,none,0.0,0.0,0.0,0.0,1.0,0.0,0.0,125.0,0.0,,1.0,drink,,2017-10-31
+211,Wendy's,513fbc1283aa2dc80c00000f,"Coke Zero, Large",52cdcca3051cb9eb3200414a,drink,none,0.0,0.0,0.0,0.0,1.0,0.0,0.0,100.0,0.0,,1.0,drink,,2017-10-31
+212,Wendy's,513fbc1283aa2dc80c00000f,"Dr Pepper, Large",52cdcca3051cb9eb3200414f,drink,none,240.0,0.0,0.0,0.0,66.0,64.0,0.0,70.0,0.0,,1.0,drink,,2017-10-31
+213,Wendy's,513fbc1283aa2dc80c00000f,"Strawberry Lemonade, Large",52cdcca3051cb9eb32004151,drink,none,460.0,0.0,0.0,0.0,118.0,111.0,0.0,10.0,0.0,,1.0,drink,,2017-10-31
+214,Wendy's,513fbc1283aa2dc80c00000f,"Barq's Root Beer, Small",52cdcca4051cb9eb32004175,drink,none,220.0,0.0,0.0,0.0,61.0,61.0,0.0,90.0,0.0,,1.0,drink,,2017-10-31
+215,Wendy's,513fbc1283aa2dc80c00000f,"Dr Pepper, Value",52cdcca4051cb9eb32004194,drink,none,100.0,0.0,0.0,0.0,26.0,26.0,0.0,30.0,0.0,,1.0,drink,,2017-10-31
+216,Wendy's,513fbc1283aa2dc80c00000f,"Hi-C Flashin' Fruit Punch, Value",52cdcca4051cb9eb32004199,drink,none,170.0,0.0,0.0,0.0,46.0,45.0,0.0,55.0,0.0,,1.0,drink,,2017-10-31
+217,Wendy's,513fbc1283aa2dc80c00000f,"Vanilla Frosty, Large",52cdcca4051cb9eb320041c8,dessert,none,570.0,15.0,9.0,65.0,97.0,81.0,15.0,270.0,0.0,,1.0,frosty,,2017-10-31
+218,Wendy's,513fbc1283aa2dc80c00000f,Seasoned Home Style Potatoes,ae4920260ce61a80ca6172f7,side,none,230.0,8.0,1.5,0.0,35.0,0.0,3.0,680.0,4.0,,1.0,serving,,2017-10-31
+219,Wendy's,513fbc1283aa2dc80c00000f,"Asiago Ranch Chicken Club, Spicy",ae49202661d9e8557562f251,entree,none,660.0,33.0,9.0,105.0,53.0,7.0,38.0,1530.0,3.0,,1.0,sandwich,,2017-10-31
+220,Wendy's,513fbc1283aa2dc80c00000f,Pulled Pork Cheese Fries w/ Smoky BBQ,ae49202664665775586ba5e5,side,none,480.0,25.0,8.0,45.0,50.0,9.0,17.0,1020.0,4.0,,,,,2017-01-05
+221,Wendy's,513fbc1283aa2dc80c00000f,Sausage & Egg Burrito,ae49202672339fb5c342aa67,entree,breakfast,390.0,29.0,11.0,260.0,14.0,2.0,17.0,970.0,1.0,,1.0,burrito,,2017-10-31
+222,Wendy's,513fbc1283aa2dc80c00000f,Pulled Pork Cheeseburger w/ Spicy BBQ,ae49202687a74dbee94296a3,entree,none,650.0,32.0,13.0,130.0,46.0,16.0,38.0,1250.0,2.0,,,,,2017-01-05
+223,Wendy's,513fbc1283aa2dc80c00000f,Steel Cut Oatmeal with Cranberries and Pecans,ae4920268b167116cadff337,entree,breakfast,340.0,11.0,1.5,0.0,57.0,33.0,5.0,250.0,6.0,,1.0,serving,,2017-10-31
+224,Wendy's,513fbc1283aa2dc80c00000f,Asiago Cheese,ae49202692defd621ec6a014,misc,none,50.0,4.0,2.5,15.0,1.0,0.0,3.0,100.0,0.0,,,,,2017-01-05
+225,Wendy's,513fbc1283aa2dc80c00000f,"BBQ Ranch Chicken Salad, Full Size",ae492026f201e9377ca2e661,entree,none,590.0,30.0,10.0,135.0,42.0,27.0,42.0,1340.0,5.0,,1.0,salad,,2017-10-31
+226,Wendy's,513fbc1283aa2dc80c00000f,Crispy Chicken BLT,c64044460e2213549a0e6862,entree,none,420.0,23.0,6.0,50.0,35.0,5.0,20.0,950.0,2.0,,1.0,sandwich,,2017-10-31
+227,Wendy's,513fbc1283aa2dc80c00000f,"Strawberry Tea, Kids",c6404446224b4b0ce433fd97,drink,none,30.0,0.0,0.0,0.0,8.0,7.0,0.0,5.0,0.0,,1.0,drink,,2017-10-31
+228,Wendy's,513fbc1283aa2dc80c00000f,"Orange Mango Fruitea Chillers, Large",c64044462a624778ed16d363,drink,none,320.0,0.0,0.0,0.0,83.0,79.0,0.0,40.0,0.0,,1.0,drink,,2017-10-31
+229,Wendy's,513fbc1283aa2dc80c00000f,"Vanilla Iced Coffee, Medium",c640444637b4570041c112d5,drink,coffee,250.0,8.0,5.0,25.0,42.0,39.0,3.0,40.0,0.0,,1.0,drink,,2017-10-31
+230,Wendy's,513fbc1283aa2dc80c00000f,Bacon Ranch Fries,c640444665bc1231cd6bdbd7,side,breakfast,600.0,39.0,11.0,60.0,46.0,1.0,18.0,970.0,5.0,,1.0,order,,2017-10-31
+231,Wendy's,513fbc1283aa2dc80c00000f,Kids' 2-Piece Chicken Tenders,c6404446a91d463280bbb45e,entree,none,200.0,10.0,1.5,45.0,13.0,0.0,15.0,620.0,0.0,,1.0,serving,,2017-10-31
+232,Wendy's,513fbc1283aa2dc80c00000f,"Honest Tropical Green Tea, Large",c6404446fb04b59f300ac1b4,drink,none,130.0,0.0,0.0,0.0,33.0,33.0,0.0,15.0,0.0,,1.0,drink,,2017-10-31
+233,Wendy's,513fbc1283aa2dc80c00000f,"Orange Mango Fruitea Chillers, Small",c6404446ff27a82b6ba60441,drink,none,170.0,0.0,0.0,0.0,44.0,42.0,0.0,25.0,0.0,,1.0,drink,,2017-10-31
+234,Wendy's,513fbc1283aa2dc80c00000f,"Original Redhead Roasters Coffee, Large",c640622847e8c5a13e70f954,drink,coffee,5.0,0.0,0.0,0.0,0.0,0.0,1.0,10.0,0.0,,1.0,drink,,2017-10-31
+235,Wendy's,513fbc1283aa2dc80c00000f,"Power Mediterranean Chicken Salad, Full Size",c6406228edc90b679cba65ae,entree,none,480.0,16.0,5.0,105.0,42.0,18.0,43.0,1200.0,8.0,,1.0,salad,,2017-10-31
+0,Burger King,513fbc1283aa2dc80c00000a,Ginger Spice Cookie,23cb59494b3d185dc5db2d37,dessert,none,150.0,5.0,2.5,10.0,25.0,13.0,2.0,135.0,1.0,,1.0,cookie,38.0,2018-04-03
+1,Burger King,513fbc1283aa2dc80c00000a,Extra Long Cheeseburger,23cb594957f2c905d01d2283,entree,none,590.0,34.0,13.0,90.0,45.0,9.0,26.0,1040.0,2.0,,1.0,sandwich,213.0,2018-04-03
+2,Burger King,513fbc1283aa2dc80c00000a,Kids Cheeseburger,23cb59498e3809c295429822,entree,none,270.0,12.0,5.0,40.0,27.0,7.0,13.0,560.0,1.0,,1.0,sandwich,104.0,2018-04-03
+3,Burger King,513fbc1283aa2dc80c00000a,Value Menu Bacon Double Cheeseburger,23cb5949986ec0e253b5e31d,entree,breakfast,370.0,20.0,9.0,75.0,27.0,7.0,21.0,660.0,1.0,,1.0,sandwich,139.0,2018-04-03
+4,Burger King,513fbc1283aa2dc80c00000a,Soft Serve Cone,23cb5949a504267a309eaac8,dessert,none,190.0,4.5,3.0,20.0,32.0,24.0,5.0,150.0,0.0,,1.0,cone,120.0,2018-04-03
+5,Burger King,513fbc1283aa2dc80c00000a,Carnival Cookie,23cb5949d838067390c76f0a,dessert,none,160.0,7.0,3.0,10.0,22.0,14.0,2.0,120.0,1.0,,1.0,cookie,36.0,2018-04-03
+6,Burger King,513fbc1283aa2dc80c00000a,"Red, White & Blue Cookie",23cb5949fb90997f9841785e,dessert,none,160.0,6.0,3.0,5.0,23.0,14.0,1.0,125.0,0.0,,1.0,cookie,36.0,2018-04-03
+7,Burger King,513fbc1283aa2dc80c00000a,Fully Loaded Biscuit,32f127000a0e22f0b405742a,entree,breakfast,610.0,42.0,20.0,225.0,31.0,4.0,28.0,2170.0,1.0,,1.0,sandwich,235.0,2018-04-03
+8,Burger King,513fbc1283aa2dc80c00000a,Homestyle Cheeseburger,32f12700366128686af9f275,entree,none,550.0,27.0,12.0,95.0,48.0,10.0,30.0,1140.0,2.0,,1.0,sandwich,212.0,2018-04-03
+9,Burger King,513fbc1283aa2dc80c00000a,Chocolate Oreo Shake,32f1270060ec047d1cda3734,dessert,none,610.0,19.0,12.0,55.0,99.0,81.0,13.0,560.0,1.0,,1.0,shake,,2018-04-03
+10,Burger King,513fbc1283aa2dc80c00000a,Egg-Normous Burrito,32f12700d10315537f6b13ad,entree,breakfast,910.0,55.0,16.0,320.0,73.0,8.0,33.0,2020.0,6.0,,1.0,burrito,362.0,2018-04-03
+11,Burger King,513fbc1283aa2dc80c00000a,Double Bacon Breakfast Sourdough King,32f12700d2b74cc300149e40,entree,breakfast,510.0,24.0,9.0,335.0,46.0,7.0,27.0,1420.0,2.0,,1.0,sandwich,,2018-04-03
+12,Burger King,513fbc1283aa2dc80c00000a,Hamburger,516d9a40e3afed032c7da813,entree,none,220.0,8.0,3.0,30.0,26.0,6.0,11.0,380.0,1.0,,1.0,sandwich,93.0,2018-04-03
+13,Burger King,513fbc1283aa2dc80c00000a,Bacon Cheeseburger,516d9a40e3afed032c7da818,entree,breakfast,300.0,15.0,6.0,50.0,27.0,7.0,15.0,710.0,1.0,,1.0,sandwich,111.0,2018-04-03
+14,Burger King,513fbc1283aa2dc80c00000a,Grilled Chicken Sandwich,516d9a40e3afed032c7da81e,entree,none,470.0,19.0,4.0,85.0,39.0,7.0,37.0,840.0,6.0,,1.0,sandwich,229.0,2018-04-03
+15,Burger King,513fbc1283aa2dc80c00000a,Crispy Chicken Sandwich,516d9a40e3afed032c7da820,entree,none,670.0,41.0,7.0,60.0,54.0,8.0,23.0,1080.0,2.0,,1.0,sandwich,228.0,2018-04-03
+16,Burger King,513fbc1283aa2dc80c00000a,"Chicken Nuggets, 20 piece",516d9a40e3afed032c7da82b,entree,none,860.0,54.0,9.0,115.0,53.0,1.0,39.0,1570.0,3.0,,20.0,pieces,292.0,2018-04-03
+17,Burger King,513fbc1283aa2dc80c00000a,Kids Oatmeal,516d9a40e3afed032c7da832,entree,breakfast,170.0,3.0,1.5,5.0,32.0,12.0,4.0,260.0,3.0,,1.0,serving,167.0,2018-04-03
+18,Burger King,513fbc1283aa2dc80c00000a,Kids 1% Low Fat Chocolate Milk,516d9a40e3afed032c7da837,drink,none,160.0,2.5,1.5,15.0,26.0,25.0,8.0,150.0,0.0,,8.0,fl oz,,2018-04-03
+19,Burger King,513fbc1283aa2dc80c00000a,"Onion Rings, Large",516d9a40e3afed032c7da856,side,none,500.0,25.0,4.5,0.0,64.0,7.0,5.0,1310.0,5.0,,1.0,large order,142.0,2018-04-03
+20,Burger King,513fbc1283aa2dc80c00000a,"Bacon, Egg & Cheese Biscuit",516d9a40e3afed032c7da875,entree,breakfast,380.0,23.0,5.0,140.0,29.0,2.0,13.0,1230.0,1.0,,1.0,sandwich,141.0,2018-04-03
+21,Burger King,513fbc1283aa2dc80c00000a,"French Toast Sticks, 3 piece",516d9a40e3afed032c7da87b,side,none,230.0,11.0,2.0,0.0,29.0,8.0,3.0,260.0,1.0,,3.0,pieces,65.0,2018-04-03
+22,Burger King,513fbc1283aa2dc80c00000a,White Chocolate Macadamia Nut Cookies,516d9a40e3afed032c7da887,dessert,none,340.0,18.0,8.0,20.0,44.0,28.0,4.0,240.0,0.0,,2.0,cookies,76.0,2018-04-03
+23,Burger King,513fbc1283aa2dc80c00000a,Chocolate Milk Shake,516d9a40e3afed032c7da8a4,dessert,none,610.0,16.0,10.0,60.0,103.0,88.0,14.0,500.0,1.0,,1.0,shake,,2018-04-03
+24,Burger King,513fbc1283aa2dc80c00000a,"Coca Cola Classic, 16 fl oz",516d9a40e3afed032c7da8a9,drink,none,210.0,0.0,0.0,0.0,58.0,58.0,0.0,50.0,0.0,,16.0,fl oz,,2018-04-03
+25,Burger King,513fbc1283aa2dc80c00000a,"Coca Cola Classic, 20 fl oz",516d9a40e3afed032c7da8aa,drink,none,270.0,0.0,0.0,0.0,73.0,73.0,0.0,60.0,0.0,,20.0,fl oz,,2018-04-03
+26,Burger King,513fbc1283aa2dc80c00000a,"Diet Coke, 29 fl oz",516d9a40e3afed032c7da8af,drink,none,0.0,0.0,0.0,0.0,1.0,0.0,0.0,120.0,0.0,,29.0,fl oz,,2018-04-03
+27,Burger King,513fbc1283aa2dc80c00000a,"Sprite, 16 fl oz",516d9a40e3afed032c7da8b1,drink,none,210.0,0.0,0.0,0.0,56.0,56.0,0.0,95.0,0.0,,16.0,fl oz,,2018-04-03
+28,Burger King,513fbc1283aa2dc80c00000a,"Dr. Pepper, 20 fl oz",516d9a40e3afed032c7da8b6,drink,none,240.0,0.0,0.0,0.0,65.0,64.0,0.0,75.0,0.0,,20.0,fl oz,,2018-04-03
+29,Burger King,513fbc1283aa2dc80c00000a,"Barq's Root Beer, 38 fl oz",516d9a40e3afed032c7da8bc,drink,none,570.0,0.0,0.0,0.0,155.0,155.0,0.0,230.0,0.0,,38.0,fl oz,,2018-04-03
+30,Burger King,513fbc1283aa2dc80c00000a,"Fanta Orange, 29 fl oz",516d9a40e3afed032c7da8c3,drink,none,410.0,0.0,0.0,0.0,113.0,111.0,0.0,105.0,0.0,,29.0,fl oz,,2018-04-03
+31,Burger King,513fbc1283aa2dc80c00000a,"Hi-C Fruit Punch, 38 fl oz",516d9a40e3afed032c7da8c8,drink,none,530.0,0.0,0.0,0.0,146.0,143.0,0.0,180.0,0.0,,38.0,fl oz,,2018-04-03
+32,Burger King,513fbc1283aa2dc80c00000a,"Sweet Tea, 29 fl oz",516d9a40e3afed032c7da8ce,drink,none,160.0,0.0,0.0,0.0,49.0,49.0,0.0,0.0,0.0,,29.0,fl oz,,2018-04-03
+33,Burger King,513fbc1283aa2dc80c00000a,Iced Coffee,516d9a40e3afed032c7da8db,drink,coffee,150.0,8.0,5.0,30.0,19.0,19.0,1.0,45.0,0.0,,1.0,medium,,2018-04-03
+34,Burger King,513fbc1283aa2dc80c00000a,Oreo Shake,521b95cc4a56d006d578bab5,dessert,none,730.0,21.0,11.0,60.0,121.0,100.0,15.0,550.0,1.0,,1.0,shake,,2018-04-03
+35,Burger King,513fbc1283aa2dc80c00000a,1% Low Fat Chocolate Milk,534448ab7395ed134519e4a0,drink,none,160.0,2.5,1.5,15.0,26.0,25.0,8.0,150.0,0.0,,8.0,fl oz,,2018-04-03
+36,Burger King,513fbc1283aa2dc80c00000a,Spicy Crispy Chicken Sandwich,534448ab7395ed134519e4a5,entree,none,700.0,42.0,7.0,65.0,57.0,8.0,25.0,1140.0,3.0,,1.0,sandwich,,2018-04-03
+37,Burger King,513fbc1283aa2dc80c00000a,Barbecue Dipping Sauce,534448ab9a631f1645ecf4c5,misc,none,40.0,0.0,0.0,0.0,11.0,10.0,0.0,310.0,0.0,,1.0,oz,28.0,2018-04-03
+38,Burger King,513fbc1283aa2dc80c00000a,Fat Free Milk,534448ab9a631f1645ecf4cb,drink,none,90.0,0.0,0.0,5.0,13.0,12.0,9.0,125.0,0.0,,8.0,fl oz,,2018-04-03
+39,Burger King,513fbc1283aa2dc80c00000a,Mocha Frappe,534448ab9a631f1645ecf4d2,drink,coffee,400.0,16.0,7.0,10.0,60.0,40.0,3.0,250.0,0.0,,16.0,fl oz,,2018-04-03
+40,Burger King,513fbc1283aa2dc80c00000a,Bacon Double Cheeseburger,534448ac9a631f1645ecf4d8,entree,breakfast,370.0,20.0,9.0,75.0,27.0,7.0,21.0,660.0,1.0,,1.0,sandwich,139.0,2018-04-03
+41,Burger King,513fbc1283aa2dc80c00000a,Bacon Cheeseburger Deluxe,534448adbbe335144597fd31,entree,breakfast,290.0,13.0,6.0,45.0,28.0,7.0,14.0,640.0,1.0,,1.0,sandwich,139.0,2018-04-03
+42,Burger King,513fbc1283aa2dc80c00000a,Oreo Cookie Cheesecake,5837e527837f2ece21e8bfec,dessert,none,350.0,18.0,8.0,35.0,41.0,25.0,6.0,310.0,1.0,1.0,1.0,slice,92.0,2018-07-17
+43,Burger King,513fbc1283aa2dc80c00000a,Bacon & Cheese Whopper Sandwich,ddee4533189e6924b7430416,entree,breakfast,790.0,51.0,17.0,125.0,50.0,11.0,35.0,1560.0,2.0,,1.0,sandwich,303.0,2018-04-03
+44,Burger King,513fbc1283aa2dc80c00000a,Bacon Cheddar Ranch Chicken Salad with Grilled Chicken and Dressing,ddee453337381e14f87baebf,entree,breakfast,620.0,41.0,12.0,140.0,18.0,6.0,46.0,1640.0,7.0,,1.0,salad with dressing,395.0,2018-04-03
+45,Burger King,513fbc1283aa2dc80c00000a,NY Ultimate Platter (Regional menu item),ddee453383322142be80af6e,entree,breakfast,870.0,44.0,12.0,305.0,95.0,31.0,22.0,1650.0,4.0,,1.0,platter,371.0,2018-04-03
+46,Burger King,513fbc1283aa2dc80c00000a,Garden Side Salad without dressing,ddee4533a85a4b82bd60a1ca,entree,none,60.0,4.0,2.5,10.0,3.0,2.0,4.0,95.0,1.0,,1.0,salad without dressing,99.0,2018-04-03
+47,Burger King,513fbc1283aa2dc80c00000a,Ken's Ranch Dressing,ddee4533b9d446f269037de1,misc,none,260.0,28.0,4.0,10.0,2.0,2.0,1.0,240.0,0.0,,1.0,serving,43.0,2018-04-03
+48,Burger King,513fbc1283aa2dc80c00000a,Supreme Breakfast Sandwich,ddee4533e371c5b38adc5972,entree,breakfast,880.0,59.0,21.0,375.0,45.0,7.0,41.0,2170.0,2.0,,1.0,sandwich,312.0,2018-04-03
+49,Burger King,513fbc1283aa2dc80c00000a,Spicy Crispy Chicken Jr.,23cb59490243f52849e9bd19,entree,none,390.0,21.0,3.5,30.0,37.0,6.0,12.0,740.0,2.0,,1.0,sandwich,142.0,2018-04-03
+50,Burger King,513fbc1283aa2dc80c00000a,Cinnamon Roll,516d9a40e3afed032c7da877,dessert,none,280.0,11.0,6.0,15.0,41.0,22.0,4.0,280.0,2.0,,1.0,serving,79.0,2018-04-03
+51,Burger King,513fbc1283aa2dc80c00000a,Dutch Apple Pie,516d9a40e3afed032c7da87d,dessert,none,340.0,14.0,6.0,0.0,51.0,25.0,3.0,310.0,1.0,,1.0,piece,107.0,2018-04-03
+52,Burger King,513fbc1283aa2dc80c00000a,American Cheese,516d9a40e3afed032c7da889,misc,none,40.0,3.5,2.0,10.0,1.0,0.0,2.0,180.0,0.0,,1.0,slice,11.0,2018-04-03
+53,Burger King,513fbc1283aa2dc80c00000a,Vanilla Milk Shake,516d9a40e3afed032c7da8a1,dessert,none,580.0,15.0,10.0,60.0,98.0,85.0,14.0,420.0,0.0,,1.0,shake,,2018-04-03
+54,Burger King,513fbc1283aa2dc80c00000a,"Coca Cola Classic, 38 fl oz",516d9a40e3afed032c7da8ac,drink,none,510.0,0.0,0.0,0.0,138.0,138.0,0.0,115.0,0.0,,38.0,fl oz,,2018-04-03
+55,Burger King,513fbc1283aa2dc80c00000a,"Sprite, 29 fl oz",516d9a40e3afed032c7da8b3,drink,none,380.0,0.0,0.0,0.0,102.0,102.0,0.0,170.0,0.0,,29.0,fl oz,,2018-04-03
+56,Burger King,513fbc1283aa2dc80c00000a,"Dr. Pepper, 38 fl oz",516d9a40e3afed032c7da8b8,drink,none,450.0,0.0,0.0,0.0,124.0,121.0,0.0,140.0,0.0,,38.0,fl oz,,2018-04-03
+57,Burger King,513fbc1283aa2dc80c00000a,"Cherry Coke, 20 fl oz",516d9a40e3afed032c7da8be,drink,none,280.0,0.0,0.0,0.0,76.0,76.0,0.0,70.0,0.0,,20.0,fl oz,,2018-04-03
+58,Burger King,513fbc1283aa2dc80c00000a,"Cherry Coke, 38 fl oz",516d9a40e3afed032c7da8c0,drink,none,530.0,0.0,0.0,0.0,145.0,145.0,0.0,130.0,0.0,,38.0,fl oz,,2018-04-03
+59,Burger King,513fbc1283aa2dc80c00000a,"Hi-C Fruit Punch, 16 fl oz",516d9a40e3afed032c7da8c5,drink,none,220.0,0.0,0.0,0.0,62.0,60.0,0.0,75.0,0.0,,16.0,fl oz,,2018-04-03
+60,Burger King,513fbc1283aa2dc80c00000a,"Minute Maid Light Lemonade, 29 fl oz",516d9a40e3afed032c7da8cb,drink,none,15.0,0.0,0.0,0.0,5.0,0.0,0.0,105.0,0.0,,29.0,fl oz,,2018-04-03
+61,Burger King,513fbc1283aa2dc80c00000a,Ranch Dipping Sauce,534448ab9a631f1645ecf4c8,misc,none,140.0,15.0,2.5,10.0,1.0,1.0,1.0,230.0,0.0,,1.0,oz,28.0,2018-04-03
+62,Burger King,513fbc1283aa2dc80c00000a,Value Menu Spicy Crispy Chicken Jr.,534448ab9a631f1645ecf4d0,entree,none,390.0,21.0,3.5,30.0,37.0,6.0,12.0,740.0,2.0,,1.0,sandwich,142.0,2018-04-03
+63,Burger King,513fbc1283aa2dc80c00000a,Double Whopper Sandwich without Mayo,534448ab9a631f1645ecf4d5,entree,none,740.0,40.0,17.0,165.0,49.0,11.0,47.0,910.0,2.0,,1.0,sandwich,333.0,2018-04-03
+64,Burger King,513fbc1283aa2dc80c00000a,"Chicken Nuggets, 6 piece",534448ac7395ed134519e4a8,entree,none,260.0,16.0,2.5,35.0,16.0,0.0,12.0,470.0,1.0,,6.0,pieces,88.0,2018-04-03
+65,Burger King,513fbc1283aa2dc80c00000a,Grilled Chicken Sandwich without Mayo,534448acbbe335144597fd26,entree,none,370.0,7.0,2.0,75.0,39.0,7.0,36.0,740.0,6.0,,1.0,sandwich,214.0,2018-04-03
+66,Burger King,513fbc1283aa2dc80c00000a,Classic Grilled Dog,ddee4533a2366b3e201cb1dc,entree,none,310.0,16.0,6.0,30.0,32.0,10.0,11.0,960.0,2.0,,1.0,sandwich,123.0,2018-04-03
+116,Burger King,513fbc1283aa2dc80c00000a,Kids Capri Sun 100% Apple Juice,23cb594908b95204bb47330e,drink,none,80.0,0.0,0.0,0.0,20.0,20.0,0.0,25.0,0.0,,1.0,serving,,2018-04-03
+117,Burger King,513fbc1283aa2dc80c00000a,Value Menu Chicken Nuggets,23cb5949c3f19bf30a4b5d38,entree,none,170.0,11.0,1.5,25.0,11.0,0.0,8.0,310.0,1.0,,4.0,pieces,58.0,2018-04-03
+118,Burger King,513fbc1283aa2dc80c00000a,Chicken Fries,23cb5949fe8c4283b4a96292,side,none,280.0,17.0,2.5,35.0,20.0,1.0,13.0,850.0,1.0,,9.0,pieces,91.0,2018-04-03
+119,Burger King,513fbc1283aa2dc80c00000a,Rodeo King,32f127000751579c0c6e7efc,entree,none,1250.0,82.0,31.0,230.0,69.0,14.0,60.0,2270.0,3.0,,1.0,sandwich,,2018-04-03
+120,Burger King,513fbc1283aa2dc80c00000a,Foot Loops Shake,32f127006d7f0711ccec7e3f,dessert,none,720.0,17.0,11.0,65.0,126.0,103.0,16.0,560.0,2.0,,1.0,shake,,2018-04-03
+121,Burger King,513fbc1283aa2dc80c00000a,Double Quarter Pound King,32f127008841317aa9081d26,entree,none,900.0,54.0,25.0,210.0,50.0,11.0,56.0,1740.0,2.0,,1.0,sandwich,,2018-04-03
+122,Burger King,513fbc1283aa2dc80c00000a,Double Sausage Breakfast Sourdough King,32f12700b464fdd68ae09e42,entree,breakfast,790.0,50.0,18.0,390.0,47.0,6.0,38.0,1880.0,2.0,,1.0,sandwich,,2018-04-03
+123,Burger King,513fbc1283aa2dc80c00000a,Cheesy Tots,32f12700b821628a31e1727c,side,none,310.0,15.0,1.0,0.0,34.0,0.0,9.0,780.0,3.0,,1.0,order,128.0,2018-04-03
+124,Burger King,513fbc1283aa2dc80c00000a,BBQ Bacon Crispy Chicken Sandwich,32f12700ba0897c6b6fa978a,entree,breakfast,790.0,49.0,10.0,80.0,60.0,13.0,28.0,1630.0,2.0,,1.0,sandwich,,2018-04-03
+125,Burger King,513fbc1283aa2dc80c00000a,Double Whopper Sandwich with Cheese,516d9a40e3afed032c7da809,entree,none,980.0,64.0,24.0,195.0,50.0,11.0,52.0,1410.0,2.0,,1.0,sandwich,377.0,2018-04-03
+126,Burger King,513fbc1283aa2dc80c00000a,Whopper Jr Sandwich,516d9a40e3afed032c7da80f,entree,none,310.0,18.0,5.0,40.0,27.0,7.0,13.0,390.0,1.0,,1.0,sandwich,134.0,2018-04-03
+127,Burger King,513fbc1283aa2dc80c00000a,Double Cheeseburger,516d9a40e3afed032c7da816,entree,none,350.0,18.0,8.0,70.0,27.0,7.0,20.0,580.0,1.0,,1.0,sandwich,135.0,2018-04-03
+128,Burger King,513fbc1283aa2dc80c00000a,"Kids Chicken Nuggets, 4 piece",516d9a40e3afed032c7da828,entree,none,170.0,11.0,1.5,25.0,11.0,0.0,8.0,310.0,1.0,,4.0,pieces,58.0,2018-04-03
+129,Burger King,513fbc1283aa2dc80c00000a,BK Veggie Burger,516d9a40e3afed032c7da830,entree,none,390.0,15.0,2.5,5.0,42.0,9.0,22.0,1060.0,6.0,,1.0,sandwich,219.0,2018-04-03
+130,Burger King,513fbc1283aa2dc80c00000a,"Onion Rings, Small",516d9a40e3afed032c7da854,side,none,320.0,16.0,3.0,0.0,41.0,4.0,3.0,840.0,3.0,,1.0,small order,91.0,2018-04-03
+131,Burger King,513fbc1283aa2dc80c00000a,"French Fries, Large",516d9a40e3afed032c7da859,side,none,430.0,19.0,3.5,0.0,60.0,0.0,6.0,640.0,4.0,,1.0,large order,173.0,2018-04-03
+132,Burger King,513fbc1283aa2dc80c00000a,"Ham, Egg, & Cheese Biscuit",516d9a40e3afed032c7da873,entree,breakfast,370.0,21.0,4.0,145.0,30.0,3.0,16.0,1500.0,1.0,,1.0,sandwich,165.0,2018-04-03
+133,Burger King,513fbc1283aa2dc80c00000a,"Hash Browns, Small",516d9a40e3afed032c7da878,side,none,250.0,16.0,3.5,0.0,24.0,0.0,2.0,580.0,3.0,,1.0,small order,84.0,2018-04-03
+134,Burger King,513fbc1283aa2dc80c00000a,Hershey's Sundae Pie,516d9a40e3afed032c7da87e,dessert,none,310.0,19.0,12.0,10.0,32.0,22.0,3.0,220.0,1.0,,1.0,piece,79.0,2018-04-03
+135,Burger King,513fbc1283aa2dc80c00000a,Caramel Sundae,516d9a40e3afed032c7da880,dessert,none,290.0,6.0,4.0,25.0,53.0,39.0,6.0,260.0,0.0,,1.0,sundae,153.0,2018-04-03
+136,Burger King,513fbc1283aa2dc80c00000a,Ketchup,516d9a40e3afed032c7da88b,misc,none,10.0,0.0,0.0,0.0,3.0,2.0,0.0,125.0,0.0,,1.0,packet,10.0,2018-04-03
+137,Burger King,513fbc1283aa2dc80c00000a,Strawberry Milk Shake,516d9a40e3afed032c7da8a7,dessert,none,640.0,15.0,10.0,60.0,113.0,99.0,14.0,440.0,0.0,,1.0,shake,,2018-04-03
+138,Burger King,513fbc1283aa2dc80c00000a,"Diet Coke, 16 fl oz",516d9a40e3afed032c7da8ad,drink,none,0.0,0.0,0.0,0.0,0.0,0.0,0.0,70.0,0.0,,16.0,fl oz,,2018-04-03
+139,Burger King,513fbc1283aa2dc80c00000a,"Sprite, 38 fl oz",516d9a40e3afed032c7da8b4,drink,none,500.0,0.0,0.0,0.0,133.0,133.0,0.0,230.0,0.0,,38.0,fl oz,,2018-04-03
+140,Burger King,513fbc1283aa2dc80c00000a,"Barq's Root Beer, 16 fl oz",516d9a40e3afed032c7da8b9,drink,none,240.0,0.0,0.0,0.0,65.0,65.0,0.0,100.0,0.0,,16.0,fl oz,,2018-04-03
+141,Burger King,513fbc1283aa2dc80c00000a,"Barq's Root Beer, 20 fl oz",516d9a40e3afed032c7da8ba,drink,none,300.0,0.0,0.0,0.0,81.0,81.0,0.0,120.0,0.0,,20.0,fl oz,,2018-04-03
+142,Burger King,513fbc1283aa2dc80c00000a,"Cherry Coke, 29 fl oz",516d9a40e3afed032c7da8bf,drink,none,410.0,0.0,0.0,0.0,110.0,110.0,0.0,100.0,0.0,,29.0,fl oz,,2018-04-03
+143,Burger King,513fbc1283aa2dc80c00000a,"Fanta Orange, 16 fl oz",516d9a40e3afed032c7da8c1,drink,none,230.0,0.0,0.0,0.0,62.0,61.0,0.0,60.0,0.0,,16.0,fl oz,,2018-04-03
+144,Burger King,513fbc1283aa2dc80c00000a,"Hi-C Fruit Punch, 20 fl oz",516d9a40e3afed032c7da8c6,drink,none,280.0,0.0,0.0,0.0,77.0,75.0,0.0,95.0,0.0,,20.0,fl oz,,2018-04-03
+145,Burger King,513fbc1283aa2dc80c00000a,"Minute Maid Light Lemonade, 38 fl oz",516d9a40e3afed032c7da8cc,drink,none,20.0,0.0,0.0,0.0,7.0,0.0,0.0,135.0,0.0,,38.0,fl oz,,2018-04-03
+146,Burger King,513fbc1283aa2dc80c00000a,"Iced Coffee, Vanilla",516d9a40e3afed032c7da8de,drink,coffee,190.0,8.0,5.0,30.0,28.0,28.0,1.0,45.0,0.0,,1.0,medium,,2018-04-03
+147,Burger King,513fbc1283aa2dc80c00000a,BK Veggie Burger without Mayo,534448ab7395ed134519e4a3,entree,none,310.0,7.0,1.0,0.0,42.0,9.0,22.0,990.0,6.0,,1.0,sandwich,209.0,2018-04-03
+148,Burger King,513fbc1283aa2dc80c00000a,BK Ultimate Breakfast Platter,534448ab9a631f1645ecf4cd,entree,breakfast,1190.0,66.0,15.0,320.0,123.0,32.0,27.0,2460.0,5.0,,1.0,platter,464.0,2018-04-03
+149,Burger King,513fbc1283aa2dc80c00000a,Value Menu Rodeo Crispy Chicken Sandwich,534448ab9a631f1645ecf4d4,entree,none,410.0,17.0,3.0,20.0,53.0,14.0,12.0,870.0,2.0,,1.0,sandwich,154.0,2018-04-03
+150,Burger King,513fbc1283aa2dc80c00000a,Whopper Sandwich with Cheese without Mayo,534448ac7ba4ca15456f4e8d,entree,none,580.0,29.0,13.0,105.0,50.0,11.0,32.0,1200.0,2.0,,1.0,sandwich,271.0,2018-04-03
+151,Burger King,513fbc1283aa2dc80c00000a,Bacon King Sandwich,534448acbbe335144597fd27,entree,breakfast,1150.0,79.0,31.0,240.0,49.0,10.0,61.0,2150.0,2.0,,1.0,sandwich,356.0,2018-04-03
+152,Burger King,513fbc1283aa2dc80c00000a,Double Whopper Sandwich with Cheese without Mayo,534448acbbe335144597fd2d,entree,none,820.0,47.0,21.0,185.0,50.0,11.0,52.0,1270.0,2.0,,1.0,sandwich,355.0,2018-04-03
+153,Burger King,513fbc1283aa2dc80c00000a,King Croissan'Wich with Sausage and Bacon,ddee45330fc145a0f07dfd1f,entree,breakfast,580.0,39.0,16.0,190.0,31.0,5.0,24.0,1370.0,1.0,,1.0,sandwich,183.0,2018-04-03
+154,Burger King,513fbc1283aa2dc80c00000a,Garden Chicken Salad with Crispy Chicken without Dressing,ddee453334c210041e57445c,entree,none,440.0,25.0,7.0,75.0,31.0,4.0,25.0,930.0,3.0,,1.0,salad without dressing,287.0,2018-04-03
+162,Burger King,513fbc1283aa2dc80c00000a,Chicken Fry Dipping Sauce,23cb5949373b540c623f10d9,misc,none,140.0,13.0,2.0,10.0,6.0,5.0,0.0,180.0,0.0,,1.0,oz,28.0,2018-04-03
+163,Burger King,513fbc1283aa2dc80c00000a,Value Menu Bacon Cheeseburger,23cb59493a603d28ae33db86,entree,breakfast,280.0,13.0,6.0,45.0,27.0,7.0,14.0,630.0,1.0,,1.0,sandwich,108.0,2018-04-03
+164,Burger King,513fbc1283aa2dc80c00000a,"French Fries, Value",23cb59496726a801a092e672,side,none,220.0,10.0,1.5,0.0,31.0,0.0,3.0,330.0,2.0,,1.0,value order,89.0,2018-04-03
+165,Burger King,513fbc1283aa2dc80c00000a,Butter Sugar Cookie,23cb59496ac4d289381ae5e8,dessert,none,160.0,7.0,3.5,15.0,22.0,12.0,2.0,135.0,0.0,,1.0,cookie,36.0,2018-04-03
+166,Burger King,513fbc1283aa2dc80c00000a,Value Menu Double Cheeseburger,23cb5949e7a3fec36751e2ad,entree,none,360.0,18.0,8.0,70.0,27.0,7.0,20.0,580.0,1.0,,1.0,sandwich,135.0,2018-04-03
+167,Burger King,513fbc1283aa2dc80c00000a,Rodeo Crispy Chicken Sandwich,32f127002834749ca3baca9e,entree,none,960.0,60.0,15.0,105.0,72.0,14.0,33.0,2230.0,3.0,,1.0,sandwich,,2018-04-03
+168,Burger King,513fbc1283aa2dc80c00000a,"Iced Coffee, Mocha",32f1270065f0dc89e1a3f2b3,drink,coffee,170.0,8.0,5.0,30.0,23.0,21.0,2.0,110.0,1.0,,1.0,medium,,2018-04-03
+169,Burger King,513fbc1283aa2dc80c00000a,BBQ Bacon Whopper Sandwich,32f1270073be439501c97b10,entree,breakfast,800.0,51.0,17.0,125.0,53.0,14.0,35.0,1540.0,2.0,,1.0,sandwich,303.0,2018-04-03
+170,Burger King,513fbc1283aa2dc80c00000a,Sourdough King,32f12700adb49d125f2aa0b1,entree,none,970.0,91.0,24.0,205.0,52.0,12.0,55.0,1640.0,2.0,,1.0,sandwich,,2018-04-03
+171,Burger King,513fbc1283aa2dc80c00000a,Whopper Sandwich with Cheese,516d9a40e3afed032c7da805,entree,none,740.0,46.0,16.0,115.0,50.0,11.0,32.0,1340.0,2.0,,1.0,sandwich,292.0,2018-04-03
+172,Burger King,513fbc1283aa2dc80c00000a,"Kids Chicken Nuggets, 6 piece",516d9a40e3afed032c7da829,entree,none,260.0,16.0,2.5,35.0,16.0,0.0,12.0,470.0,1.0,,6.0,pieces,88.0,2018-04-03
+173,Burger King,513fbc1283aa2dc80c00000a,"Chicken Nuggets, 10 piece",516d9a40e3afed032c7da82a,entree,none,430.0,27.0,4.5,55.0,27.0,0.0,20.0,780.0,2.0,,10.0,pieces,146.0,2018-04-03
+174,Burger King,513fbc1283aa2dc80c00000a,Kids Fat Free Milk,516d9a40e3afed032c7da836,drink,none,90.0,0.0,0.0,5.0,13.0,12.0,9.0,125.0,0.0,,8.0,fl oz,,2018-04-03
+175,Burger King,513fbc1283aa2dc80c00000a,"Onion Rings, Medium",516d9a40e3afed032c7da855,side,none,410.0,21.0,3.5,0.0,53.0,5.0,4.0,1080.0,4.0,,1.0,medium order,117.0,2018-04-03
+176,Burger King,513fbc1283aa2dc80c00000a,Quaker Oatmeal Maple Flavor,516d9a40e3afed032c7da85b,entree,breakfast,170.0,3.0,1.5,5.0,32.0,12.0,4.0,270.0,3.0,,1.0,serving,172.0,2018-04-03
+177,Burger King,513fbc1283aa2dc80c00000a,Croissan'Wich Egg & Cheese,516d9a40e3afed032c7da867,entree,none,300.0,15.0,7.0,130.0,30.0,4.0,11.0,580.0,1.0,,1.0,sandwich,114.0,2018-04-03
+178,Burger King,513fbc1283aa2dc80c00000a,"Sausage, Egg, & Cheese Biscuit",516d9a40e3afed032c7da874,entree,breakfast,510.0,35.0,9.0,165.0,29.0,2.0,18.0,1390.0,1.0,,1.0,sandwich,178.0,2018-04-03
+179,Burger King,513fbc1283aa2dc80c00000a,"Hash Browns, Medium",516d9a40e3afed032c7da879,side,none,500.0,33.0,7.0,0.0,48.0,0.0,4.0,1140.0,7.0,,1.0,medium order,169.0,2018-04-03
+180,Burger King,513fbc1283aa2dc80c00000a,"Hash Browns, Large",516d9a40e3afed032c7da87a,side,none,670.0,44.0,9.0,0.0,65.0,0.0,5.0,1530.0,9.0,,1.0,large order,225.0,2018-04-03
+181,Burger King,513fbc1283aa2dc80c00000a,Soft Serve Cup,516d9a40e3afed032c7da87f,drink,none,170.0,4.5,3.0,20.0,28.0,24.0,5.0,150.0,0.0,,1.0,cup,115.0,2018-04-03
+182,Burger King,513fbc1283aa2dc80c00000a,Chocolate Fudge Sundae,516d9a40e3afed032c7da881,dessert,none,280.0,7.0,5.0,20.0,47.0,41.0,6.0,220.0,1.0,,1.0,sundae,147.0,2018-04-03
+183,Burger King,513fbc1283aa2dc80c00000a,Chocolate Chip Cookies,516d9a40e3afed032c7da886,dessert,none,330.0,15.0,8.0,20.0,47.0,29.0,3.0,250.0,1.0,,2.0,cookies,76.0,2018-04-03
+184,Burger King,513fbc1283aa2dc80c00000a,Mayonnaise,516d9a40e3afed032c7da88c,misc,none,80.0,9.0,0.5,10.0,1.0,0.0,0.0,75.0,0.0,,1.0,packet,12.0,2018-04-03
+185,Burger King,513fbc1283aa2dc80c00000a,"Smoothie, Tropical Mango",516d9a40e3afed032c7da89e,drink,none,370.0,0.0,0.0,0.0,86.0,56.0,5.0,70.0,2.0,,16.0,fl oz,,2018-04-03
+186,Burger King,513fbc1283aa2dc80c00000a,"Diet Coke, 20 fl oz",516d9a40e3afed032c7da8ae,drink,none,0.0,0.0,0.0,0.0,1.0,0.0,0.0,85.0,0.0,,20.0,fl oz,,2018-04-03
+187,Burger King,513fbc1283aa2dc80c00000a,"Diet Coke, 38 fl oz",516d9a40e3afed032c7da8b0,drink,none,0.0,0.0,0.0,0.0,1.0,0.0,0.0,160.0,0.0,,38.0,fl oz,,2018-04-03
+188,Burger King,513fbc1283aa2dc80c00000a,"Dr. Pepper, 16 fl oz",516d9a40e3afed032c7da8b5,drink,none,190.0,0.0,0.0,0.0,52.0,51.0,0.0,60.0,0.0,,16.0,fl oz,,2018-04-03
+189,Burger King,513fbc1283aa2dc80c00000a,"Barq's Root Beer, 29 fl oz",516d9a40e3afed032c7da8bb,drink,none,430.0,0.0,0.0,0.0,118.0,118.0,0.0,180.0,0.0,,29.0,fl oz,,2018-04-03
+190,Burger King,513fbc1283aa2dc80c00000a,"Fanta Orange, 20 fl oz",516d9a40e3afed032c7da8c2,drink,none,280.0,0.0,0.0,0.0,78.0,77.0,0.0,70.0,0.0,,20.0,fl oz,,2018-04-03
+191,Burger King,513fbc1283aa2dc80c00000a,"Hi-C Fruit Punch, 29 fl oz",516d9a40e3afed032c7da8c7,drink,none,410.0,0.0,0.0,0.0,111.0,109.0,0.0,135.0,0.0,,29.0,fl oz,,2018-04-03
+192,Burger King,513fbc1283aa2dc80c00000a,"Sweet Tea, 20 fl oz",516d9a40e3afed032c7da8cd,drink,none,120.0,0.0,0.0,0.0,35.0,35.0,0.0,0.0,0.0,,20.0,fl oz,,2018-04-03
+193,Burger King,513fbc1283aa2dc80c00000a,Minute Maid Orange Juice,534448ab7395ed134519e49f,drink,none,140.0,0.0,0.0,0.0,33.0,30.0,2.0,20.0,0.0,,10.0,fl oz,,2018-04-03
+194,Burger King,513fbc1283aa2dc80c00000a,Original Chicken Sandwich without Mayo,534448ab7ba4ca15456f4e84,entree,none,450.0,16.0,3.5,60.0,48.0,4.0,28.0,990.0,2.0,,1.0,sandwich,190.0,2018-04-03
+195,Burger King,513fbc1283aa2dc80c00000a,Breakfast Syrup,534448ab9a631f1645ecf4c6,misc,breakfast,120.0,0.0,0.0,0.0,30.0,18.0,0.0,15.0,0.0,,1.0,oz,41.0,2018-04-03
+196,Burger King,513fbc1283aa2dc80c00000a,Value Menu Rodeo Burger,534448ab9a631f1645ecf4d3,entree,none,310.0,12.0,4.0,30.0,38.0,9.0,12.0,440.0,1.0,,1.0,sandwich,111.0,2018-04-03
+197,Burger King,513fbc1283aa2dc80c00000a,Whopper Sandwich without Mayo,534448ac7ba4ca15456f4e8c,entree,none,500.0,22.0,9.0,80.0,49.0,11.0,28.0,840.0,2.0,,1.0,sandwich,249.0,2018-04-03
+198,Burger King,513fbc1283aa2dc80c00000a,"Cheesecake, New York Style",583692c6ab41da12710abfbd,dessert,none,360.0,22.0,11.0,65.0,34.0,25.0,6.0,280.0,1.0,1.0,1.0,slice,99.0,2018-07-17
+199,Burger King,513fbc1283aa2dc80c00000a,King Croissan'Wich with Double Sausage,ddee45330f917a8ce541607f,entree,breakfast,700.0,51.0,20.0,210.0,31.0,5.0,27.0,1410.0,1.0,,1.0,sandwich,216.0,2018-04-03
+200,Burger King,513fbc1283aa2dc80c00000a,Jalapeno Chicken Fries,ddee45331b70ca0c4fa8e419,side,none,300.0,18.0,3.0,40.0,19.0,1.0,15.0,950.0,1.0,,1.0,order,96.0,2018-04-03
+201,Burger King,513fbc1283aa2dc80c00000a,Chili Cheese Grilled Dog,ddee453341ca6ae9ae51224a,entree,none,330.0,19.0,8.0,40.0,28.0,5.0,14.0,980.0,2.0,,1.0,sandwich,123.0,2018-04-03
+202,Burger King,513fbc1283aa2dc80c00000a,Bacon Cheddar Ranch Chicken Salad with Crispy Chicken and Dressing,ddee4533e07d5aaf5e89a2b9,entree,breakfast,710.0,50.0,13.0,110.0,34.0,6.0,32.0,1800.0,3.0,,1.0,salad with dressing,369.0,2018-04-03
+0,Taco Bell,513fbc1283aa2dc80c000020,Rainforest Coffee with Nestle Coffee-Mate Sweetened Original Creamer (1 portion creamer),23cb31348a295106c035a97b,drink,coffee,30.0,1.5,1.0,0.0,3.0,3.0,2.0,0.0,0.0,,,,,2018-08-03
+1,Taco Bell,513fbc1283aa2dc80c000020,Nacho Fries,32f13411c0380ea3cfecbd83,side,none,320.0,18.0,1.5,5.0,35.0,2.0,4.0,630.0,4.0,,1.0,Order,,2018-08-03
+2,Taco Bell,513fbc1283aa2dc80c000020,Nacho Fries Bellgrande,32f13411cef7882b9b0f70d2,side,none,710.0,40.0,6.0,30.0,73.0,4.0,13.0,1440.0,10.0,,1.0,Order,,2018-08-03
+3,Taco Bell,513fbc1283aa2dc80c000020,Watermelon Freeze (16 oz) - LV,32f16488eda33527ca454d63,drink,none,190.0,0.0,0.0,0.0,50.0,49.0,0.0,50.0,0.0,,,,,2018-08-03
+4,Taco Bell,513fbc1283aa2dc80c000020,Orange Cream Pop Freeze - LV (20 oz),32f19343805001b26d732095,drink,none,160.0,0.0,0.0,0.0,44.0,43.0,0.0,40.0,0.0,,20.5,oz,581.17,2018-04-11
+5,Taco Bell,513fbc1283aa2dc80c000020,Soft Taco Supreme - Beef,463d079106d08904d3ce336b,entree,none,210.0,10.0,4.5,30.0,20.0,2.0,10.0,520.0,3.0,,1.0,Taco,,2018-08-03
+6,Taco Bell,513fbc1283aa2dc80c000020,XXL Grilled Stuft Burrito - Chicken,463d079107ee4388e1d66667,entree,none,830.0,34.0,11.0,80.0,92.0,5.0,38.0,2070.0,10.0,,1.0,Burrito,,2018-08-03
+7,Taco Bell,513fbc1283aa2dc80c000020,Triple Layer Nachos,463d0791090cf7a8fb97a487,entree,none,320.0,15.0,1.5,0.0,41.0,2.0,7.0,610.0,6.0,,1.0,Order,,2018-08-03
+8,Taco Bell,513fbc1283aa2dc80c000020,Fresco Soft Taco - Shredded Chicken,463d07910e956690cd806713,entree,none,150.0,6.0,2.0,30.0,16.0,1.0,9.0,430.0,2.0,,1.0,Taco,,2018-08-03
+9,Taco Bell,513fbc1283aa2dc80c000020,Cinnabon Delights (12 Pack - Serves 4),463d07912bf83d90ae0de80e,dessert,none,930.0,53.0,13.0,40.0,104.0,59.0,9.0,480.0,3.0,,12.0,Cinnabon&reg; Delights&trade;,,2018-08-03
+10,Taco Bell,513fbc1283aa2dc80c000020,Beefy Nacho Loaded Griller,463d079143990a9926e38548,entree,none,370.0,15.0,4.0,20.0,48.0,3.0,12.0,820.0,5.0,,1.0,Burrito,,2018-08-03
+11,Taco Bell,513fbc1283aa2dc80c000020,Shredded Chicken Mini Quesadilla,463d0791480a9fc13ffe9df8,entree,none,200.0,10.0,3.5,40.0,15.0,1.0,10.0,490.0,1.0,,1.0,Mini Quesadilla,,2018-08-03
+12,Taco Bell,513fbc1283aa2dc80c000020,Black Beans,463d07914c9102f1d23a32a7,side,none,80.0,1.5,0.0,0.0,12.0,0.0,3.0,200.0,5.0,,1.0,Order,,2018-08-03
+13,Taco Bell,513fbc1283aa2dc80c000020,Grilled Breakfast Burrito - Fiesta Potato,463d079155143659c4c45dc3,entree,breakfast,340.0,14.0,3.5,100.0,43.0,3.0,10.0,780.0,3.0,,1.0,Burrito,,2018-08-03
+14,Taco Bell,513fbc1283aa2dc80c000020,Burrito Supreme - Beef,463d07915daf99e5340fd5e8,entree,none,400.0,15.0,6.0,30.0,52.0,4.0,17.0,1140.0,8.0,,1.0,Burrito,,2018-08-03
+15,Taco Bell,513fbc1283aa2dc80c000020,Chips and Salsa,463d0791630f69b95480fead,side,none,180.0,8.0,0.5,0.0,24.0,3.0,3.0,320.0,3.0,,1.0,Order,,2018-08-03
+16,Taco Bell,513fbc1283aa2dc80c000020,Double Decker Taco Supreme,463d079166f5291967ccc94d,entree,none,340.0,15.0,6.0,30.0,39.0,3.0,14.0,730.0,7.0,,1.0,Taco,,2018-08-03
+17,Taco Bell,513fbc1283aa2dc80c000020,Gordita Supreme - Chicken,463d0791895ad96633402ddc,entree,none,260.0,9.0,3.0,35.0,29.0,5.0,16.0,540.0,2.0,,1.0,Gordita,,2018-08-03
+18,Taco Bell,513fbc1283aa2dc80c000020,Breakfast Crunchwrap - Bacon,463d079189b1489ae3d2cb67,entree,breakfast,660.0,42.0,12.0,145.0,51.0,3.0,21.0,1280.0,4.0,,1.0,Crunchwrap,,2018-08-03
+19,Taco Bell,513fbc1283aa2dc80c000020,Shredded Chicken Burrito,463d079192eb4fce147ab338,entree,none,420.0,20.0,5.0,45.0,47.0,2.0,14.0,890.0,3.0,,1.0,Burrito,,2018-08-03
+20,Taco Bell,513fbc1283aa2dc80c000020,Chipotle Chicken Loaded Griller,463d07919db9b3be9c6e5006,entree,none,340.0,16.0,4.5,35.0,36.0,3.0,14.0,770.0,2.0,,1.0,Burrito,,2018-08-03
+21,Taco Bell,513fbc1283aa2dc80c000020,Power Menu Bowl - Steak,463d0791a5ea217ea007106a,entree,none,510.0,21.0,7.0,65.0,55.0,2.0,26.0,1250.0,8.0,,1.0,Bowl,,2018-08-03
+22,Taco Bell,513fbc1283aa2dc80c000020,Breakfast Soft Taco - Bacon,463d0791c322a5c3fb48ac47,entree,breakfast,230.0,14.0,5.0,120.0,15.0,1.0,12.0,560.0,1.0,,1.0,Taco,,2018-08-03
+23,Taco Bell,513fbc1283aa2dc80c000020,Crunchy Taco Supreme,463d0791ce23db7b78734e71,entree,none,190.0,11.0,4.5,30.0,15.0,2.0,8.0,340.0,3.0,,1.0,Taco,,2018-08-03
+24,Taco Bell,513fbc1283aa2dc80c000020,Burrito Supreme - Chicken,463d0791eb40605ffc1260a7,entree,none,380.0,12.0,5.0,35.0,49.0,4.0,20.0,1110.0,6.0,,1.0,Burrito,,2018-08-03
+25,Taco Bell,513fbc1283aa2dc80c000020,Chili Cheese Burrito (regional),463d0791f8b85b3fbfa160a2,entree,none,370.0,17.0,8.0,40.0,40.0,2.0,16.0,960.0,4.0,,1.0,Burrito,,2018-08-03
+26,Taco Bell,513fbc1283aa2dc80c000020,Fiery Doritos Locos Taco Supreme,463d0791f9ca29a3373f1aec,entree,none,190.0,11.0,4.5,30.0,15.0,2.0,8.0,390.0,3.0,,1.0,Taco,,2018-08-03
+27,Taco Bell,513fbc1283aa2dc80c000020,Nestle Coffee-Mate Sweetened Original Creamer (1 portion creamer),463d6746a9cd90faf425af5f,drink,coffee,25.0,1.5,1.0,0.0,3.0,3.0,0.0,0.0,0.0,,1.0,Creamer,,2018-08-03
+28,Taco Bell,513fbc1283aa2dc80c000020,Chipotle Sauce,58523ffcfb72b8ca3731c9dc,misc,none,110.0,11.0,1.5,10.0,3.0,1.0,0.5,300.0,0.0,8.0,2.0,tbsp,29.0,2016-12-15
+29,Taco Bell,513fbc1283aa2dc80c000020,Milk Taco  Sauce,59213b3ffb693b8f689482a0,entree,none,0.0,0.0,,,0.0,,0.0,25.0,,43.0,1.0,tsp,5.0,2017-05-21
+30,Taco Bell,513fbc1283aa2dc80c000020,Naked Chicken Chips (12 pieces) - Cantina,c64028325b773c7188e95386,entree,none,940.0,67.0,10.0,120.0,56.0,2.0,28.0,2210.0,3.0,,1.0,Order,,2018-08-03
+31,Taco Bell,513fbc1283aa2dc80c000020,IZZE Sparkling Clementine (20 oz),c64042950924b8907a829231,drink,none,180.0,0.0,0.0,0.0,48.0,45.0,0.0,190.0,0.0,,20.0,oz,,2018-08-03
+32,Taco Bell,513fbc1283aa2dc80c000020,Vanilla Flavor Shot (32 oz) - LV,c640429513de1bd8454baf1d,drink,none,0.0,0.0,0.0,0.0,1.0,0.0,0.0,5.0,0.0,,32.0,oz,,2018-08-03
+33,Taco Bell,513fbc1283aa2dc80c000020,Prosecco Sparkling Wine (350 mL),c64042951afcb9cc8cba58b2,drink,none,280.0,0.0,0.0,0.0,9.0,3.0,0.0,15.0,0.0,,350.0,mL,,2018-08-03
+34,Taco Bell,513fbc1283aa2dc80c000020,Red Sangria (16 oz) - LV,c640429520881b7051835e5d,drink,none,330.0,0.0,0.0,0.0,27.0,27.0,0.0,0.0,0.0,,16.0,oz,,2018-08-03
+35,Taco Bell,513fbc1283aa2dc80c000020,Caleb's Kola (20 oz),c6404295279f7264e667030b,drink,none,230.0,0.0,0.0,0.0,60.0,58.0,0.0,115.0,0.0,,20.0,oz,,2018-08-03
+36,Taco Bell,513fbc1283aa2dc80c000020,Whiskey (80 proof) - Single - LV,c64042955809d021f7237c8b,drink,none,120.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,1.0,Single,,2018-08-03
+37,Taco Bell,513fbc1283aa2dc80c000020,Premium Beer - Regular (16 oz),c6404295b37a59ba463096d1,drink,none,200.0,0.0,0.0,0.0,17.0,0.0,2.0,20.0,0.0,,16.0,oz,,2018-08-03
+38,Taco Bell,513fbc1283aa2dc80c000020,Premium Beer - Regular (16 oz) - LV,c6404295cd21973bcc895b5f,drink,none,200.0,0.0,0.0,0.0,17.0,0.0,2.0,20.0,0.0,,16.0,oz,,2018-08-03
+39,Taco Bell,513fbc1283aa2dc80c000020,Lemonade Freeze (20 oz) - LV,c6409009394003684f94ca91,drink,none,300.0,0.0,0.0,0.0,75.0,75.0,0.0,15.0,0.0,,20.5,oz,581.07,2017-06-22
+40,Taco Bell,513fbc1283aa2dc80c000020,Lemonade Freeze (16 oz),c6409009428775cdd003905f,drink,none,240.0,0.0,0.0,0.0,59.0,59.0,0.0,10.0,0.0,,16.25,oz,460.68,2017-06-22
+41,Taco Bell,513fbc1283aa2dc80c000020,Lemonade Freeze (20 oz),c6409009487b70f9fa5e8443,drink,none,300.0,0.0,0.0,0.0,75.0,75.0,0.0,15.0,0.0,,20.5,oz,581.17,2017-06-22
+42,Taco Bell,513fbc1283aa2dc80c000020,Lemonade Freeze (32 oz) - LV,c6409009e227eb1f7c09386d,drink,none,360.0,0.0,0.0,0.0,92.0,92.0,0.0,20.0,0.0,,25.1,oz,711.57,2017-06-22
+43,Taco Bell,513fbc1283aa2dc80c000020,Cherry Freeze (32 oz) - LV,c64093295b6a2f019c56f46a,drink,none,360.0,0.0,0.0,0.0,92.0,92.0,0.0,20.0,0.0,,25.1,oz,711.57,2017-06-22
+44,Taco Bell,513fbc1283aa2dc80c000020,Blue Raspberry Freeze (20 oz) - LV,c640932972e4a39101b668e4,drink,none,300.0,0.0,0.0,0.0,75.0,75.0,0.0,15.0,0.0,,20.5,oz,581.07,2017-06-22
+45,Taco Bell,513fbc1283aa2dc80c000020,Margarita Freeze (20 oz),c64093297a9277716cd7852d,drink,none,300.0,0.0,0.0,0.0,75.0,75.0,0.0,15.0,0.0,,20.5,oz,581.17,2017-06-22
+46,Taco Bell,513fbc1283aa2dc80c000020,Mtn Dew Freeze (20 oz),c640932982065db6937200ca,drink,none,160.0,0.0,0.0,0.0,42.0,42.0,0.0,50.0,0.0,,20.5,oz,,2017-06-22
+47,Taco Bell,513fbc1283aa2dc80c000020,Pina Colada Freeze (32 oz) - LV,c6409329aa50bf4e5b681c35,drink,none,360.0,0.0,0.0,0.0,92.0,92.0,0.0,20.0,0.0,,25.1,oz,711.57,2017-06-22
+48,Taco Bell,513fbc1283aa2dc80c000020,Pina Colada Freeze (20 oz),c6409329ca37af076f450b9d,drink,none,300.0,0.0,0.0,0.0,75.0,75.0,0.0,15.0,0.0,,20.5,oz,581.17,2017-06-22
+49,Taco Bell,513fbc1283aa2dc80c000020,Cool Ranch Doritos Double Decker Taco,ddee119699ddd362b3aed452,entree,none,320.0,13.0,5.0,25.0,36.0,2.0,13.0,770.0,7.0,,1.0,Taco,,2018-08-03
+50,Taco Bell,513fbc1283aa2dc80c000020,Mtn Dew Baja Blast Freeze (20 oz),ddee2312501bb1adbe478be2,drink,none,230.0,0.0,0.0,0.0,64.0,64.0,0.0,65.0,0.0,,20.0,oz,,2018-08-03
+51,Taco Bell,513fbc1283aa2dc80c000020,Mtn Dew Kickstart Orange Citrus,ddee67617d389cdde9876cfb,drink,none,70.0,0.0,0.0,0.0,18.0,18.0,0.0,75.0,0.0,,16.0,oz,,2018-08-03
+52,Taco Bell,513fbc1283aa2dc80c000020,Nacho Fries Supreme,32f134119a669c1e32d2baa4,side,none,410.0,24.0,4.5,25.0,40.0,3.0,9.0,920.0,6.0,,1.0,Order,,2018-08-03
+53,Taco Bell,513fbc1283aa2dc80c000020,Berry Sangria Freeze (16 oz),32f13873c98c6247d4f16987,drink,none,240.0,0.0,0.0,0.0,59.0,59.0,0.0,10.0,0.0,,16.25,oz,460.68,2018-05-01
+54,Taco Bell,513fbc1283aa2dc80c000020,Berry Sangria Freeze (20 oz),32f13873cc11e9537d85528d,drink,none,300.0,0.0,0.0,0.0,75.0,75.0,0.0,15.0,0.0,,20.5,oz,581.17,2018-05-01
+55,Taco Bell,513fbc1283aa2dc80c000020,Orange Cream Pop Freeze (20 oz),32f193430dda6568aca8bce2,drink,none,160.0,0.0,0.0,0.0,44.0,43.0,0.0,40.0,0.0,,20.5,oz,581.17,2018-04-11
+56,Taco Bell,513fbc1283aa2dc80c000020,Fresco Burrito Supreme - Chicken,463d07912a9ac2ace0ceabeb,entree,none,340.0,8.0,2.5,25.0,48.0,4.0,18.0,1070.0,6.0,,1.0,Burrito,,2018-08-03
+57,Taco Bell,513fbc1283aa2dc80c000020,Fresco Crunchy Taco - Beef,463d07912e68ff28b3fd780a,entree,none,140.0,7.0,2.5,15.0,14.0,1.0,6.0,300.0,3.0,,1.0,Taco,,2018-08-03
+58,Taco Bell,513fbc1283aa2dc80c000020,Cinnabon Delights (4 Pack),463d079141294c9920db74dc,dessert,none,310.0,18.0,4.5,15.0,35.0,20.0,3.0,160.0,1.0,,4.0,Cinnabon&reg; Delights&trade;,,2018-08-03
+59,Taco Bell,513fbc1283aa2dc80c000020,Beefy 5-Layer Burrito,463d0791609b1c41237d8a28,entree,none,500.0,19.0,7.0,30.0,64.0,5.0,19.0,1280.0,8.0,,1.0,Burrito,,2018-08-03
+60,Taco Bell,513fbc1283aa2dc80c000020,Double Decker Taco,463d07916cac9fc188ff0192,entree,none,320.0,13.0,4.5,25.0,36.0,2.0,13.0,710.0,7.0,,1.0,Taco,,2018-08-03
+61,Taco Bell,513fbc1283aa2dc80c000020,Cool Ranch Doritos Cheesy Gordita Crunch,463d07917a5633f1a29ba5fe,entree,none,500.0,28.0,10.0,55.0,41.0,5.0,20.0,910.0,5.0,,1.0,Gordita,,2018-08-03
+62,Taco Bell,513fbc1283aa2dc80c000020,Spicy Potato Soft Taco,463d07918021dd6215d1be8c,entree,none,230.0,12.0,3.0,10.0,27.0,1.0,5.0,460.0,2.0,,1.0,Taco,,2018-08-03
+63,Taco Bell,513fbc1283aa2dc80c000020,Quesarito - Beef,463d0791913560364952006d,entree,none,650.0,33.0,12.0,60.0,68.0,5.0,21.0,1390.0,5.0,,1.0,Quesarito,,2018-08-03
+64,Taco Bell,513fbc1283aa2dc80c000020,Power Menu Burrito - Chicken,463d07919c428352f5a22fa3,entree,none,450.0,20.0,7.0,70.0,41.0,4.0,26.0,1200.0,4.0,,1.0,Burrito,,2018-08-03
+65,Taco Bell,513fbc1283aa2dc80c000020,Fiery Doritos Cheesy Gordita Crunch,463d0791be07a2a6ce533bcb,entree,none,490.0,28.0,10.0,55.0,41.0,4.0,20.0,910.0,5.0,,1.0,Gordita,,2018-08-03
+66,Taco Bell,513fbc1283aa2dc80c000020,Fiery Doritos Locos Taco,463d0791d22073bbe33be743,entree,none,170.0,9.0,3.5,25.0,13.0,1.0,8.0,370.0,3.0,,1.0,Taco,,2018-08-03
+67,Taco Bell,513fbc1283aa2dc80c000020,Express Fiesta Taco Salad (regional),463d0791d3fdd1f3e510f85b,entree,none,580.0,26.0,9.0,55.0,65.0,6.0,23.0,1280.0,11.0,,1.0,Salad,,2018-08-03
+68,Taco Bell,513fbc1283aa2dc80c000020,Breakfast Crunchwrap - Steak,463d0791ddde16eb9e838046,entree,breakfast,650.0,39.0,11.0,150.0,51.0,3.0,24.0,1290.0,4.0,,1.0,Crunchwrap,,2018-08-03
+69,Taco Bell,513fbc1283aa2dc80c000020,Nachos BellGrande,463d0791ef5080af7fa6684d,side,none,750.0,38.0,6.0,25.0,85.0,5.0,19.0,1310.0,13.0,,1.0,Order,,2018-08-03
+70,Taco Bell,513fbc1283aa2dc80c000020,Nacho Cheese Doritos Locos Taco Supreme,463d0791efd4f64b45cee4a9,entree,none,190.0,11.0,4.5,30.0,15.0,2.0,8.0,380.0,3.0,,1.0,Taco,,2018-08-03
+71,Taco Bell,513fbc1283aa2dc80c000020,Breakfast Soft Taco - Sausage,463d0791f10940d73988f430,entree,breakfast,230.0,14.0,5.0,115.0,15.0,1.0,9.0,400.0,1.0,,1.0,Taco,,2018-08-03
+72,Taco Bell,513fbc1283aa2dc80c000020,Double Tostada (regional),463d0791fd5b647343960db5,entree,none,270.0,11.0,4.0,15.0,32.0,2.0,12.0,660.0,8.0,,1.0,Tostada,,2018-08-03
+73,Taco Bell,513fbc1283aa2dc80c000020,Mild Sauce,5aeffaefd2542cec693db5a2,misc,none,0.0,0.0,,,0.0,,0.0,25.0,,43.0,1.0,tsp,5.0,2018-05-07
+74,Taco Bell,513fbc1283aa2dc80c000020,Iced Regular Coffee,c6402832493164414bc6ec85,drink,coffee,10.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,,1.0,Coffee,,2018-08-03
+75,Taco Bell,513fbc1283aa2dc80c000020,Stubborn Soda - Classic Root Beer (20 oz) - LV,c6404295044ff980690ddd99,drink,none,280.0,0.0,0.0,0.0,73.0,70.0,0.0,140.0,0.0,,20.0,oz,,2018-08-03
+76,Taco Bell,513fbc1283aa2dc80c000020,Rum (80 proof),c640429543ff11ddca5d1b8b,drink,none,70.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,1.0,oz,,2018-08-03
+77,Taco Bell,513fbc1283aa2dc80c000020,Red Sangria (16 oz),c6404295491eb1cdfe11c2ef,drink,none,330.0,0.0,0.0,0.0,27.0,27.0,0.0,0.0,0.0,,16.0,oz,,2018-08-03
+78,Taco Bell,513fbc1283aa2dc80c000020,Tequila (80 proof) - Double - LV,c64042954de7d4794059dc35,entree,none,250.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,1.0,Double,,2018-08-03
+79,Taco Bell,513fbc1283aa2dc80c000020,Vanilla Flavor Shot (16 oz) - LV,c64042955893d081e783fa17,drink,none,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,16.0,oz,,2018-08-03
+80,Taco Bell,513fbc1283aa2dc80c000020,Vodka (80 proof),c64042956ead8e998334bf6e,drink,none,70.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,1.0,oz,,2018-08-03
+81,Taco Bell,513fbc1283aa2dc80c000020,Rum (80 proof) - Double - LV,c640429576ca65cd3302ed30,entree,none,250.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,1.0,Double,,2018-08-03
+82,Taco Bell,513fbc1283aa2dc80c000020,Vodka (80 proof) - Double - LV,c64042957ace4f515bf52a8d,entree,none,250.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,1.0,Double,,2018-08-03
+83,Taco Bell,513fbc1283aa2dc80c000020,Strawberry Flavor Shot (32 oz) - LV,c64042957bd87175b4ae498a,drink,none,0.0,0.0,0.0,0.0,1.0,0.0,0.0,5.0,0.0,,32.0,oz,,2018-08-03
+84,Taco Bell,513fbc1283aa2dc80c000020,Strawberry Flavor Shot (16 oz) - LV,c640429590caac169bca5da6,drink,none,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,16.0,oz,,2018-08-03
+85,Taco Bell,513fbc1283aa2dc80c000020,IZZE Sparkling Clementine (20 oz) - LV,c64042959403b9c6c5b70e73,drink,none,180.0,0.0,0.0,0.0,48.0,45.0,0.0,190.0,0.0,,20.0,oz,,2018-08-03
+86,Taco Bell,513fbc1283aa2dc80c000020,Tequila (80 proof) - Single - LV,c64042959aaf710e6c646e39,drink,none,120.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,1.0,Single,,2018-08-03
+87,Taco Bell,513fbc1283aa2dc80c000020,White Wine (8 fl oz) - LV,c6404295b4719dd20c9447e0,drink,none,190.0,0.0,0.0,0.0,6.0,2.0,0.0,10.0,0.0,,8.0,oz,,2018-08-03
+88,Taco Bell,513fbc1283aa2dc80c000020,Vodka (80 proof) - Single - LV,c6404295dca9000b035b7630,drink,none,120.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,1.0,Single,,2018-08-03
+89,Taco Bell,513fbc1283aa2dc80c000020,Mtn Dew Baja Blast Freeze (20 oz),c6405983021539b4d80354d3,drink,none,230.0,0.0,0.0,0.0,64.0,64.0,0.0,65.0,0.0,,20.5,oz,,2017-06-06
+90,Taco Bell,513fbc1283aa2dc80c000020,Lemonade Freeze (16 oz) - LV,c64090090a6642ec44e3c255,drink,none,190.0,0.0,0.0,0.0,49.0,49.0,0.0,10.0,0.0,,13.44,oz,381.02,2017-06-22
+91,Taco Bell,513fbc1283aa2dc80c000020,Red Cherry Freeze (20 oz),c640932928443e20a551f376,drink,none,300.0,0.0,0.0,0.0,75.0,75.0,0.0,15.0,0.0,,20.5,oz,581.17,2017-06-22
+92,Taco Bell,513fbc1283aa2dc80c000020,Blue Raspberry Freeze (16 oz),c640932979badc8d76d35f7d,drink,none,240.0,0.0,0.0,0.0,59.0,59.0,0.0,10.0,0.0,,16.25,oz,460.68,2017-06-22
+93,Taco Bell,513fbc1283aa2dc80c000020,Margarita Freeze (16 oz),c6409329b643a18e52ac4585,drink,none,240.0,0.0,0.0,0.0,59.0,59.0,0.0,10.0,0.0,,16.25,oz,460.68,2017-06-22
+94,Taco Bell,513fbc1283aa2dc80c000020,Pepsi Freeze (16 oz) - LV,c6409329ca164fa3e0373a13,drink,none,90.0,0.0,0.0,0.0,26.0,26.0,0.0,20.0,0.0,,13.4,oz,,2017-06-22
+95,Taco Bell,513fbc1283aa2dc80c000020,Mtn Dew Freeze (16 oz),c6409329ebecac33a78f46c2,drink,none,120.0,0.0,0.0,0.0,33.0,33.0,0.0,40.0,0.0,,16.2,oz,,2017-06-22
+96,Taco Bell,513fbc1283aa2dc80c000020,Mtn Dew Baja Blast Freeze (16 oz),ddee2312af71489e46164f01,drink,none,180.0,0.0,0.0,0.0,51.0,51.0,0.0,50.0,0.0,,16.0,oz,,2018-08-03
+97,Taco Bell,513fbc1283aa2dc80c000020,Sausage Flatbread Quesadilla,ddee6761484aa2f13c72dce4,entree,breakfast,330.0,18.0,6.0,120.0,27.0,3.0,14.0,520.0,2.0,,1.0,Quesadilla,,2018-08-03
+98,Taco Bell,513fbc1283aa2dc80c000020,Mini Skillet Bowl,ddee6761e476a24364561b71,entree,none,180.0,11.0,2.0,100.0,16.0,1.0,5.0,430.0,2.0,,1.0,bowl,,2018-08-03
+99,Taco Bell,513fbc1283aa2dc80c000020,Watermelon Freeze (20 oz) - LV,32f164882a70e3fc75648c49,drink,none,270.0,0.0,0.0,0.0,72.0,72.0,0.0,70.0,0.0,,,,,2018-08-03
+100,Taco Bell,513fbc1283aa2dc80c000020,Chicken Nachos Box,32f1648863e0808dbbc369e2,entree,none,1050.0,51.0,7.0,65.0,113.0,6.0,35.0,1860.0,15.0,,1.0,Order,,2018-08-03
+101,Taco Bell,513fbc1283aa2dc80c000020,Beef Nachos Box,32f164887f2f904948a3944d,entree,none,1100.0,57.0,10.0,50.0,118.0,6.0,29.0,1920.0,18.0,,1.0,Order,,2018-08-03
+102,Taco Bell,513fbc1283aa2dc80c000020,Orange Cream Pop Freeze - LV (32 oz),32f19343a24f9e5ae334b687,drink,none,200.0,0.0,0.0,0.0,53.0,53.0,0.0,45.0,0.0,,25.1,oz,711.57,2018-04-11
+103,Taco Bell,513fbc1283aa2dc80c000020,Meximelt,463d07910c8dcb6879b99699,entree,none,250.0,13.0,7.0,40.0,19.0,1.0,14.0,720.0,4.0,,1.0,Order,,2018-08-03
+104,Taco Bell,513fbc1283aa2dc80c000020,Chalupa Supreme - Beef,463d07910e316a6cd604eb47,entree,none,350.0,18.0,5.0,25.0,33.0,3.0,13.0,560.0,4.0,,1.0,Chalupa,,2018-08-03
+105,Taco Bell,513fbc1283aa2dc80c000020,Power Menu Bowl - Veggie,463d07912e64ee1c07e375d4,entree,none,480.0,19.0,5.0,20.0,65.0,2.0,14.0,970.0,13.0,,1.0,Bowl,,2018-08-03
+106,Taco Bell,513fbc1283aa2dc80c000020,Grande Scrambler Burrito - Steak,463d079140508e79152ffe1c,entree,none,640.0,31.0,8.0,230.0,65.0,4.0,24.0,1480.0,5.0,,1.0,Burrito,,2018-08-03
+107,Taco Bell,513fbc1283aa2dc80c000020,XXL Grilled Stuft Burrito - Steak,463d0791516535f1f176db03,entree,none,840.0,35.0,12.0,75.0,94.0,5.0,37.0,2090.0,10.0,,1.0,Burrito,,2018-08-03
+108,Taco Bell,513fbc1283aa2dc80c000020,Gordita Supreme - Steak,463d0791643059a15b313715,entree,none,270.0,9.0,3.5,30.0,30.0,5.0,16.0,550.0,2.0,,1.0,Gordita,,2018-08-03
+109,Taco Bell,513fbc1283aa2dc80c000020,Cool Ranch Doritos Locos Taco Supreme,463d079164caacd1f3a3ad5f,entree,none,190.0,11.0,4.5,30.0,15.0,2.0,8.0,400.0,3.0,,1.0,Taco,,2018-08-03
+110,Taco Bell,513fbc1283aa2dc80c000020,Crunchwrap Supreme,463d07916d7cd6f50addd82c,entree,none,530.0,21.0,6.0,25.0,71.0,6.0,16.0,1200.0,6.0,,1.0,Crunchwrap,,2018-08-03
+111,Taco Bell,513fbc1283aa2dc80c000020,Bean Burrito,463d07917ef73d219f49b15a,entree,none,380.0,11.0,4.0,5.0,55.0,3.0,14.0,1060.0,9.0,,1.0,Burrito,,2018-08-03
+112,Taco Bell,513fbc1283aa2dc80c000020,Quesarito - Chicken,463d0791baf9e202caeb694b,entree,none,640.0,32.0,11.0,75.0,66.0,4.0,22.0,1340.0,4.0,,1.0,Quesarito,,2018-08-03
+113,Taco Bell,513fbc1283aa2dc80c000020,Caramel Apple Empanada,463d0791c83d2c8f7afb631d,dessert,none,280.0,13.0,3.5,5.0,38.0,15.0,3.0,260.0,1.0,,1.0,Empanada,,2018-08-03
+114,Taco Bell,513fbc1283aa2dc80c000020,Power Menu Burrito - Veggie,463d0791de09e0fb7a122965,entree,none,430.0,19.0,6.0,20.0,52.0,4.0,14.0,940.0,9.0,,1.0,Burrito,,2018-08-03
+115,Taco Bell,513fbc1283aa2dc80c000020,Cheesy Roll Up,463d0791e4bfc06b4abdc0e5,side,none,180.0,9.0,5.0,20.0,15.0,1.0,9.0,430.0,2.0,,1.0,Roll-up,,2018-08-03
+116,Taco Bell,513fbc1283aa2dc80c000020,Spicy Tostada,463d0791ecb3211b5e0a6a69,entree,none,210.0,10.0,3.0,10.0,22.0,1.0,6.0,440.0,5.0,,1.0,Tostada,,2018-08-03
+117,Taco Bell,513fbc1283aa2dc80c000020,Crunchy Taco,463d0791eddeb47f84bffe7e,entree,none,170.0,9.0,3.5,25.0,13.0,1.0,8.0,310.0,3.0,,1.0,Taco,,2018-08-03
+118,Taco Bell,513fbc1283aa2dc80c000020,Hot Sauce,53a2f9ef762cc3704cd49f3e,misc,none,0.0,0.0,,,0.0,,0.0,30.0,,43.0,1.0,tsp,5.0,2017-04-11
+119,Taco Bell,513fbc1283aa2dc80c000020,New Classic Tortilla Chips,5ae56e8dfc4885a34682897f,side,none,140.0,8.0,0.5,0.0,16.0,0.0,2.0,210.0,1.0,13.0,11.0,chips,28.0,2018-04-29
+120,Taco Bell,513fbc1283aa2dc80c000020,"Tortilla Chips, Mild",5b0a58a87a18689a65f31465,side,none,140.0,8.0,0.5,0.0,16.0,1.0,2.0,130.0,1.0,11.0,11.0,chips,28.0,2018-05-27
+121,Taco Bell,513fbc1283aa2dc80c000020,Domestic Beer - Regular (16 oz) - LV,c640429508ef3c9c63fcca89,drink,none,200.0,0.0,0.0,0.0,17.0,0.0,2.0,20.0,0.0,,16.0,oz,,2018-08-03
+122,Taco Bell,513fbc1283aa2dc80c000020,Tequila (80 proof),c640429527d454a4680e5519,drink,none,70.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,1.0,oz,,2018-08-03
+123,Taco Bell,513fbc1283aa2dc80c000020,White Sangria (16 oz) - LV,c640429535f8860419508384,drink,none,340.0,0.0,0.0,0.0,29.0,29.0,0.0,0.0,0.0,,16.0,oz,,2018-08-03
+124,Taco Bell,513fbc1283aa2dc80c000020,Premium Beer - Light (16 oz),c64042954483e5698401b71e,drink,none,140.0,0.0,0.0,0.0,8.0,0.0,1.0,20.0,0.0,,16.0,oz,,2018-08-03
+125,Taco Bell,513fbc1283aa2dc80c000020,Premium Beer - Light (16 oz) - LV,c6404295974a03ae8ed600ce,drink,none,140.0,0.0,0.0,0.0,8.0,0.0,1.0,20.0,0.0,,16.0,oz,,2018-08-03
+126,Taco Bell,513fbc1283aa2dc80c000020,Whiskey (80 proof) - Double - LV,c6404295cb93fedb14798528,entree,none,250.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,1.0,Double,,2018-08-03
+127,Taco Bell,513fbc1283aa2dc80c000020,Domestic Beer - Light (16 oz) - LV,c6404295d9223f5f11b4ddc4,drink,none,140.0,0.0,0.0,0.0,8.0,0.0,1.0,20.0,0.0,,16.0,oz,,2018-08-03
+128,Taco Bell,513fbc1283aa2dc80c000020,Mtn Dew Baja Blast Freeze (30 oz) - LV,c64059831b2cada024cacd8c,drink,none,280.0,0.0,0.0,0.0,78.0,78.0,0.0,80.0,0.0,,25.1,oz,,2017-06-06
+129,Taco Bell,513fbc1283aa2dc80c000020,Mtn Dew Baja Blast Freeze (20 oz) - LV,c64059839fc3a876cbb187b3,drink,none,230.0,0.0,0.0,0.0,64.0,64.0,0.0,65.0,0.0,,20.5,oz,,2017-06-06
+130,Taco Bell,513fbc1283aa2dc80c000020,Breakfast Quesadilla - Sausage,c640716423a568ec16d9a354,entree,breakfast,500.0,29.0,13.0,155.0,37.0,2.0,24.0,1100.0,3.0,,1.0,Quesadilla,,2018-08-03
+131,Taco Bell,513fbc1283aa2dc80c000020,Margarita Freeze (32 oz) - LV,c640932994551b2e01ca5fc4,drink,none,360.0,0.0,0.0,0.0,92.0,92.0,0.0,20.0,0.0,,25.1,oz,711.57,2017-06-22
+132,Taco Bell,513fbc1283aa2dc80c000020,Red Cherry Freeze (16 oz),c6409329cdb22d83b6abc13a,drink,none,240.0,0.0,0.0,0.0,59.0,59.0,0.0,10.0,0.0,,16.25,oz,460.68,2017-06-22
+133,Taco Bell,513fbc1283aa2dc80c000020,Pepsi Freeze (16 oz),c6409329e2c0a563b5931ba2,drink,none,110.0,0.0,0.0,0.0,31.0,31.0,0.0,25.0,0.0,,16.2,oz,,2017-06-22
+134,Taco Bell,513fbc1283aa2dc80c000020,Pepsi Freeze (20 oz),c6409329e39d9a87515ab241,drink,none,140.0,0.0,0.0,0.0,39.0,39.0,0.0,30.0,0.0,,20.5,oz,,2017-06-22
+135,Taco Bell,513fbc1283aa2dc80c000020,Margarita Freeze (20 oz) - LV,c6409329f7d163074bf50d8d,drink,none,300.0,0.0,0.0,0.0,75.0,75.0,0.0,15.0,0.0,,20.5,oz,581.17,2017-06-22
+136,Taco Bell,513fbc1283aa2dc80c000020,Beach Berry Freeze(20 oz),32f13873af42d2825e442b75,drink,none,300.0,0.0,0.0,0.0,75.0,75.0,0.0,15.0,0.0,,20.5,oz,581.17,2018-08-03
+137,Taco Bell,513fbc1283aa2dc80c000020,Skittles Freeze (16 oz),32f16413093f3d484a42b545,drink,none,160.0,0.0,0.0,0.0,43.0,43.0,0.0,40.0,0.0,,16.0,oz,,2018-08-03
+138,Taco Bell,513fbc1283aa2dc80c000020,Skittles Freeze - LV (20 oz),32f16413388495000f1104bc,drink,none,210.0,0.0,0.0,0.0,54.0,54.0,0.0,50.0,0.0,,20.0,oz,,2018-08-03
+139,Taco Bell,513fbc1283aa2dc80c000020,Skittles Freeze - LV (32 oz),32f16413a1c7592efbb1b037,drink,none,250.0,0.0,0.0,0.0,66.0,66.0,0.0,65.0,0.0,,32.0,oz,,2018-08-03
+140,Taco Bell,513fbc1283aa2dc80c000020,Watermelon Freeze (16 oz),32f16488138e80ec6e45cd49,drink,none,220.0,0.0,0.0,0.0,59.0,58.0,0.0,60.0,0.0,,16.0,oz,,2018-08-03
+141,Taco Bell,513fbc1283aa2dc80c000020,Orange Cream Pop Freeze - LV (16 oz),32f1934335bc80b806b44d78,drink,none,110.0,0.0,0.0,0.0,28.0,28.0,0.0,25.0,0.0,,13.44,oz,381.02,2018-04-11
+142,Taco Bell,513fbc1283aa2dc80c000020,Black Beans & Rice,463d079100f9c8ece01f6407,side,none,190.0,4.0,0.0,0.0,35.0,0.0,5.0,390.0,6.0,,1.0,Order,,2018-08-03
+143,Taco Bell,513fbc1283aa2dc80c000020,Chalupa Supreme - Chicken,463d0791038459a48f86fee2,entree,none,330.0,16.0,3.5,35.0,31.0,3.0,16.0,520.0,2.0,,1.0,Chalupa,,2018-08-03
+144,Taco Bell,513fbc1283aa2dc80c000020,Hashbrown,463d079115a8d6cca6398aa2,side,none,160.0,12.0,1.0,0.0,13.0,0.0,1.0,270.0,2.0,,1.0,Order,,2018-08-03
+145,Taco Bell,513fbc1283aa2dc80c000020,Grande Scrambler Burrito - Bacon,463d079118efdc9409eadb44,entree,breakfast,650.0,33.0,9.0,225.0,65.0,4.0,21.0,1470.0,5.0,,1.0,Burrito,,2018-08-03
+146,Taco Bell,513fbc1283aa2dc80c000020,Grilled Breakfast Burrito - Bacon,463d0791356ff4f494813156,entree,breakfast,350.0,17.0,4.5,115.0,37.0,3.0,13.0,890.0,2.0,,1.0,Burrito,,2018-08-03
+147,Taco Bell,513fbc1283aa2dc80c000020,Breakfast Crunchwrap - Sausage,463d079154807f71924650f2,entree,breakfast,700.0,46.0,14.0,150.0,51.0,3.0,21.0,1200.0,4.0,,1.0,Crunchwrap,,2018-08-03
+148,Taco Bell,513fbc1283aa2dc80c000020,Quesadilla - Cheese,463d07915af988196455ab3d,entree,none,460.0,26.0,11.0,50.0,37.0,3.0,19.0,980.0,4.0,,1.0,Quesadilla,,2018-08-03
+149,Taco Bell,513fbc1283aa2dc80c000020,Cool Ranch Doritos Locos Taco,463d079193d25cee0830c90c,entree,none,170.0,10.0,3.5,25.0,13.0,1.0,8.0,380.0,3.0,,1.0,Taco,,2018-08-03
+150,Taco Bell,513fbc1283aa2dc80c000020,Breakfast Soft Taco - Egg & Cheese,463d07919f036ca229371ad8,entree,breakfast,170.0,9.0,3.0,105.0,15.0,1.0,7.0,330.0,1.0,,1.0,Taco,,2018-08-03
+151,Taco Bell,513fbc1283aa2dc80c000020,Combo Burrito,463d07919f8abfe23fd8abe0,entree,none,450.0,18.0,7.0,40.0,51.0,3.0,21.0,1380.0,9.0,,1.0,Burrito,,2018-08-03
+152,Taco Bell,513fbc1283aa2dc80c000020,7-Layer Burrito,463d0791a8fe4ba60d678070,entree,none,440.0,16.0,6.0,15.0,59.0,4.0,14.0,1000.0,7.0,,1.0,Burrito,,2018-08-03
+153,Taco Bell,513fbc1283aa2dc80c000020,Pintos 'n Cheese,463d0791abff9612843da062,side,none,190.0,7.0,3.0,10.0,22.0,1.0,10.0,680.0,7.0,,1.0,Order,,2018-08-03
+154,Taco Bell,513fbc1283aa2dc80c000020,Quesadilla - Chicken,463d0791ada3913226c1bcd8,entree,none,510.0,28.0,12.0,75.0,38.0,3.0,27.0,1210.0,4.0,,1.0,Quesadilla,,2018-08-03
+155,Taco Bell,513fbc1283aa2dc80c000020,Mexican Pizza,463d0791be9e2c3a41ae7651,entree,none,540.0,30.0,8.0,40.0,49.0,3.0,20.0,990.0,7.0,,1.0,Order,,2018-08-03
+156,Taco Bell,513fbc1283aa2dc80c000020,Cheesy Potato Griller,463d0791c31f3ebbebfd5097,entree,none,340.0,13.0,3.0,5.0,50.0,3.0,8.0,780.0,3.0,,1.0,Burrito,,2018-08-03
+157,Taco Bell,513fbc1283aa2dc80c000020,Quesarito - Steak,463d0791c5ab68f37b96d161,entree,none,630.0,30.0,11.0,65.0,66.0,4.0,24.0,1370.0,4.0,,1.0,Quesarito,,2018-08-03
+158,Taco Bell,513fbc1283aa2dc80c000020,Cheesy Potato Burrito,463d0791cd89438798b49ec6,entree,none,480.0,21.0,7.0,40.0,55.0,4.0,17.0,1300.0,7.0,,1.0,Burrito,,2018-08-03
+159,Taco Bell,513fbc1283aa2dc80c000020,XXL Grilled Stuft Burrito - Beef,463d0791cecf50331745a3ec,entree,none,870.0,40.0,14.0,65.0,97.0,6.0,32.0,2140.0,13.0,,1.0,Burrito,,2018-08-03
+160,Taco Bell,513fbc1283aa2dc80c000020,Seasoned Rice,463d0791d1e54eebb9ee6ec2,side,none,120.0,2.0,0.0,0.0,23.0,0.0,2.0,190.0,1.0,,1.0,Order,,2018-08-03
+161,Taco Bell,513fbc1283aa2dc80c000020,Beefy Mini Quesadilla,463d0791d7c1d033ce47dc4b,entree,none,210.0,11.0,4.0,25.0,17.0,1.0,9.0,540.0,3.0,,1.0,Mini Quesadilla,,2018-08-03
+162,Taco Bell,513fbc1283aa2dc80c000020,Grilled Breakfast Burrito - Sausage,463d0791d8993247ecb0e29f,entree,breakfast,340.0,17.0,5.0,110.0,36.0,3.0,11.0,730.0,2.0,,1.0,Burrito,,2018-08-03
+163,Taco Bell,513fbc1283aa2dc80c000020,Cinnabon Delights (2 Pack),463d0791e25cd01b61a658e1,dessert,none,160.0,9.0,2.0,5.0,17.0,10.0,2.0,80.0,0.0,,2.0,Cinnabon&reg; Delights&trade;,,2018-08-03
+164,Taco Bell,513fbc1283aa2dc80c000020,Power Menu Burrito - Steak,463d0791f76364bff40a6957,entree,none,460.0,21.0,8.0,65.0,42.0,4.0,25.0,1220.0,4.0,,1.0,Burrito,,2018-08-03
+165,Taco Bell,513fbc1283aa2dc80c000020,Black Bean Burrito,463d0791f7a67b236195d85d,entree,none,390.0,11.0,4.0,10.0,60.0,2.0,13.0,1020.0,8.0,,1.0,Burrito,,2018-08-03
+166,Taco Bell,513fbc1283aa2dc80c000020,Rainforest Coffee,463d6746de8c3a4f744a0cad,drink,coffee,10.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,,1.0,Coffee,,2018-08-03
+167,Taco Bell,513fbc1283aa2dc80c000020,Lowfat Milk - CA (Regional),c64042951cf0c3e4126342d4,drink,none,100.0,2.0,1.5,10.0,13.0,12.0,9.0,130.0,0.0,,7.0,oz,,2018-08-03
+168,Taco Bell,513fbc1283aa2dc80c000020,Domestic Beer - Regular (16 oz),c64042951ea5c05834d2c1b4,drink,none,200.0,0.0,0.0,0.0,17.0,0.0,2.0,20.0,0.0,,16.0,oz,,2018-08-03
+169,Taco Bell,513fbc1283aa2dc80c000020,Red Wine (8 fl oz) - LV,c64042955cc35a51288bef40,drink,none,200.0,0.0,0.0,0.0,6.0,1.0,0.0,10.0,0.0,,8.0,oz,,2018-08-03
+170,Taco Bell,513fbc1283aa2dc80c000020,Cheesy Jalapeno Dippers,c6404295aadbb46a817a8cba,side,none,700.0,31.0,14.0,55.0,80.0,7.0,26.0,2120.0,7.0,,,,,2018-08-03
+171,Taco Bell,513fbc1283aa2dc80c000020,Domestic Beer - Light (16 oz),c6404295ac2c8802be666372,drink,none,140.0,0.0,0.0,0.0,8.0,0.0,1.0,20.0,0.0,,16.0,oz,,2018-08-03
+172,Taco Bell,513fbc1283aa2dc80c000020,Caleb's Kola (20 oz) - LV,c6404295df86f76f0a1e8650,drink,none,230.0,0.0,0.0,0.0,60.0,58.0,0.0,115.0,0.0,,20.0,oz,,2018-08-03
+173,Taco Bell,513fbc1283aa2dc80c000020,Mini Quesadilla Nachos,c6404295ffd5c3f7a63339de,entree,none,790.0,40.0,21.0,95.0,69.0,6.0,37.0,2060.0,8.0,,,,,2018-08-03
+174,Taco Bell,513fbc1283aa2dc80c000020,Cheesy Gordita Crunch Supreme,c640597328ed8ed89cf029fa,entree,none,520.0,29.0,11.0,60.0,43.0,5.0,21.0,870.0,5.0,,1.0,Gordita,,2018-08-03
+175,Taco Bell,513fbc1283aa2dc80c000020,Mtn Dew Baja Blast Freeze (16 oz) - LV,c640598331d0fb88710aebb5,drink,none,150.0,0.0,0.0,0.0,42.0,42.0,0.0,40.0,0.0,,13.4,oz,,2017-06-06
+176,Taco Bell,513fbc1283aa2dc80c000020,Breakfast Quesadilla - Steak,c6407164074ff664e002e67b,entree,breakfast,500.0,26.0,12.0,165.0,38.0,2.0,29.0,1260.0,3.0,,1.0,Quesadilla,,2018-08-03
+177,Taco Bell,513fbc1283aa2dc80c000020,Blue Raspberry Freeze (32 oz) - LV,c6409329afe222426a477125,drink,none,360.0,0.0,0.0,0.0,92.0,92.0,0.0,20.0,0.0,,25.1,oz,711.57,2017-06-22
+178,Taco Bell,513fbc1283aa2dc80c000020,Pina Colada Freeze (16 oz),c6409329b07e34122bf07558,drink,none,240.0,0.0,0.0,0.0,59.0,59.0,0.0,10.0,0.0,,16.25,oz,460.68,2017-06-22
+179,Taco Bell,513fbc1283aa2dc80c000020,Blue Raspberry Freeze (20 oz),c6409329e4f0484f14374b98,drink,none,300.0,0.0,0.0,0.0,75.0,75.0,0.0,15.0,0.0,,20.5,oz,581.17,2017-06-22
+180,Taco Bell,513fbc1283aa2dc80c000020,Blue Raspberry Freeze (16 oz) - LV,c6409329fb74399314404328,drink,none,190.0,0.0,0.0,0.0,49.0,49.0,0.0,10.0,0.0,,13.44,oz,381.02,2017-06-22
+181,Taco Bell,513fbc1283aa2dc80c000020,Nacho Cheese Doritos Double Decker Taco,ddee1196861272c66f376f09,entree,none,320.0,13.0,5.0,25.0,36.0,2.0,14.0,750.0,7.0,,1.0,Taco,,2018-08-03
+182,Taco Bell,513fbc1283aa2dc80c000020,Fiery Doritos Double Decker Taco,ddee1196b4d0abfa6d06df71,entree,none,320.0,13.0,4.5,25.0,36.0,2.0,14.0,760.0,7.0,,1.0,Taco,,2018-08-03
+202,Taco Bell,513fbc1283aa2dc80c000020,Beach Berry Freeze (16 oz),32f1387322b65cac04adfb34,drink,none,240.0,0.0,0.0,0.0,59.0,59.0,0.0,10.0,0.0,,16.25,oz,460.68,2018-08-03
+203,Taco Bell,513fbc1283aa2dc80c000020,Skittles Freeze - LV (16 oz),32f164132c738680592ca199,drink,none,130.0,0.0,0.0,0.0,35.0,35.0,0.0,35.0,0.0,,16.0,oz,,2018-08-03
+204,Taco Bell,513fbc1283aa2dc80c000020,Skittles Freeze (20 oz),32f16413578fd305d706ffcf,drink,none,210.0,0.0,0.0,0.0,54.0,54.0,0.0,50.0,0.0,,20.0,oz,,2018-08-03
+205,Taco Bell,513fbc1283aa2dc80c000020,Watermelon Freeze (32 oz) - LV,32f16488cba411ff9a06b5a2,drink,none,330.0,0.0,0.0,0.0,87.0,86.0,0.0,85.0,0.0,,,,,2018-08-03
+206,Taco Bell,513fbc1283aa2dc80c000020,Steak Nachos Box,32f16488e129ffdf67dfb321,entree,none,1060.0,52.0,8.0,60.0,115.0,6.0,34.0,1880.0,15.0,,1.0,Order,,2018-08-03
+207,Taco Bell,513fbc1283aa2dc80c000020,Watermelon Freeze (20 oz),32f16488ecb1802f54a61995,drink,none,270.0,0.0,0.0,0.0,72.0,72.0,0.0,70.0,0.0,,20.0,oz,,2018-08-03
+208,Taco Bell,513fbc1283aa2dc80c000020,Orange Cream Pop Freeze (16 oz),32f1934333b81da08833bf8e,drink,none,130.0,0.0,0.0,0.0,34.0,34.0,0.0,30.0,0.0,,16.25,oz,460.68,2018-04-11
+209,Taco Bell,513fbc1283aa2dc80c000020,Grilled Steak Soft Taco,463d079102cc63bc27cd77c8,entree,none,200.0,10.0,3.5,30.0,17.0,2.0,12.0,510.0,1.0,,1.0,Taco,,2018-08-03
+210,Taco Bell,513fbc1283aa2dc80c000020,Nacho Cheese Doritos Locos Taco,463d079112df69a887755f3e,entree,none,160.0,9.0,3.5,25.0,13.0,1.0,8.0,360.0,3.0,,1.0,Taco,,2018-08-03
+211,Taco Bell,513fbc1283aa2dc80c000020,Fiesta Taco Salad - Chicken,463d07911a4c50142dc1e860,entree,none,720.0,33.0,7.0,65.0,73.0,6.0,32.0,1260.0,8.0,,1.0,Salad,,2018-08-03
+212,Taco Bell,513fbc1283aa2dc80c000020,Cheesy Fiesta Potatoes,463d07911ff33ec475ccee05,side,none,230.0,12.0,2.0,5.0,28.0,2.0,3.0,520.0,2.0,,1.0,Order,,2018-08-03
+213,Taco Bell,513fbc1283aa2dc80c000020,Fiesta Taco Salad - Beef,463d079126dd0a381c93e2d8,entree,none,760.0,39.0,10.0,55.0,78.0,7.0,26.0,1330.0,11.0,,1.0,Salad,,2018-08-03
+214,Taco Bell,513fbc1283aa2dc80c000020,Gordita Supreme - Beef,463d07913348a510d3d75b37,entree,none,280.0,12.0,4.5,30.0,31.0,5.0,13.0,570.0,4.0,,1.0,Gordita,,2018-08-03
+215,Taco Bell,513fbc1283aa2dc80c000020,Chips and Guacamole,463d079134fa756833995b7c,side,none,230.0,14.0,1.5,0.0,23.0,1.0,3.0,310.0,4.0,,1.0,Order,,2018-08-03
+216,Taco Bell,513fbc1283aa2dc80c000020,Nacho Cheese Doritos Cheesy Gordita Crunch,463d07913af68f4cb9a40936,entree,none,490.0,28.0,10.0,55.0,41.0,5.0,20.0,900.0,5.0,,1.0,Gordita,,2018-08-03
+217,Taco Bell,513fbc1283aa2dc80c000020,Power Menu Bowl - Chicken,463d0791591bf3e189d93286,entree,none,500.0,20.0,6.0,70.0,54.0,2.0,27.0,1230.0,8.0,,1.0,Bowl,,2018-08-03
+218,Taco Bell,513fbc1283aa2dc80c000020,Fresco Bean Burrito,463d079159dc17b1f68a4ddb,entree,none,350.0,9.0,2.5,0.0,56.0,3.0,13.0,1050.0,9.0,,1.0,Burrito,,2018-08-03
+219,Taco Bell,513fbc1283aa2dc80c000020,Fresco Soft Taco - Beef,463d07916dc5d60d5d9bea49,entree,none,160.0,6.0,2.5,15.0,18.0,1.0,8.0,480.0,3.0,,1.0,Taco,,2018-08-03
+220,Taco Bell,513fbc1283aa2dc80c000020,Fresco Burrito Supreme - Steak,463d079170cbaa51bbe63076,entree,none,340.0,9.0,3.0,20.0,49.0,4.0,17.0,1090.0,6.0,,1.0,Burrito,,2018-08-03
+221,Taco Bell,513fbc1283aa2dc80c000020,Chips and Nacho Cheese Sauce,463d07917d56bcb9752eb41d,side,none,220.0,12.0,1.0,5.0,24.0,2.0,3.0,330.0,2.0,,1.0,Order,,2018-08-03
+222,Taco Bell,513fbc1283aa2dc80c000020,Beefy Fritos Burrito,463d07918fa25e8a63b33abd,entree,none,440.0,18.0,4.5,20.0,57.0,3.0,13.0,1000.0,5.0,,1.0,Burrito,,2018-08-03
+223,Taco Bell,513fbc1283aa2dc80c000020,Fiesta Taco Salad - Steak,463d079195e49a2a64314a35,entree,none,730.0,34.0,8.0,60.0,75.0,6.0,31.0,1290.0,8.0,,1.0,Salad,,2018-08-03
+224,Taco Bell,513fbc1283aa2dc80c000020,Fresco Soft Taco - Steak,463d07919b65070af7657e77,entree,none,150.0,4.0,1.5,20.0,17.0,2.0,10.0,460.0,2.0,,1.0,Taco,,2018-08-03
+225,Taco Bell,513fbc1283aa2dc80c000020,Nachos Supreme,463d0791b04e87faf2956f7f,side,none,440.0,23.0,4.5,25.0,46.0,3.0,12.0,850.0,8.0,,1.0,Order,,2018-08-03
+226,Taco Bell,513fbc1283aa2dc80c000020,Soft Taco - Chicken,463d0791b8ddfd262810bbbc,entree,none,170.0,8.0,3.0,40.0,16.0,1.0,10.0,450.0,1.0,,1.0,Taco,,2018-08-03
+227,Taco Bell,513fbc1283aa2dc80c000020,Soft Taco - Beef,463d0791bebfcf426f737fa9,entree,none,180.0,9.0,4.0,25.0,18.0,1.0,9.0,500.0,3.0,,1.0,Taco,,2018-08-03
+228,Taco Bell,513fbc1283aa2dc80c000020,Chalupa Supreme - Steak,463d0791c315ee0320d8a9ec,entree,none,330.0,16.0,4.0,30.0,32.0,3.0,15.0,530.0,2.0,,1.0,Chalupa,,2018-08-03
+229,Taco Bell,513fbc1283aa2dc80c000020,Cheesy Bean & Rice Burrito,463d0791c77583bb0512507c,entree,none,430.0,17.0,3.5,5.0,57.0,4.0,11.0,910.0,6.0,,1.0,Burrito,,2018-08-03
+230,Taco Bell,513fbc1283aa2dc80c000020,Quesadilla - Steak,463d0791dfaf026fbb386616,entree,none,510.0,28.0,12.0,70.0,38.0,3.0,27.0,1220.0,4.0,,1.0,Quesadilla,,2018-08-03
+231,Taco Bell,513fbc1283aa2dc80c000020,Cinnamon Twists,463d0791e0cd630701709114,dessert,none,170.0,6.0,0.0,0.0,27.0,13.0,1.0,210.0,1.0,,1.0,Order,,2018-08-03
+232,Taco Bell,513fbc1283aa2dc80c000020,Burrito Supreme - Steak,463d0791e4391417d2b16137,entree,none,390.0,12.0,5.0,35.0,50.0,4.0,19.0,1120.0,6.0,,1.0,Burrito,,2018-08-03
+233,Taco Bell,513fbc1283aa2dc80c000020,Grande Scrambler Burrito - Sausage,463d0791e6c6b31b6420ee41,entree,breakfast,640.0,34.0,9.0,220.0,65.0,4.0,19.0,1310.0,5.0,,1.0,Burrito,,2018-08-03
+234,Taco Bell,513fbc1283aa2dc80c000020,Cheesy Gordita Crunch,463d0791ed26ea53405bca15,entree,none,500.0,28.0,10.0,55.0,41.0,4.0,20.0,850.0,5.0,,1.0,Gordita,,2018-08-03
+235,Taco Bell,513fbc1283aa2dc80c000020,Tropicana Orange Juice,463d6746df6687f34c265d21,drink,none,140.0,0.0,0.0,0.0,33.0,28.0,2.0,20.0,1.0,,1.0,Orange Juice,,2018-08-03
+236,Taco Bell,513fbc1283aa2dc80c000020,"Tortilla Chips, Fire!",5af3f0686621d961175b17a5,side,none,140.0,8.0,0.5,0.0,16.0,1.0,2.0,120.0,2.0,11.0,11.0,chips,28.0,2018-05-10
+237,Taco Bell,513fbc1283aa2dc80c000020,"Tortilla Chips, Mild",5affcd75566881617a8d54d8,side,none,140.0,8.0,0.5,0.0,16.0,1.0,2.0,130.0,1.0,3.0,11.0,chips,28.0,2018-05-19
+238,Taco Bell,513fbc1283aa2dc80c000020,Water,c64028329f4e725a393376b8,drink,none,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,12.0,fl oz,,2018-08-03
+239,Taco Bell,513fbc1283aa2dc80c000020,Stubborn Soda - Black Cherry Taragon (20 oz) - LV,c640429500556804c6816fcb,drink,none,240.0,0.0,0.0,0.0,61.0,61.0,0.0,75.0,0.0,,20.0,oz,,2018-08-03
+240,Taco Bell,513fbc1283aa2dc80c000020,Lowfat Milk - Federal (Regional),c640429503a39dbcd4c585b7,drink,none,80.0,2.0,1.5,10.0,10.0,9.0,7.0,100.0,0.0,,7.0,oz,,2018-08-03
+241,Taco Bell,513fbc1283aa2dc80c000020,Red Wine (6.3 fl oz),c6404295051e02fce26c46f3,drink,none,160.0,0.0,0.0,0.0,5.0,1.0,0.0,5.0,0.0,,6.3,oz,,2018-08-03
+242,Taco Bell,513fbc1283aa2dc80c000020,Stubborn Soda - Black Cherry Tarragon (20 oz),c640429552a1dd819fe7687a,drink,none,240.0,0.0,0.0,0.0,61.0,61.0,0.0,75.0,0.0,,20.0,oz,,2018-08-03
+243,Taco Bell,513fbc1283aa2dc80c000020,Rum (80 proof) - Single - LV,c64042955b5ee751b4fb0572,drink,none,120.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,1.0,Single,,2018-08-03
+244,Taco Bell,513fbc1283aa2dc80c000020,Stubborn Soda - Classic Root Beer (20 oz),c6404295c67ce3df546b4e85,drink,none,280.0,0.0,0.0,0.0,73.0,70.0,0.0,140.0,0.0,,20.0,oz,,2018-08-03
+245,Taco Bell,513fbc1283aa2dc80c000020,Mtn Dew Baja Blast Freeze (16 oz),c6405983fedcb3b766224411,drink,none,180.0,0.0,0.0,0.0,51.0,51.0,0.0,50.0,0.0,,16.2,oz,,2017-06-06
+246,Taco Bell,513fbc1283aa2dc80c000020,Breakfast Quesadilla - Bacon,c6407164118d346cde75cdef,entree,breakfast,510.0,28.0,13.0,160.0,37.0,2.0,26.0,1260.0,4.0,,1.0,Quesadilla,,2018-08-03
+247,Taco Bell,513fbc1283aa2dc80c000020,Pepsi Freeze (20 oz) - LV,c640932902d133fc6d705635,drink,none,140.0,0.0,0.0,0.0,39.0,39.0,0.0,30.0,0.0,,20.5,oz,,2017-06-22
+248,Taco Bell,513fbc1283aa2dc80c000020,Pina Colada Freeze (16 oz) - LV,c640932903becf78d3e3ba6b,drink,none,190.0,0.0,0.0,0.0,49.0,49.0,0.0,10.0,0.0,,13.44,oz,381.02,2017-06-22
+249,Taco Bell,513fbc1283aa2dc80c000020,Pina Colada Freeze (20 oz) - LV,c640932918363634fd63e047,drink,none,300.0,0.0,0.0,0.0,75.0,75.0,0.0,15.0,0.0,,20.5,oz,581.07,2017-06-22
+250,Taco Bell,513fbc1283aa2dc80c000020,Pepsi Freeze (32 oz) - LV,c64093291abe139c3d655ff0,drink,none,180.0,0.0,0.0,0.0,48.0,48.0,0.0,35.0,0.0,,25.1,oz,,2017-06-22
+251,Taco Bell,513fbc1283aa2dc80c000020,Cherry Freeze (16 oz) - LV,c64093294bf48dcd7667a639,drink,none,190.0,0.0,0.0,0.0,49.0,49.0,0.0,10.0,0.0,,13.44,oz,381.02,2017-06-22
+252,Taco Bell,513fbc1283aa2dc80c000020,Cherry Freeze (20 oz) - LV,c64093296c28963db993fd0a,drink,none,300.0,0.0,0.0,0.0,75.0,75.0,0.0,15.0,0.0,,20.5,oz,581.07,2017-06-22
+253,Taco Bell,513fbc1283aa2dc80c000020,Margarita Freeze (16 oz) - LV,c6409329c1cd0773d90b4b5f,drink,none,190.0,0.0,0.0,0.0,49.0,49.0,0.0,10.0,0.0,,13.44,oz,381.02,2017-06-22
+254,Taco Bell,513fbc1283aa2dc80c000020,Chips and Pico de Gallo,ddee21018ed7fc2e2deafaf0,side,none,170.0,8.0,0.5,0.0,22.0,1.0,2.0,170.0,3.0,,1.0,Order,,2018-08-03

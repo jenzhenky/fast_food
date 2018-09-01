@@ -1,0 +1,147 @@
+,brand_name,entree,calories,total_fat,carbs,sugar,protein,saturated_fat,cholesterol,sodium,meal_type,tag
+21,McDonald's,Egg McMuffin,300.0,12.0,30.0,3.0,18.0,6.0,245.0,730.0,entree_only,breakfast
+23,McDonald's,Grilled Onion Cheddar Burger,310.0,13.0,32.0,6.0,15.0,6.0,45.0,640.0,entree_only,none
+33,McDonald's,McDouble,380.0,18.0,34.0,7.0,23.0,8.0,70.0,840.0,entree_only,none
+37,McDonald's,"Ranch Snack Wrap, Grilled",300.0,13.0,25.0,2.0,21.0,4.5,65.0,890.0,entree_only,none
+44,McDonald's,"Premium McWrap Chicken & Ranch, Grilled",490.0,19.0,41.0,5.0,39.0,7.0,120.0,1510.0,entree_only,none
+48,McDonald's,Buffalo Ranch McChicken,360.0,16.0,40.0,5.0,15.0,3.0,40.0,800.0,entree_only,none
+65,McDonald's,Country Ham Biscuit,340.0,14.0,36.0,2.0,15.0,8.0,35.0,1600.0,entree_only,breakfast
+66,McDonald's,Biscuit Chicken Sausage,350.0,17.0,36.0,2.0,13.0,8.0,50.0,1110.0,entree_only,breakfast
+83,McDonald's,Pico Guacamole Grilled Chicken Sandwich on Potato Roll,470.0,17.0,40.0,6.0,38.0,5.0,115.0,1520.0,entree_only,none
+124,McDonald's,Steak & Egg Burrito,350.0,15.0,38.0,3.0,16.0,6.0,115.0,950.0,entree_only,breakfast
+131,McDonald's,Caesar McWrap With Artisan Grilled Chicken,470.0,18.0,40.0,5.0,38.0,5.0,110.0,1440.0,entree_only,none
+137,McDonald's,Green Chili Double Cheeseburger,390.0,18.0,34.0,7.0,23.0,8.0,70.0,760.0,entree_only,none
+170,McDonald's,Chicken McNuggets (6 piece),270.0,16.0,16.0,0.0,15.0,2.5,45.0,510.0,entree_only,none
+225,McDonald's,Portuguese Sausage Side Order,220.0,19.0,2.0,1.0,10.0,7.0,50.0,570.0,entree_only,breakfast
+231,McDonald's,Green Chili Double Cheeseburger New York,390.0,18.0,34.0,7.0,23.0,8.0,70.0,750.0,entree_only,none
+257,McDonald's,Cheeseburger Bacon,360.0,16.0,34.0,7.0,21.0,7.0,55.0,920.0,entree_only,none
+269,McDonald's,Deluxe Artisan Grilled Chicken on Potato Roll,360.0,9.0,36.0,6.0,35.0,2.5,100.0,1140.0,entree_only,none
+279,McDonald's,Chicken Sausage McMuffin,290.0,12.0,29.0,2.0,16.0,6.0,65.0,800.0,entree_only,breakfast
+288,McDonald's,Deluxe Artisan Grilled Chicken on Sesame Seed Bun,360.0,9.0,36.0,7.0,35.0,2.5,100.0,1070.0,entree_only,none
+349,McDonald's,Premium Bacon Ranch Salad with Grilled Chicken,190.0,12.0,9.0,3.0,14.0,5.0,40.0,500.0,entree_only,none
+350,McDonald's,Premium Southwest Salad with Buttermilk Crispy Chicken,160.0,7.0,19.0,4.0,8.0,3.0,15.0,200.0,entree_only,none
+373,McDonald's,Buttermilk Crispy Chicken Tenders (2 piece),240.0,13.0,11.0,0.0,20.0,2.0,50.0,680.0,entree_only,none
+395,McDonald's,Cheeseburger Bacon New York,360.0,16.0,34.0,7.0,20.0,7.0,55.0,920.0,entree_only,none
+432,McDonald's,Cheeseburger,300.0,12.0,33.0,7.0,15.0,5.0,40.0,680.0,entree_only,none
+440,McDonald's,Hamburger,250.0,8.0,31.0,6.0,13.0,3.0,30.0,480.0,entree_only,none
+447,McDonald's,McChicken,350.0,15.0,40.0,5.0,15.0,3.5,40.0,600.0,entree_only,none
+450,McDonald's,Premium Bacon Ranch Salad without chicken,320.0,14.0,9.0,4.0,42.0,6.0,135.0,1230.0,entree_only,none
+452,McDonald's,Sausage Burrito,290.0,15.0,26.0,2.0,13.0,6.0,165.0,800.0,entree_only,breakfast
+465,McDonald's,Pico Guacamole Artisan Grilled Chicken without Bun,300.0,15.0,8.0,2.0,32.0,4.5,115.0,1200.0,entree_only,none
+476,McDonald's,Hamburger New York,250.0,8.0,31.0,6.0,13.0,3.0,30.0,470.0,entree_only,none
+480,McDonald's,McChicken Deluxe,430.0,19.0,47.0,7.0,18.0,6.0,55.0,830.0,entree_only,none
+481,McDonald's,Chorizo Burrito,310.0,15.0,28.0,3.0,16.0,6.0,175.0,820.0,entree_only,breakfast
+496,McDonald's,Bagel With Cream Cheese,310.0,8.0,49.0,6.0,10.0,4.0,25.0,570.0,entree_only,breakfast
+512,McDonald's,Bagel Plain,260.0,2.0,50.0,5.0,10.0,0.0,0.0,500.0,entree_only,breakfast
+517,McDonald's,Bacon and White Cheddar Cheese McMuffin,350.0,16.0,30.0,3.0,20.0,7.0,255.0,770.0,entree_only,breakfast
+553,McDonald's,Chicken McNuggets (4 piece),180.0,11.0,11.0,0.0,10.0,2.0,30.0,340.0,entree_only,none
+601,McDonald's,Lobster Roll,290.0,5.0,35.0,3.0,24.0,1.5,65.0,630.0,entree_only,none
+602,McDonald's,Cheeseburger New York,300.0,12.0,33.0,7.0,15.0,5.0,40.0,670.0,entree_only,none
+613,McDonald's,Pico Guacamole Artisan Grilled Chicken on Sesame Seed Bun,470.0,18.0,40.0,7.0,38.0,5.0,115.0,1450.0,entree_only,none
+619,McDonald's,Bacon Biscuit,340.0,17.0,36.0,3.0,10.0,9.0,20.0,1010.0,entree_only,breakfast
+631,McDonald's,McChicken Hot 'N Spicy Patty,160.0,10.0,11.0,0.0,9.0,2.0,35.0,300.0,entree_only,none
+635,Wendy's,Crispy Chicken Sandwich,330.0,16.0,33.0,4.0,14.0,3.0,30.0,600.0,entree_only,none
+636,Wendy's,Grilled Chicken Wrap,270.0,10.0,24.0,3.0,20.0,3.5,55.0,640.0,entree_only,none
+656,Wendy's,Artisan Egg Sandwich with Applewood Smoked Bacon,360.0,19.0,29.0,4.0,20.0,8.0,250.0,750.0,entree_only,none
+666,Wendy's,Kids' 4-Piece Chicken Nuggets,170.0,11.0,10.0,0.0,9.0,2.0,35.0,340.0,entree_only,none
+668,Wendy's,Jr. Cheeseburger,280.0,13.0,25.0,5.0,16.0,6.0,50.0,740.0,entree_only,none
+675,Wendy's,1/4 lb. Hamburger Patty,240.0,18.0,0.0,0.0,20.0,7.0,75.0,280.0,entree_only,none
+676,Wendy's,Homestyle Chicken Breast,280.0,13.0,17.0,0.0,23.0,2.5,70.0,710.0,entree_only,none
+680,Wendy's,Garden Side Salad with Ranch Dressing,260.0,18.0,19.0,4.0,7.0,4.5,20.0,460.0,entree_only,none
+691,Wendy's,6-Piece Chicken Nuggets,250.0,16.0,14.0,0.0,13.0,3.5,50.0,510.0,entree_only,none
+695,Wendy's,Kids' Grilled Chicken Wrap,270.0,10.0,24.0,3.0,20.0,3.5,55.0,640.0,entree_only,none
+698,Wendy's,Kids' Hamburger,240.0,9.0,24.0,5.0,13.0,3.5,40.0,420.0,entree_only,none
+701,Wendy's,3-Piece Chicken Tenders,300.0,14.0,20.0,0.0,22.0,2.5,70.0,920.0,entree_only,none
+705,Wendy's,Jr. Cheeseburger Deluxe,330.0,19.0,27.0,6.0,16.0,7.0,55.0,740.0,entree_only,none
+706,Wendy's,Homestyle Chicken Wrap,340.0,16.0,32.0,4.0,17.0,0.5,50.0,820.0,entree_only,none
+710,Wendy's,Jr. Hamburger Patty,110.0,8.0,0.0,0.0,9.0,3.5,40.0,130.0,entree_only,none
+711,Wendy's,Jr. Sandwich Bun,120.0,1.5,23.0,4.0,4.0,0.0,0.0,210.0,entree_only,none
+712,Wendy's,Grilled Chicken Breast,130.0,2.0,0.0,0.0,29.0,0.5,90.0,370.0,entree_only,none
+722,Wendy's,Premium Cod,180.0,9.0,14.0,0.0,11.0,2.0,30.0,480.0,entree_only,none
+723,Wendy's,Kids' Cheeseburger,270.0,13.0,25.0,5.0,15.0,6.0,50.0,620.0,entree_only,none
+733,Wendy's,4-Piece Chicken Tenders,400.0,19.0,26.0,1.0,29.0,3.0,90.0,1230.0,entree_only,none
+744,Wendy's,Spicy Chicken Breast,270.0,12.0,16.0,0.0,24.0,2.5,70.0,750.0,entree_only,none
+771,Wendy's,Kids' 2-Piece Chicken Tenders,200.0,10.0,13.0,0.0,15.0,1.5,45.0,620.0,entree_only,none
+778,Burger King,Kids Cheeseburger,270.0,12.0,27.0,7.0,13.0,5.0,40.0,560.0,entree_only,none
+788,Burger King,Hamburger,220.0,8.0,26.0,6.0,11.0,3.0,30.0,380.0,entree_only,none
+789,Burger King,Bacon Cheeseburger,300.0,15.0,27.0,7.0,15.0,6.0,50.0,710.0,entree_only,none
+790,Burger King,Grilled Chicken Sandwich,470.0,19.0,39.0,7.0,37.0,4.0,85.0,840.0,entree_only,none
+817,Burger King,Bacon Cheeseburger Deluxe,290.0,13.0,28.0,7.0,14.0,6.0,45.0,640.0,entree_only,none
+822,Burger King,Garden Side Salad without dressing,60.0,4.0,3.0,2.0,4.0,2.5,10.0,95.0,entree_only,none
+840,Burger King,"Chicken Nuggets, 6 piece",260.0,16.0,16.0,0.0,12.0,2.5,35.0,470.0,entree_only,none
+841,Burger King,Grilled Chicken Sandwich without Mayo,370.0,7.0,39.0,7.0,36.0,2.0,75.0,740.0,entree_only,none
+844,Burger King,Value Menu Chicken Nuggets,170.0,11.0,11.0,0.0,8.0,1.5,25.0,310.0,entree_only,none
+853,Burger King,Whopper Jr Sandwich,310.0,18.0,27.0,7.0,13.0,5.0,40.0,390.0,entree_only,none
+854,Burger King,Double Cheeseburger,350.0,18.0,27.0,7.0,20.0,8.0,70.0,580.0,entree_only,none
+855,Burger King,"Kids Chicken Nuggets, 4 piece",170.0,11.0,11.0,0.0,8.0,1.5,25.0,310.0,entree_only,none
+883,Burger King,Value Menu Bacon Cheeseburger,280.0,13.0,27.0,7.0,14.0,6.0,45.0,630.0,entree_only,none
+886,Burger King,Value Menu Double Cheeseburger,360.0,18.0,27.0,7.0,20.0,8.0,70.0,580.0,entree_only,none
+892,Burger King,"Kids Chicken Nuggets, 6 piece",260.0,16.0,16.0,0.0,12.0,2.5,35.0,470.0,entree_only,none
+897,Burger King,Croissan'Wich Egg & Cheese,300.0,15.0,30.0,4.0,11.0,7.0,130.0,580.0,entree_only,none
+914,Burger King,Original Chicken Sandwich without Mayo,450.0,16.0,48.0,4.0,28.0,3.5,60.0,990.0,entree_only,none
+921,Burger King,Chili Cheese Grilled Dog,330.0,19.0,28.0,5.0,14.0,8.0,40.0,980.0,entree_only,none
+928,Taco Bell,Soft Taco Supreme - Beef,210.0,10.0,20.0,2.0,10.0,4.5,30.0,520.0,entree_only,none
+930,Taco Bell,Triple Layer Nachos,320.0,15.0,41.0,2.0,7.0,1.5,0.0,610.0,entree_only,none
+931,Taco Bell,Fresco Soft Taco - Shredded Chicken,150.0,6.0,16.0,1.0,9.0,2.0,30.0,430.0,entree_only,none
+933,Taco Bell,Beefy Nacho Loaded Griller,370.0,15.0,48.0,3.0,12.0,4.0,20.0,820.0,entree_only,none
+934,Taco Bell,Shredded Chicken Mini Quesadilla,200.0,10.0,15.0,1.0,10.0,3.5,40.0,490.0,entree_only,none
+936,Taco Bell,Grilled Breakfast Burrito - Fiesta Potato,340.0,14.0,43.0,3.0,10.0,3.5,100.0,780.0,entree_only,breakfast
+937,Taco Bell,Burrito Supreme - Beef,400.0,15.0,52.0,4.0,17.0,6.0,30.0,1140.0,entree_only,breakfast
+939,Taco Bell,Double Decker Taco Supreme,340.0,15.0,39.0,3.0,14.0,6.0,30.0,730.0,entree_only,none
+940,Taco Bell,Gordita Supreme - Chicken,260.0,9.0,29.0,5.0,16.0,3.0,35.0,540.0,entree_only,none
+943,Taco Bell,Chipotle Chicken Loaded Griller,340.0,16.0,36.0,3.0,14.0,4.5,35.0,770.0,entree_only,none
+945,Taco Bell,Breakfast Soft Taco - Bacon,230.0,14.0,15.0,1.0,12.0,5.0,120.0,560.0,entree_only,breakfast
+946,Taco Bell,Crunchy Taco Supreme,190.0,11.0,15.0,2.0,8.0,4.5,30.0,340.0,entree_only,none
+947,Taco Bell,Burrito Supreme - Chicken,380.0,12.0,49.0,4.0,20.0,5.0,35.0,1110.0,entree_only,breakfast
+948,Taco Bell,Chili Cheese Burrito (regional),370.0,17.0,40.0,2.0,16.0,8.0,40.0,960.0,entree_only,breakfast
+949,Taco Bell,Fiery Doritos Locos Taco Supreme,190.0,11.0,15.0,2.0,8.0,4.5,30.0,390.0,entree_only,none
+972,Taco Bell,Cool Ranch Doritos Double Decker Taco,320.0,13.0,36.0,2.0,13.0,5.0,25.0,770.0,entree_only,none
+979,Taco Bell,Fresco Burrito Supreme - Chicken,340.0,8.0,48.0,4.0,18.0,2.5,25.0,1070.0,entree_only,breakfast
+980,Taco Bell,Fresco Crunchy Taco - Beef,140.0,7.0,14.0,1.0,6.0,2.5,15.0,300.0,entree_only,none
+982,Taco Bell,Beefy 5-Layer Burrito,500.0,19.0,64.0,5.0,19.0,7.0,30.0,1280.0,entree_only,breakfast
+983,Taco Bell,Double Decker Taco,320.0,13.0,36.0,2.0,13.0,4.5,25.0,710.0,entree_only,none
+985,Taco Bell,Spicy Potato Soft Taco,230.0,12.0,27.0,1.0,5.0,3.0,10.0,460.0,entree_only,none
+989,Taco Bell,Fiery Doritos Locos Taco,170.0,9.0,13.0,1.0,8.0,3.5,25.0,370.0,entree_only,none
+993,Taco Bell,Nacho Cheese Doritos Locos Taco Supreme,190.0,11.0,15.0,2.0,8.0,4.5,30.0,380.0,entree_only,none
+994,Taco Bell,Breakfast Soft Taco - Sausage,230.0,14.0,15.0,1.0,9.0,5.0,115.0,400.0,entree_only,breakfast
+995,Taco Bell,Double Tostada (regional),270.0,11.0,32.0,2.0,12.0,4.0,15.0,660.0,entree_only,none
+1001,Taco Bell,Tequila (80 proof) - Double - LV,250.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,entree_only,none
+1004,Taco Bell,Rum (80 proof) - Double - LV,250.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,entree_only,none
+1005,Taco Bell,Vodka (80 proof) - Double - LV,250.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,entree_only,none
+1020,Taco Bell,Sausage Flatbread Quesadilla,330.0,18.0,27.0,3.0,14.0,6.0,120.0,520.0,entree_only,breakfast
+1021,Taco Bell,Mini Skillet Bowl,180.0,11.0,16.0,1.0,5.0,2.0,100.0,430.0,entree_only,none
+1026,Taco Bell,Meximelt,250.0,13.0,19.0,1.0,14.0,7.0,40.0,720.0,entree_only,none
+1027,Taco Bell,Chalupa Supreme - Beef,350.0,18.0,33.0,3.0,13.0,5.0,25.0,560.0,entree_only,none
+1028,Taco Bell,Power Menu Bowl - Veggie,480.0,19.0,65.0,2.0,14.0,5.0,20.0,970.0,entree_only,none
+1031,Taco Bell,Gordita Supreme - Steak,270.0,9.0,30.0,5.0,16.0,3.5,30.0,550.0,entree_only,none
+1032,Taco Bell,Cool Ranch Doritos Locos Taco Supreme,190.0,11.0,15.0,2.0,8.0,4.5,30.0,400.0,entree_only,none
+1034,Taco Bell,Bean Burrito,380.0,11.0,55.0,3.0,14.0,4.0,5.0,1060.0,entree_only,breakfast
+1037,Taco Bell,Power Menu Burrito - Veggie,430.0,19.0,52.0,4.0,14.0,6.0,20.0,940.0,entree_only,breakfast
+1039,Taco Bell,Spicy Tostada,210.0,10.0,22.0,1.0,6.0,3.0,10.0,440.0,entree_only,none
+1040,Taco Bell,Crunchy Taco,170.0,9.0,13.0,1.0,8.0,3.5,25.0,310.0,entree_only,none
+1049,Taco Bell,Whiskey (80 proof) - Double - LV,250.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,entree_only,none
+1066,Taco Bell,Chalupa Supreme - Chicken,330.0,16.0,31.0,3.0,16.0,3.5,35.0,520.0,entree_only,none
+1069,Taco Bell,Grilled Breakfast Burrito - Bacon,350.0,17.0,37.0,3.0,13.0,4.5,115.0,890.0,entree_only,breakfast
+1072,Taco Bell,Cool Ranch Doritos Locos Taco,170.0,10.0,13.0,1.0,8.0,3.5,25.0,380.0,entree_only,none
+1073,Taco Bell,Breakfast Soft Taco - Egg & Cheese,170.0,9.0,15.0,1.0,7.0,3.0,105.0,330.0,entree_only,breakfast
+1074,Taco Bell,Combo Burrito,450.0,18.0,51.0,3.0,21.0,7.0,40.0,1380.0,entree_only,breakfast
+1075,Taco Bell,7-Layer Burrito,440.0,16.0,59.0,4.0,14.0,6.0,15.0,1000.0,entree_only,breakfast
+1079,Taco Bell,Cheesy Potato Griller,340.0,13.0,50.0,3.0,8.0,3.0,5.0,780.0,entree_only,none
+1084,Taco Bell,Beefy Mini Quesadilla,210.0,11.0,17.0,1.0,9.0,4.0,25.0,540.0,entree_only,none
+1085,Taco Bell,Grilled Breakfast Burrito - Sausage,340.0,17.0,36.0,3.0,11.0,5.0,110.0,730.0,entree_only,breakfast
+1088,Taco Bell,Black Bean Burrito,390.0,11.0,60.0,2.0,13.0,4.0,10.0,1020.0,entree_only,breakfast
+1104,Taco Bell,Nacho Cheese Doritos Double Decker Taco,320.0,13.0,36.0,2.0,14.0,5.0,25.0,750.0,entree_only,none
+1105,Taco Bell,Fiery Doritos Double Decker Taco,320.0,13.0,36.0,2.0,14.0,4.5,25.0,760.0,entree_only,none
+1113,Taco Bell,Grilled Steak Soft Taco,200.0,10.0,17.0,2.0,12.0,3.5,30.0,510.0,entree_only,none
+1114,Taco Bell,Nacho Cheese Doritos Locos Taco,160.0,9.0,13.0,1.0,8.0,3.5,25.0,360.0,entree_only,none
+1118,Taco Bell,Gordita Supreme - Beef,280.0,12.0,31.0,5.0,13.0,4.5,30.0,570.0,entree_only,none
+1122,Taco Bell,Fresco Bean Burrito,350.0,9.0,56.0,3.0,13.0,2.5,0.0,1050.0,entree_only,breakfast
+1123,Taco Bell,Fresco Soft Taco - Beef,160.0,6.0,18.0,1.0,8.0,2.5,15.0,480.0,entree_only,none
+1124,Taco Bell,Fresco Burrito Supreme - Steak,340.0,9.0,49.0,4.0,17.0,3.0,20.0,1090.0,entree_only,breakfast
+1126,Taco Bell,Beefy Fritos Burrito,440.0,18.0,57.0,3.0,13.0,4.5,20.0,1000.0,entree_only,breakfast
+1128,Taco Bell,Fresco Soft Taco - Steak,150.0,4.0,17.0,2.0,10.0,1.5,20.0,460.0,entree_only,none
+1130,Taco Bell,Soft Taco - Chicken,170.0,8.0,16.0,1.0,10.0,3.0,40.0,450.0,entree_only,none
+1131,Taco Bell,Soft Taco - Beef,180.0,9.0,18.0,1.0,9.0,4.0,25.0,500.0,entree_only,none
+1132,Taco Bell,Chalupa Supreme - Steak,330.0,16.0,32.0,3.0,15.0,4.0,30.0,530.0,entree_only,none
+1133,Taco Bell,Cheesy Bean & Rice Burrito,430.0,17.0,57.0,4.0,11.0,3.5,5.0,910.0,entree_only,breakfast
+1136,Taco Bell,Burrito Supreme - Steak,390.0,12.0,50.0,4.0,19.0,5.0,35.0,1120.0,entree_only,breakfast
